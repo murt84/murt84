@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="ext" group-title="Mp3",Hadise - Hay Hay
+https://media1.vocaroo.com/mp3/139bwHfxVXf9
+
 #EXTINF:0 tvg-id="ext" group-title="Mp3",Ziynet Sali - Efkarim Var
 https://media1.vocaroo.com/mp3/11LgU7PXrSVF
 
@@ -10,13 +13,13 @@ https://media1.vocaroo.com/mp3/1lttMSO8CseU
 #EXTINF:0 tvg-id="ext" group-title="Mp3",Zehra Gülüç - Nefret (Samet Yıldırım Remix)
 https://media1.vocaroo.com/mp3/11SVkFpeTxiN
 
-#EXTINF:0 tvg-id="ext" group-title="Mp3",sasa - denize yakilan türkü
+#EXTINF:0 tvg-id="ext" group-title="Mp3",Sasa - denize yakilan türkü
 https://media1.vocaroo.com/mp3/13LOKL8OaD37
 
 #EXTINF:0 tvg-id="ext" group-title="Mp3",Yıldız Tilbe - Seninle Derdim Çok
 https://server1.indiryuklemp3.org/mp3_files/f2eea06a29e057e47f8d9e1418a018b7.mp3
 
-#EXTINF:0 tvg-id="ext" group-title="Mp3",naz dej - leylayım ben sana remix
+#EXTINF:0 tvg-id="ext" group-title="Mp3",Naz dej - leylayım ben sana remix
 https://server1.indiryuklemp3.org/mp3_files/49d81670f5eb047721b665993ef77e06.mp3
 
 #EXTINF:0 tvg-id="ext" group-title="Mp3",Ramiz - rest gönder gelsin 2020
