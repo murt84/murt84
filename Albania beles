@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ABCNews.al" group-title="News",ABC News
+http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
+#EXTINF:0 tvg-id="ABCNews.al" group-title="News",ABC News (540p) [Not 24/7]
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",AlbUK TV (1080p)
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Apollon TV
+http://185.80.224.14:1935/live/smil:web.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",EuroAl TV
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Albania
+http://51.195.88.12:4050/live/euronewsmobpp2/playlist.m3u8
+#EXTINF:0 tvg-id="News24.al" group-title="News",News 24 (576p)
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Peace TV Albanian (Peace TV Shqip)
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0 tvg-id="RTK.al" group-title="News",RTK 1 HD (720p)
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RTK 2 (720p)
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RTK 3 (720p)
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RTK 4 (720p)
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",RTV Ilirida (274p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
+#EXTINF:0 tvg-id="SyriTV.al" group-title="News",Syri TV
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:0 tvg-id="ext" group-title="News",TV 7 Albania (540p)
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",TV Koha
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:0 tvg-id="ext" group-title="News",Zjarr Televizion (1080p)
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
