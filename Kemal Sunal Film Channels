@@ -1,1 +1,14 @@
 
+#EXTM3U
+#EXTINF:0 tvg-id="news24" group-title="Channels",Şaban 1
+http://145.239.37.125:20458/sabantv/sabantv/chunklist_w483318195.m3u8
+
+
+#EXTINF:0 tvg-id="news24" group-title="Channels",Şaban 2
+http://145.239.37.125:20458/sabantv2/sabantv2/playlist.m3u8
+
+#EXTINF:0 tvg-id="news24" group-title="Channels",Şaban 3
+http://fidece38941.ozelip.com:2052/sabantv/sabantv/playlist.m3u8
+
+#EXTINF:0 tvg-id="news24" group-title="Channels",Şaban 4
+http://145.239.37.125:20458/sabantv4/sabantv4/playlist.m3u8
