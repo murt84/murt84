@@ -1,1 +1,23 @@
-http://ibb-media4.ibb.gov.tr:1935/live/134.stream/chunklist_w2117719496.m3u8
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 1
+http://ibb-media4.ibb.gov.tr:1935/live/1.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 2
+http://ibb-media4.ibb.gov.tr:1935/live/2.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 3
+http://ibb-media4.ibb.gov.tr:1935/live/3.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 4
+http://ibb-media4.ibb.gov.tr:1935/live/4.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 5
+http://ibb-media4.ibb.gov.tr:1935/live/5.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 6
+http://ibb-media4.ibb.gov.tr:1935/live/6.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 7
+http://ibb-media4.ibb.gov.tr:1935/live/7.stream/chunklist_w2117719496.m3u8
