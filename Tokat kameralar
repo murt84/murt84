@@ -12,4 +12,8 @@ http://212.156.98.150:1936/Kamera/Meydan.stream/chunklist_w40575071.m3u8
 http://212.156.98.150:1936/Kamera/Stadyum.stream/chunklist_w797636736.m3u8
 
 
+#EXTINF:0 tvg-id="news24" group-title="Channels",Tokat Erbaa Meydan
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1628548757/ei/NVoRYfy-L8HryQXm1aLYDQ/ip/2001:14bb:ca:c349:bde6:f64d:12cb:a281/id/dcDdLbhJ50E.9/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-qo5-2vgs.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/7990/mh/Tp/mm/44/mn/sn-qo5-2vgs/ms/lva/mv/m/mvi/1/pl/50/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1628526989/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgb2gzRyu45el6xu3KzL-oA1b_ujiU0NsaU8dOVOznWPMCIQCCnKGZWjvJOo9BEvMXQRJkmBGVNzx1-ePMSwBUuoAeqg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgBAG8FyqdjG8XZH9f5jnQRmd9ClieHf36AbgHgNTgXAICIQDowehPiHP77eBYcbC-rfN5A7Leg4kJS67oT_4wn9i90g%3D%3D/playlist/index.m3u8
+
+
 
