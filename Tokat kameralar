@@ -5,5 +5,11 @@ http://212.156.98.150:1936/Kamera/Kale.stream/chunklist_w807381484.m3u8
 #EXTINF:0 tvg-id="news24" group-title="Channels",Tokat Meydan
 http://212.156.98.150:1936/Kamera/Meydan.stream/chunklist_w645882754.m3u8
 
+#EXTINF:0 tvg-id="news24" group-title="Channels",Tokat Meydan 2
+http://212.156.98.150:1936/Kamera/Meydan.stream/chunklist_w40575071.m3u8
+
 #EXTINF:0 tvg-id="news24" group-title="Channels",Tokat Stadyum
 http://212.156.98.150:1936/Kamera/Stadyum.stream/chunklist_w797636736.m3u8
+
+
+
