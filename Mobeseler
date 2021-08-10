@@ -49,20 +49,20 @@ http://ibb-media4.ibb.gov.tr:1935/live/46.stream/chunklist_w2117719496.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 16
 http://ibb-media4.ibb.gov.tr:1935/live/47.stream/chunklist_w2117719496.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese17
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 17
 http://ibb-media4.ibb.gov.tr:1935/live/49.stream/chunklist_w2117719496.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 18
+http://ibb-media4.ibb.gov.tr:1935/live/51.stream/chunklist_w2117719496.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 19
+http://ibb-media4.ibb.gov.tr:1935/live/57.stream/chunklist_w2117719496.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 20
+http://ibb-media4.ibb.gov.tr:1935/live/60.stream/chunklist_w2117719496.m3u8
 
-
-#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese
-
-
-#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese
-
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 21
+http://ibb-media4.ibb.gov.tr:1935/live/64.stream/chunklist_w2117719496.m3u8
 
 
 
