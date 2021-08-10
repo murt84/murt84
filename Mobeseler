@@ -136,8 +136,8 @@ http://ibb-media4.ibb.gov.tr:1935/live/11.stream/chunklist_w2117719496.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 44
 http://ibb-media4.ibb.gov.tr:1935/live/12.stream/chunklist_w2117719496.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese
-
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 45
+http://ibb-media4.ibb.gov.tr:1935/live/400.stream/chunklist_w2117719496.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese
 
