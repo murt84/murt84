@@ -166,8 +166,8 @@ http://ibb-media4.ibb.gov.tr:1935/live/26.stream/chunklist_w2117719496.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 54
 http://ibb-media4.ibb.gov.tr:1935/live/27.stream/chunklist_w2117719496.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 55
-http://ibb-media4.ibb.gov.tr:1935/live/29.stream/chunklist_w2117719496.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",istiklal caddesi
+http://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_1.stream/chunklist_w1380779073.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 56
 http://ibb-media2.ibb.gov.tr:1935/live/564.stream/chunklist_w747483282.m3u8
