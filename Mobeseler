@@ -137,16 +137,40 @@ http://ibb-media4.ibb.gov.tr:1935/live/11.stream/chunklist_w2117719496.m3u8
 http://ibb-media4.ibb.gov.tr:1935/live/12.stream/chunklist_w2117719496.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 45
-http://ibb-media4.ibb.gov.tr:1935/live/400.stream/chunklist_w2117719496.m3u8
+http://ibb-media4.ibb.gov.tr:1935/live/14.stream/chunklist_w2117719496.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 46
+http://ibb-media4.ibb.gov.tr:1935/live/15.stream/chunklist_w2117719496.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 47
+http://ibb-media4.ibb.gov.tr:1935/live/16.stream/chunklist_w2117719496.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 48
+http://ibb-media4.ibb.gov.tr:1935/live/18.stream/chunklist_w2117719496.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 49
+http://ibb-media4.ibb.gov.tr:1935/live/20.stream/chunklist_w2117719496.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 50
+http://ibb-media4.ibb.gov.tr:1935/live/22.stream/chunklist_w2117719496.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 51
+http://ibb-media4.ibb.gov.tr:1935/live/23.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 52
+http://ibb-media4.ibb.gov.tr:1935/live/24.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 53
+http://ibb-media4.ibb.gov.tr:1935/live/26.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 54
+http://ibb-media4.ibb.gov.tr:1935/live/27.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 55
+http://ibb-media4.ibb.gov.tr:1935/live/29.stream/chunklist_w2117719496.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",mobese 56
+http://ibb-media4.ibb.gov.tr:1935/live/30.stream/chunklist_w2117719496.m3u8
 
 
 
