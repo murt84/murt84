@@ -47,32 +47,32 @@ http://cdn6.video.az/storage/movie/13/12824/video.mp4
 http://cdn4.video.az/storage/movie/13/12823/video.mp4
 
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Bıçkın (1988)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Bıçkın (1988)
 http://cdn11.video.az/storage/movie/13/12820/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Kanlı Nigar (1981)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Kanlı Nigar (1981)
 http://cdn10.video.az/storage/movie/13/12819/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Doktor Civanım (1982)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Doktor Civanım (1982)
 http://cdn8.video.az/storage/movie/13/12818/video.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Garip (1986)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Garip (1986)
 http://cdn6.video.az/storage/movie/13/12816/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Köyden İndim Şehire (1974)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Köyden İndim Şehire (1974)
 http://cdn4.video.az/storage/movie/13/12815/video.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Orhan Aksoy (1989)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Orhan Aksoy (1989)
 http://cdn6.video.az/storage/movie/13/12800/video.mp4
 
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Kiracı (1987)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Kiracı (1987)
 http://cdn10.video.az/storage/movie/12/12798/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Çöpçüler Kralı (1977)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Çöpçüler Kralı (1977)
 http://cdn8.video.az/storage/movie/12/12797/video.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",İnek Şaban (1978)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",İnek Şaban (1978)
 http://cdn6.video.az/storage/movie/12/12795/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Umudumuz Şaban (1979)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Umudumuz Şaban (1979)
 http://cdn4.video.az/storage/movie/12/12794/video.mp4
 
 
-#EXTINF:-1,Film Galerisi (videodan linki alın)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Film Galerisi (videodan linki alın)
 https://cloclo55.cloud.mail.ru/videowl/1080p_1/Ym1xRC9ENkNUeG5VUk4=.m3u8?double_encode=1
