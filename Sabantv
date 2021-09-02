@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,SabanTv
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Kemal Sunal Hakkında
 https://cloclo2.cloud.mail.ru/videowl/1080p_1/aHo0Yi9CVkR1Z3ZqN1c=.m3u8?double_encode=1
 
 #EXTINF:-1,Kemal Sunal Belgesel
