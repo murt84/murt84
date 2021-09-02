@@ -18,75 +18,62 @@ http://fidece38941.ozelip.com:2052/sabantv/sabantv/playlist.m3u8
 #EXTINF:-1,24/7 Kemal Sunal 4
 http://145.239.37.125:20458/sabantv4/sabantv4/playlist.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hababam Sınıfı (1974)
-http://cdn11.video.az/storage/movie/12/12666/video.mp4
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",Hababam Sınıfı Sınıfta Kaldı (1975
 http://cdn10.video.az/storage/movie/12/12665/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hababam Sınıfı Uyanıyor (1976)
-http://cdn7.video.az/storage/movie/12/12663/video.mp4
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",Hababam Sınıfı Tatilde (1977)
 http://cdn8.video.az/storage/movie/12/12664/video.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Hababam Sınıfı Dokuz Doğuruyor (1978)
 http://cdn6.video.az/storage/movie/12/12662/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Hababam Sınıfı Güle Güle (1981)
-http://cdn2.video.az/storage/movie/12/12661/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Şaban Oğlu Şaban (1977)
-http://cdn11.video.az/storage/movie/13/12976/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Süt Kardeşler (1976)
-http://cdn12.video.az/storage/movie/13/12977/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Salako (1974)
-http://cdn7.video.az/storage/movie/13/12979/video.mp4
+
+
+
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",Tosun Paşa (1976)
 http://cdn6.video.az/storage/movie/13/12978/video.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Kibar Feyzo (1978)
 http://cdn10.video.az/storage/movie/13/12975/video.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Gurbetçi Şaban (1985)
 http://cdn8.video.az/storage/movie/13/12974/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Kılıbık (1983)
-http://cdn7.video.az/storage/movie/13/12973/video.mp4
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",Yüz Numaralı Adam (1978)
 http://cdn6.video.az/storage/movie/13/12972/video.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Devlet Kuşu (1980)
 http://cdn4.video.az/storage/movie/13/12971/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Salak Milyoner (1974)
-http://cdn2.video.az/storage/movie/13/12970/video.mp4
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",Postacı (1984)
 http://cdn6.video.az/storage/movie/13/12824/video.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Deli Deli Küpeli (1986)
 http://cdn4.video.az/storage/movie/13/12823/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Katma Değer Şaban (1985)
-http://cdn2.video.az/storage/movie/13/12822/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Yakışıklı (1987)
-http://cdn12.video.az/storage/movie/13/12821/video.mp4
+
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",Bıçkın (1988)
 http://cdn11.video.az/storage/movie/13/12820/video.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Kanlı Nigar (1981)
 http://cdn10.video.az/storage/movie/13/12819/video.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Doktor Civanım (1982)
 http://cdn8.video.az/storage/movie/13/12818/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Gol Kralı (1981)
-http://cdn7.video.az/storage/movie/13/12817/video.mp4
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",Garip (1986)
 http://cdn6.video.az/storage/movie/13/12816/video.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Köyden İndim Şehire (1974)
 http://cdn4.video.az/storage/movie/13/12815/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Ortadirek Şaban (1984)
-http://cdn2.video.az/storage/movie/13/12802/video.mp4
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",Orhan Aksoy (1989)
 http://cdn6.video.az/storage/movie/13/12800/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Oh Olsun (1973)
-http://cdn12.video.az/storage/movie/13/12801/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Mavi Boncuk (1974)
-http://cdn11.video.az/storage/movie/12/12799/video.mp4
+
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",Kiracı (1987)
 http://cdn10.video.az/storage/movie/12/12798/video.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Çöpçüler Kralı (1977)
 http://cdn8.video.az/storage/movie/12/12797/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Dokunmayın Şabanıma (1979)
-http://cdn7.video.az/storage/movie/12/12796/video.mp4
+
 #EXTINF:0 tvg-id="avi" group-title="Videos",İnek Şaban (1978)
 http://cdn6.video.az/storage/movie/12/12795/video.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Umudumuz Şaban (1979)
 http://cdn4.video.az/storage/movie/12/12794/video.mp4
-#EXTINF:0 tvg-id="avi" group-title="Videos",Bekçiler Kralı (1979)
-http://cdn2.video.az/storage/movie/12/12793/video.mp4
+
+
+#EXTINF:-1,Film Galerisi (videodan linki alın)
+https://cloclo55.cloud.mail.ru/videowl/1080p_1/Ym1xRC9ENkNUeG5VUk4=.m3u8?double_encode=1
