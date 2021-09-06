@@ -1,0 +1,880 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="########## Germany ##########" tvg-logo="http://pici.life/Germany.png" group-title="Germany",########## Germany ##########
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6267
+#EXTINF:-1 tvg-id="" tvg-name="------- Main & Regional -------" tvg-logo="" group-title="Germany",------- Main & Regional -------
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/678832
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD DE" tvg-logo="http://pici.life/DE/daserstehd.png" group-title="Germany",Das Erste HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13166
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste [B] HD DE" tvg-logo="http://pici.life/daserstehd_2.png" group-title="Germany",Das Erste [B] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6262
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste DE" tvg-logo="http://pici.life/daserstehd_2.png" group-title="Germany",Das Erste DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6256
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF FHD DE" tvg-logo="http://pici.life/zdfhd.png" group-title="Germany",ZDF FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6151
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD DE" tvg-logo="http://pici.life/DE/zdf.png" group-title="Germany",ZDF HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/17011
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF Neo HD DE" tvg-logo="http://pici.life/DE/zdfneoo.png" group-title="Germany",ZDF Neo HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/17304
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL FHD DE" tvg-logo="http://pici.life/DE/rtlhd.png" group-title="Germany",RTL FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13565
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL FHD [B] DE" tvg-logo="http://pici.life/DE/rtlhd.png" group-title="Germany",RTL FHD [B] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683243
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD DE" tvg-logo="http://pici.life/rtlhd_2.png" group-title="Germany",RTL HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6216
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1 FHD DE" tvg-logo="http://pici.life/sat1hd_2.png" group-title="Germany",Sat.1 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6210
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1 HD DE" tvg-logo="http://pici.life/sat1hd_2.png" group-title="Germany",Sat.1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683455
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben FHD DE" tvg-logo="http://pici.life/DE/prosiebenhd.png" group-title="Germany",ProSieben FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6220
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B] FHD DE" tvg-logo="http://pici.life/DE/prosiebenhd.png" group-title="Germany",ProSieben [B] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8235
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben HD DE" tvg-logo="http://pici.life/DE/prosiebenhd.png" group-title="Germany",ProSieben HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683393
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B] HD DE" tvg-logo="http://pici.life/DE/prosiebenhd.png" group-title="Germany",ProSieben [B] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13144
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX FHD DE" tvg-logo="http://pici.life/DE/voxhd.png" group-title="Germany",VOX FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13553
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD DE" tvg-logo="http://pici.life/vox_de.png" group-title="Germany",VOX HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6153
+#EXTINF:-1 tvg-id="" tvg-name="VOXup DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Voxup_Logo_2019.svg/375px-Voxup_Logo_2019.svg.png" group-title="Germany",VOXup DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679836
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="Kabel 1 FHD DE" tvg-logo="http://pici.life/DE/kabeleinshd.png" group-title="Germany",Kabel 1 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6242
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic HD DE" tvg-logo="http://pici.life/DE/kabeleinsclassics.png" group-title="Germany",Kabel 1 Classic HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9151
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic DE" tvg-logo="http://pici.life/DE/kabeleinsclassics.png" group-title="Germany",Kabel 1 Classic DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679844
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 FHD DE" tvg-logo="http://pici.life/rtl2hd.png" group-title="Germany",RTL 2 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6215
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD DE" tvg-logo="http://pici.life/DE/rtl2.png" group-title="Germany",RTL 2 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13136
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro FHD DE" tvg-logo="http://pici.life/rtlnitrohd.png" group-title="Germany",RTL Nitro FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6212
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro HD DE" tvg-logo="http://pici.life/DE/rtlnitrohd.png" group-title="Germany",RTL Nitro HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13137
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL Passion FHD DE" tvg-logo="http://pici.life/rtlpassion.png" group-title="Germany",RTL Passion FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8219
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTL Plus DE" tvg-logo="http://pici.life/rtlplus.png" group-title="Germany",RTL Plus DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9152
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime FHD DE" tvg-logo="http://pici.life/rtlcrime_2.png" group-title="Germany",RTL Crime FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6214
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime HD DE" tvg-logo="http://pici.life/DE/rtlcrime.png" group-title="Germany",RTL Crime HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/17012
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation FHD DE" tvg-logo="http://pici.life/aande.png" group-title="Germany",Crime & Investigation FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6263
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation HD DE" tvg-logo="http://pici.life/DE/aehd.png" group-title="Germany",Crime & Investigation HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8197
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living FHD DE" tvg-logo="http://pici.life/rtlliving.png" group-title="Germany",RTL Living FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6150
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living HD DE" tvg-logo="http://pici.life/rtlliving.png" group-title="Germany",RTL Living HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6213
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Sat1 Emotion DE" tvg-logo="http://pici.life/DE/sat1emotions.png" group-title="Germany",Sat1 Emotion DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13135
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold FHD DE" tvg-logo="http://pici.life/sat1gold.png" group-title="Germany",Sat1 Gold FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6209
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun FHD DE" tvg-logo="http://pici.life/DE/prosiebenfunhd_2.png" group-title="Germany",ProSieben Fun FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6219
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun HD DE" tvg-logo="http://pici.life/DE/prosiebenfunhd.png" group-title="Germany",ProSieben Fun HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13145
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun [B] HD DE" tvg-logo="http://pici.life/DE/prosiebenfunhd_2.png" group-title="Germany",ProSieben Fun [B] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13142
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx FHD DE" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Germany",ProSieben Maxx FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6218
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx HD DE" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Germany",ProSieben Maxx HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683394
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro Sieben Maxx HD DE" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Germany",Pro Sieben Maxx HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13143
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro Sieben Maxx FHD DE" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Germany",Pro Sieben Maxx FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8234
+#EXTINF:-1 tvg-id="" tvg-name="Puls 24 HD DE" tvg-logo="" group-title="Germany",Puls 24 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/688788
+#EXTINF:-1 tvg-id="" tvg-name="Puls 4 DE" tvg-logo="" group-title="Germany",Puls 4 DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/688789
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment FHD DE" tvg-logo="http://pici.life/US/e.png" group-title="Germany",E! Entertainment FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13569
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment HD DE" tvg-logo="http://pici.life/US/e.png" group-title="Germany",E! Entertainment HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9137
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment DE" tvg-logo="http://pici.life/DE/e.png" group-title="Germany",E! Entertainment DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5095
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="SRF 1 DE" tvg-logo="http://pici.life/srf_1_ch.png" group-title="Germany",SRF 1 DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6170
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD DE" tvg-logo="http://pici.life/mdrsanhalthd.png" group-title="Germany",MDR HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6238
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR Sachsen HD DE" tvg-logo="http://pici.life/DE/mdrsanhalthd.png" group-title="Germany",MDR Sachsen HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8240
+#EXTINF:-1 tvg-id="sachsenfernsehen.de" tvg-name="MDR Sachsen HD DE" tvg-logo="http://pici.life/DE/Mdr_SACHSEN.png" group-title="Germany",MDR Sachsen HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8239
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3Sat FHD DE" tvg-logo="http://pici.life/DE/3sat.png" group-title="Germany",3Sat FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/16289
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="http://pici.life/3sathd.png" group-title="Germany",3sat HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6265
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="http://pici.life/ndrhd.png" group-title="Germany",NDR HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6225
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR FHD DE" tvg-logo="http://pici.life/DE/Hr_HD.png" group-title="Germany",HR FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13150
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR HD DE" tvg-logo="http://pici.life/hrfernsehen.png" group-title="Germany",HR HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6243
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR Fernsehen HD DE" tvg-logo="http://pici.life/DE/srfernsehenhd.png" group-title="Germany",HR Fernsehen HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8225
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB Berlin HD DE" tvg-logo="http://pici.life/rbbberlinhd.png" group-title="Germany",RBB Berlin HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6217
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR HD DE" tvg-logo="" group-title="Germany",BR HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/687568
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR DE" tvg-logo="http://pici.life/DE/br.png" group-title="Germany",BR DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13168
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR HD DE" tvg-logo="http://pici.life/swrhd.png" group-title="Germany",SWR HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6165
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD DE" tvg-logo="http://pici.life/wdrhd.png" group-title="Germany",WDR HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6152
+#EXTINF:-1 tvg-id="" tvg-name="Franken Fernsehen FHD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Franken_Fernsehen_Logo_2010.svg/300px-Franken_Fernsehen_Logo_2010.svg.png" group-title="Germany",Franken Fernsehen FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/677835
+#EXTINF:-1 tvg-id="familytv.de" tvg-name="BW Family TV FHD DE" tvg-logo="http://pici.life/familytv.png" group-title="Germany",BW Family TV FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6246
+#EXTINF:-1 tvg-id="familytv.de" tvg-name="BW Family TV HD DE" tvg-logo="http://pici.life/DE/familytv.png" group-title="Germany",BW Family TV HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/23772
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="QVC HD DE" tvg-logo="http://pici.life/DE/QVC.de.png" group-title="Germany",QVC HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13140
+#EXTINF:-1 tvg-id="qvcbeautyandstyle.de" tvg-name="QVC Beauty & Style DE" tvg-logo="http://pici.life/qvc.png" group-title="Germany",QVC Beauty & Style DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13141
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="Sonnenklar TV FHD DE" tvg-logo="http://pici.life/DE/Sonnenklar.tv%20hd.png" group-title="Germany",Sonnenklar TV FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13130
+#EXTINF:-1 tvg-id="" tvg-name="Zee One DE" tvg-logo="" group-title="Germany",Zee One DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/690459
+#EXTINF:-1 tvg-id="" tvg-name="Event - Covid Info FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Event - Covid Info FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679845
+#EXTINF:-1 tvg-id="" tvg-name="------- Sports -------" tvg-logo="" group-title="Germany",------- Sports -------
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/678834
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 FHD DE" tvg-logo="" group-title="Germany",Sky Sport F1 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/687666
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD DE" tvg-logo="" group-title="Germany",Sky Sport F1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/687667
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News FHD DE" tvg-logo="http://pici.life/DE/skysportnewshd.png" group-title="Germany",Sky Sports News FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13555
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News HD DE" tvg-logo="http://pici.life/skysportnewshd.png" group-title="Germany",Sky Sports News HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/684431
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="http://pici.life/DE/skysport1hd.png" group-title="Germany",Sky Sport 1 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/684432
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 HD DE" tvg-logo="http://pici.life/skysport1hd_2.png" group-title="Germany",Sky Sport 1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683895
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 DE" tvg-logo="http://pici.life/DE/skysport11hd.png" group-title="Germany",Sky Sport 1 DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9125
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 [B] DE" tvg-logo="http://pici.life/skysport1hd_2.png" group-title="Germany",Sky Sport 1 [B] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/684429
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="http://pici.life/skysport2hd_2.png" group-title="Germany",Sky Sport 2 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7362
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="http://pici.life/DE/skysport2.png" group-title="Germany",Sky Sport 2 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683896
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysport3hd.png" group-title="Germany",Sky Sport 3 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13563
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] HD DE" tvg-logo="http://pici.life/DE/skysport3.png" group-title="Germany",Sky Sport 3 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6182
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysport4hd.png" group-title="Germany",Sky Sport 4 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13562
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 [Match Time] HD DE" tvg-logo="http://pici.life/DE/skysport4hd.png" group-title="Germany",Sky Sport 4 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9127
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="http://pici.life/DE/skysport5hd.png" group-title="Germany",Sky Sport 5 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13561
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysport5hd.png" group-title="Germany",Sky Sport 5 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9126
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="Sky Sport 6 [Match Time] HD DE" tvg-logo="http://pici.life/DE/skysport6hd.png" group-title="Germany",Sky Sport 6 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6181
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="Sky Sport 7 [Match Time] HD DE" tvg-logo="http://pici.life/skysport7hd.png" group-title="Germany",Sky Sport 7 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6180
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="Sky Sport 8 [Match Time] HD DE" tvg-logo="http://pici.life/skysport8hd.png" group-title="Germany",Sky Sport 8 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6179
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="Sky Sport 9 [Match Time] HD DE" tvg-logo="http://pici.life/skysport9hd.png" group-title="Germany",Sky Sport 9 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6178
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="Sky Sport 10 [Match Time] HD DE" tvg-logo="http://pici.life/skysport10hd.png" group-title="Germany",Sky Sport 10 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6177
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/684430
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683408
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683409
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time] DE" tvg-logo="http://pici.life/DE/skysportbundesliga1.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13538
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time] DE" tvg-logo="http://pici.life/skysportbundesliga1hd_2.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/73136
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] DE" tvg-logo="http://pici.life/DE/skysportbundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/684005
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga2.png" group-title="Germany",Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/62223
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 [Match Time-B] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga2hd.png" group-title="Germany",Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/135258
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga3hd.png" group-title="Germany",Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/135671
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] HD DE" tvg-logo="http://pici.life/skysportbundesliga3.png" group-title="Germany",Sky Sport Bundesliga 3 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/62220
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga4hd.png" group-title="Germany",Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/91235
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga5.png" group-title="Germany",Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/135335
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 [Match Time] DE" tvg-logo="http://pici.life/DE/skysportbundesliga5.png" group-title="Germany",Sky Sport Bundesliga 5 [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/62002
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga6.png" group-title="Germany",Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/619225
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 [Match Time] DE" tvg-logo="http://pici.life/DE/skysportbundesliga7hd.png" group-title="Germany",Sky Sport Bundesliga 7 [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6198
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 [Match Time] FHD DE" tvg-logo="http://pici.life/skysportbundesliga8hd.png" group-title="Germany",Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6197
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 [Match Time] DE" tvg-logo="http://pici.life/skysportbundesliga9.png" group-title="Germany",Sky Sport Bundesliga 9 [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6196
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga10hd.png" group-title="Germany",Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6195
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 FHD DE" tvg-logo="" group-title="Germany",Sky Sport Austria 1 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/688793
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 HD DE" tvg-logo="" group-title="Germany",Sky Sport Austria 1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/688795
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 FHD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 1 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/661090
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 HD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/625243
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 [B] HD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 1 [B] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/661088
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 2 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/661089
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD DE" tvg-logo="http://pici.life/DE/DAZN2.png" group-title="Germany",DAZN 2 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/50775
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 FHD DE" tvg-logo="http://pici.life/DE/sport1-duslelaslu.png" group-title="Germany",Sport1 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6173
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1 HD  DE" tvg-logo="http://pici.life/DE/sport1hd-duslelaslu.png" group-title="Germany",Sport1 HD  DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8221
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 HD DE" tvg-logo="http://pici.life/DE/sport1hd-duslelaslu.png" group-title="Germany",Sport1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8226
+#EXTINF:-1 tvg-id="" tvg-name="Sport1+ FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Sport1+ FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679847
+#EXTINF:-1 tvg-id="" tvg-name="Sport1+ HD [B] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Sport1+ HD [B] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679848
+#EXTINF:-1 tvg-id="" tvg-name="eSports 1 HD DE" tvg-logo="" group-title="Germany",eSports 1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/687730
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 1 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 1 HD [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679821
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 2 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 2 HD [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679822
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 3 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 3 HD [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679823
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 4 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 4 HD [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679824
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 5 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 5 HD [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679825
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 6 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 6 HD [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679826
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 7 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 7 HD [Match Time] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679827
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 8 [Match Time] HD DE" tvg-logo="" group-title="Germany",Telekom Fußball 8 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/688721
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 1 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 1 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679671
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 2 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 2 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679672
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 3 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 3 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679673
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 4 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 4 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679676
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 1 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Basketball 1 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679674
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 2 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Basketball 2 [Match Time] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679675
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="http://pici.life/eurosport1hd_2.png" group-title="Germany",Eurosport 1 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8218
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="Eurosport 2 FHD DE" tvg-logo="http://pici.life/UK/Eurosport-2-UK.jpg" group-title="Germany",Eurosport 2 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9131
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="http://pici.life/eurosport2Xtrahd.png" group-title="Germany",Eurosport 2 Xtra FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13163
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="http://pici.life/eurosport2Xtrahd.png" group-title="Germany",Eurosport 2 Xtra HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9130
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital FHD DE" tvg-logo="http://pici.life/DE/Sport-Digital_hd.png" group-title="Germany",Sport Digital FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8244
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital HD DE" tvg-logo="http://pici.life/sportdigital.png" group-title="Germany",Sport Digital HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6171
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="Motorvision HD DE" tvg-logo="http://pici.life/DE/Motorvision%20hd.png" group-title="Germany",Motorvision HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8222
+#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="Auto Motor Sport FHD DE" tvg-logo="http://pici.life/Bulgarian/auto-motor-sport.png" group-title="Germany",Auto Motor Sport FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9132
+#EXTINF:-1 tvg-id="FC Bayern TV DE" tvg-name="FC Bayern TV HD DE" tvg-logo="http://pici.life/bayerntv.png" group-title="Germany",FC Bayern TV HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9128
+#EXTINF:-1 tvg-id="" tvg-name="------- Movies & Series -------" tvg-logo="" group-title="Germany",------- Movies & Series -------
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/678836
+#EXTINF:-1 tvg-id="skyaction.de" tvg-name="Sky Action HD DE" tvg-logo="http://pici.life/skyaksion.png" group-title="Germany",Sky Action HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5093
+#EXTINF:-1 tvg-id="skyaction.de" tvg-name="Sky Action DE" tvg-logo="http://pici.life/sky_de_action.png" group-title="Germany",Sky Action DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6205
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special FHD DE" tvg-logo="http://pici.life/disneycinemagichd_2.png" group-title="Germany",Sky Cinema Special FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8217
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special HD DE" tvg-logo="http://pici.life/disneycinemagichd_2.png" group-title="Germany",Sky Cinema Special HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6252
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller FHD DE" tvg-logo="http://pici.life/skycinema1hd-phibruspel.png" group-title="Germany",Sky Cinema Thriller FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5089
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller HD DE" tvg-logo="http://pici.life/skycinemahd_2.png" group-title="Germany",Sky Cinema Thriller HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7372
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller DE" tvg-logo="http://pici.life/skycinemaplus1hd_2.png" group-title="Germany",Sky Cinema Thriller DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6193
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren FHD DE" tvg-logo="http://pici.life/skycinema1hd-phibruspel.png" group-title="Germany",Sky Cinema Premieren FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6194
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren HD DE" tvg-logo="http://pici.life/skycinemahd_2.png" group-title="Germany",Sky Cinema Premieren HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7373
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="http://pici.life/skycinemaplus24hd.png" group-title="Germany",Sky Cinema Premieren +24 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6192
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 HD DE" tvg-logo="http://pici.life/DE/skycinemaplus24hd.png" group-title="Germany",Sky Cinema Premieren +24 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13133
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action HD DE" tvg-logo="http://pici.life/skycinemaactionhd_2.png" group-title="Germany",Sky Cinema Action HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7370
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action DE" tvg-logo="http://pici.life/skycinemaactionhd_2.png" group-title="Germany",Sky Cinema Action DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9146
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun HD DE" tvg-logo="http://pici.life/skycinemacomedyhd.png" group-title="Germany",Sky Cinema Fun HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9144
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="http://pici.life/skycomedy.png" group-title="Germany",Sky Cinema Fun DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6190
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Sky Cinema Best Of FHD DE" tvg-logo="http://pici.life/skycinemahits.png" group-title="Germany",Sky Cinema Best Of FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7368
+#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="Sky Cinema Best Of HD DE" tvg-logo="http://pici.life/DE/skycinemahitshd.png" group-title="Germany",Sky Cinema Best Of HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8223
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family FHD DE" tvg-logo="http://pici.life/skycinemafamilyhd_2.png" group-title="Germany",Sky Cinema Family FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9145
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family HD DE" tvg-logo="http://pici.life/skycinemafamilyhd_2.png" group-title="Germany",Sky Cinema Family HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7369
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics HD DE" tvg-logo="http://pici.life/DE/Sky_Cinema_Nostalgie_DE.png" group-title="Germany",Sky Cinema Classics HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13131
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="http://pici.life/skynostalgie.png" group-title="Germany",Sky Cinema Classics DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6186
+#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="Sky Cinema Best of DE" tvg-logo="http://pici.life/skycinemahits.png" group-title="Germany",Sky Cinema Best of DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5088
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Nostalgie HD DE" tvg-logo="" group-title="Germany",Sky Cinema Nostalgie HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/688792
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy VIP HD DE" tvg-logo="" group-title="Germany",Sky Cinema Comedy VIP HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/688822
+#EXTINF:-1 tvg-id="" tvg-name="Sky Crime VIP HD DE" tvg-logo="" group-title="Germany",Sky Crime VIP HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/688821
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic HD DE" tvg-logo="http://pici.life/DE/skyatlantichd.png" group-title="Germany",Sky Atlantic HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7367
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic DE" tvg-logo="http://pici.life/skyatlantic.png" group-title="Germany",Sky Atlantic DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6204
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic +1 HD DE" tvg-logo="http://pici.life/DE/Sky_Atlantic_HD_+1.PNG" group-title="Germany",Sky Atlantic +1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13134
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street FHD DE" tvg-logo="http://pici.life/13thstreethd.png" group-title="Germany",Sky 13TH Street FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5098
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street HD DE" tvg-logo="http://pici.life/13thstreethd.png" group-title="Germany",Sky 13TH Street HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7365
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street [B] HD DE" tvg-logo="http://pici.life/13thstreethd.png" group-title="Germany",Sky 13TH Street [B] HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8198
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="Sky One FHD DE" tvg-logo="http://pici.life/sky1hd.png" group-title="Germany",Sky One FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9138
+#EXTINF:-1 tvg-id="one.de" tvg-name="One HD DE" tvg-logo="http://pici.life/onehd.png" group-title="Germany",One HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9147
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox FHD DE" tvg-logo="http://pici.life/DE/foxhd_2.png" group-title="Germany",Fox FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13567
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox HD DE" tvg-logo="http://pici.life/foxhd_2.png" group-title="Germany",Fox HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6245
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox DE" tvg-logo="http://pici.life/DE/fox.png" group-title="Germany",Fox DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/23770
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy FHD DE" tvg-logo="http://pici.life/syfyhd_2.png" group-title="Germany",Syfy FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7364
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy HD DE" tvg-logo="http://pici.life/syfyhd_2.png" group-title="Germany",Syfy HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5087
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy DE" tvg-logo="http://pici.life/syfy_2.png" group-title="Germany",Syfy DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6164
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="Sky Krimi HD DE" tvg-logo="http://pici.life/skykrimi.png" group-title="Germany",Sky Krimi HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8220
+#EXTINF:-1 tvg-id="tntcomedy.de" tvg-name="TNT Comedy FHD DE" tvg-logo="http://pici.life/tntcomedyhd.png" group-title="Germany",TNT Comedy FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6157
+#EXTINF:-1 tvg-id="tntcomedy.de" tvg-name="TNT Comedy HD DE" tvg-logo="http://pici.life/tntcomedyhd.png" group-title="Germany",TNT Comedy HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/687541
+#EXTINF:-1 tvg-id="tntfilm.de" tvg-name="TNT Film FHD DE" tvg-logo="http://pici.life/DE/tntfilmhd.png" group-title="Germany",TNT Film FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6156
+#EXTINF:-1 tvg-id="tntfilm.de" tvg-name="TNT Film HD DE" tvg-logo="http://pici.life/DE/tntfilmhd.png" group-title="Germany",TNT Film HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683894
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="TNT Serie FHD DE" tvg-logo="http://pici.life/tntserie_2.png" group-title="Germany",TNT Serie FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5084
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="TNT Serie HD DE" tvg-logo="http://pici.life/tntseriehd.png" group-title="Germany",TNT Serie HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6155
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="TNT Serie DE" tvg-logo="http://pici.life/DE/tntserie.png" group-title="Germany",TNT Serie DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13154
+#EXTINF:-1 tvg-id="universal.de" tvg-name="Universal FHD DE" tvg-logo="http://pici.life/DE/universalchannelhd.png" group-title="Germany",Universal FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5265
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="Sony TV HD DE" tvg-logo="http://pici.life/sonytv.png" group-title="Germany",Sony TV HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6167
+#EXTINF:-1 tvg-id="" tvg-name="Sony Entertainment TV HD DE" tvg-logo="" group-title="Germany",Sony Entertainment TV HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/690458
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt HD DE" tvg-logo="http://pici.life/kinowelttv.png" group-title="Germany",Kinowelt HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6240
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt DE" tvg-logo="http://pici.life/DE/kinowelttv.png" group-title="Germany",Kinowelt DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/672086
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Premiere FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema Premiere FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/681946
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Horror FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema Horror FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/681942
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Thriller FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema Thriller FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/681950
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Sci-Fi FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema Sci-Fi FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/681949
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Animation HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema Animation HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/681939
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Mythologie HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema Mythologie HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/681945
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Lächeln HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema Lächeln HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/681944
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Geschichte HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema Geschichte HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/681941
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Romantisch FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema Romantisch FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/681948
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 FHD DE" tvg-logo="http://pici.life/DE/SkySelect1.de.png" group-title="Germany",Sky Select 1 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/655131
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 HD DE" tvg-logo="http://pici.life/DE/Sky%20select%20hd.png" group-title="Germany",Sky Select 1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7375
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 FHD DE" tvg-logo="http://pici.life/DE/SkySelect2.de.png" group-title="Germany",Sky Select 2 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/655130
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 HD DE" tvg-logo="http://pici.life/DE/Sky%20select%20hd.png" group-title="Germany",Sky Select 2 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7376
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 FHD DE" tvg-logo="http://pici.life/DE/SkySelect3.de.png" group-title="Germany",Sky Select 3 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/655129
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 HD DE" tvg-logo="http://pici.life/DE/Sky%20select%20hd.png" group-title="Germany",Sky Select 3 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7377
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 FHD DE" tvg-logo="http://pici.life/DE/SkySelect4.de.png" group-title="Germany",Sky Select 4 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/655128
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 HD DE" tvg-logo="http://pici.life/DE/Sky%20select%20hd.png" group-title="Germany",Sky Select 4 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/7378
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD DE" tvg-logo="http://pici.life/skyselect_2.png" group-title="Germany",Sky Select 5 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8977
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD [demnächst] DE" tvg-logo="http://pici.life/DE/SkySelect5.de.png" group-title="Germany",Sky Select 5 HD [demnächst] DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/655127
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="Sky Select 6 HD DE" tvg-logo="http://pici.life/DE/SkySelect6.de.png" group-title="Germany",Sky Select 6 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8976
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="Sky Select 6 FHD (demnächst) DE" tvg-logo="http://pici.life/DE/SkySelect6.de.png" group-title="Germany",Sky Select 6 FHD (demnächst) DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/655126
+#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="Sky Select 7 HD DE" tvg-logo="http://pici.life/DE/SkySelect7.de.png" group-title="Germany",Sky Select 7 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8975
+#EXTINF:-1 tvg-id="skyselect8.de" tvg-name="Sky Select 8 HD DE" tvg-logo="http://pici.life/DE/SkySelect8.de.png" group-title="Germany",Sky Select 8 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8974
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 1 HD DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/23778
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 FHD DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 2 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683536
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 HD DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 2 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/23777
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 FHD DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 3 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683537
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 HD DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 3 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/23776
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="PopCorn Select 4 HD DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 4 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/23775
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 5 HD DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 5 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683540
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema Boxset FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema Boxset FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683534
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema INFO FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema INFO FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683523
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 1 FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema 1 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683535
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 2 HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema 2 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683525
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 3 FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema 3 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683526
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 4 FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema 4 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683527
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 5 HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema 5 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683528
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 6 FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema 6 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683529
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 7 FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema 7 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683530
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 8 FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema 8 FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683531
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN FHD DE" tvg-logo="http://pici.life/axn_2.png" group-title="Germany",AXN FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5097
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN HD DE" tvg-logo="http://pici.life/axn_2.png" group-title="Germany",AXN HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6259
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central FHD DE" tvg-logo="http://pici.life/DE/VIVA-COMEDY-CENTRAL.png" group-title="Germany",Comedy Central FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6154
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV HD DE" tvg-logo="http://pici.life/DE/romancetv.png" group-title="Germany",Romance TV HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13152
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV DE" tvg-logo="http://pici.life/romancetv.png" group-title="Germany",Romance TV DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6211
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal HD DE" tvg-logo="" group-title="Germany",Sky Heimat Kanal HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/678481
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal DE" tvg-logo="http://pici.life/heimatkanal.png" group-title="Germany",Sky Heimat Kanal DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6188
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="http://pici.life/sixxhd.png" group-title="Germany",Sixx FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6207
+#EXTINF:-1 tvg-id="ServusTV Deutschland DE" tvg-name="Servus TV HD DE" tvg-logo="http://pici.life/servustv_2.png" group-title="Germany",Servus TV HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6208
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="Tele 5 HD DE" tvg-logo="http://pici.life/tele5hd.png" group-title="Germany",Tele 5 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9150
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="Bibel TV HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bibel_TV_logo.png/300px-Bibel_TV_logo.png" group-title="Germany",Bibel TV HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/677497
+#EXTINF:-1 tvg-id="" tvg-name="FilMax Hits FHD VIP DE" tvg-logo="" group-title="Germany",FilMax Hits FHD VIP DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/688717
+#EXTINF:-1 tvg-id="" tvg-name="Family TV HD DE" tvg-logo="" group-title="Germany",Family TV HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/690457
+#EXTINF:-1 tvg-id="" tvg-name="------- Documentary -------" tvg-logo="" group-title="Germany",------- Documentary -------
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/678919
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF Info HD DE" tvg-logo="http://pici.life/zdfinfohd.png" group-title="Germany",ZDF Info HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9148
+#EXTINF:-1 tvg-id="" tvg-name="N24 Doku DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",N24 Doku DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679837
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="Kabel Eins Doku FHD DE" tvg-logo="http://pici.life/DE/kabeleinsdoku.png" group-title="Germany",Kabel Eins Doku FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13147
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 Doku DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Kabel 1 Doku DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679843
+#EXTINF:-1 tvg-id="history.de" tvg-name="History Channel FHD DE" tvg-logo="http://pici.life/historyhd_2.png" group-title="Germany",History Channel FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6244
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="http://pici.life/spiegelgeschichte.png" group-title="Germany",Spiegel Geschichte HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6174
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="Spiegel TV Wissen HD DE" tvg-logo="http://pici.life/spiegeltvwissenhd.png" group-title="Germany",Spiegel TV Wissen HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9135
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="Discovery FHD DE" tvg-logo="http://pici.life/DE/discoverychannelhd_2.png" group-title="Germany",Discovery FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13570
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="Discovery HD DE" tvg-logo="http://pici.life/discovery_2.png" group-title="Germany",Discovery HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5096
+#EXTINF:-1 tvg-id="planet.de" tvg-name="DOXX HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/d3/DOXX_Logo_2020_Schwarz.png/375px-DOXX_Logo_2020_Schwarz.png" group-title="Germany",DOXX HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679846
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="Animal Planet FHD DE" tvg-logo="http://pici.life/animalplanethd_2.png" group-title="Germany",Animal Planet FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8196
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="Animal Planet HD DE" tvg-logo="http://pici.life/DE/animalplanethd_2.png" group-title="Germany",Animal Planet HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13173
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="National Geographic HD DE" tvg-logo="http://pici.life/DE/nationalgeographichd.png" group-title="Germany",National Geographic HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8194
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="National Geographic DE" tvg-logo="http://pici.life/nationalgeographichd_2.png" group-title="Germany",National Geographic DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6226
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo wild FHD DE" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Germany",Nat Geo wild FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6227
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo Wild HD DE" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Germany",Nat Geo Wild HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9136
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo Wild DE" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Germany",Nat Geo Wild DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5085
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo People HD DE" tvg-logo="" group-title="Germany",Nat Geo People HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/690455
+#EXTINF:-1 tvg-id="" tvg-name="HGTV DE" tvg-logo="" group-title="Germany",HGTV DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/688723
+#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Welt der Wunder HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679838
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="Welt der Wunder DE" tvg-logo="http://pici.life/DE/weltderwunder.png" group-title="Germany",Welt der Wunder DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13129
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="Anixe HD DE" tvg-logo="http://pici.life/anixehd.png" group-title="Germany",Anixe HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6264
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="Dmax FHD DE" tvg-logo="http://pici.life/DE/DMAX_HD.png" group-title="Germany",Dmax FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6249
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC HD DE" tvg-logo="http://pici.life/DE/tlchd.png" group-title="Germany",TLC HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8224
+#EXTINF:-1 tvg-id="" tvg-name="Luxe TV FHD DE" tvg-logo="https://en.wikipedia.org/wiki/Luxe.tv#/media/File:Luxe_TV.png" group-title="Germany",Luxe TV FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/676714
+#EXTINF:-1 tvg-id="skyarts.de" tvg-name="Sky Arte FHD DE" tvg-logo="http://pici.life/skyartehd_2.png" group-title="Germany",Sky Arte FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5091
+#EXTINF:-1 tvg-id="skyarts.de" tvg-name="Sky Arte HD DE" tvg-logo="http://pici.life/skyartehd_2.png" group-title="Germany",Sky Arte HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9139
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Sky Arte DE" tvg-logo="http://pici.life/arte.png" group-title="Germany",Sky Arte DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6261
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="ARD Alpha HD DE" tvg-logo="http://pici.life/DE/astrotv.png" group-title="Germany",ARD Alpha HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13171
+#EXTINF:-1 tvg-id="" tvg-name="Waidwerk FHD DE" tvg-logo="" group-title="Germany",Waidwerk FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/687566
+#EXTINF:-1 tvg-id="" tvg-name="------- News -------" tvg-logo="" group-title="Germany",------- News -------
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/678922
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="Euronews DE" tvg-logo="http://pici.life/euronews_2.png" group-title="Germany",Euronews DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6248
+#EXTINF:-1 tvg-id="welt.de" tvg-name="Welt HD DE" tvg-logo="http://pici.life/n24.png" group-title="Germany",Welt HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6228
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV FHD DE" tvg-logo="http://pici.life/DE/InTV.jpg" group-title="Germany",N-TV FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13149
+#EXTINF:-1 tvg-id="n-tv DE" tvg-name="N-TV HD DE" tvg-logo="http://pici.life/DE/ntvhd.png" group-title="Germany",N-TV HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/8195
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV DE" tvg-logo="http://pici.life/DE/ntvhd.png" group-title="Germany",N-TV DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13566
+#EXTINF:-1 tvg-id="munchentv.de" tvg-name="Munchen TV DE" tvg-logo="http://pici.life/munchentv.png" group-title="Germany",Munchen TV DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6229
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix HD DE" tvg-logo="http://pici.life/phoenixhd.png" group-title="Germany",Phoenix HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6221
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau 24 HD DE" tvg-logo="http://pici.life/tagesschau24hd.png" group-title="Germany",Tagesschau 24 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6163
+#EXTINF:-1 tvg-id="" tvg-name="------- Children -------" tvg-logo="" group-title="Germany",------- Children -------
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/678923
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL FHD DE" tvg-logo="http://pici.life/DE/superrtlhd.png" group-title="Germany",Super RTL FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13554
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL HD DE" tvg-logo="http://pici.life/superrtlhd.png" group-title="Germany",Super RTL HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6166
+#EXTINF:-1 tvg-id="" tvg-name="KiKa FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",KiKa FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679839
+#EXTINF:-1 tvg-id="kika.de" tvg-name="Kika HD DE" tvg-logo="http://pici.life/kikahd.png" group-title="Germany",Kika HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6241
+#EXTINF:-1 tvg-id="babytv.de" tvg-name="Baby TV DE" tvg-logo="http://pici.life/DE/baby_tv_eu.png" group-title="Germany",Baby TV DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13169
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="Toggo Plus HD DE" tvg-logo="http://pici.life/DE/toggoplus.png" group-title="Germany",Toggo Plus HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/5086
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="Toggo Plus DE" tvg-logo="http://pici.life/toggoplus.png" group-title="Germany",Toggo Plus DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/9133
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="Boomerang HD DE" tvg-logo="http://pici.life/boomerang_2.png" group-title="Germany",Boomerang HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6258
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="Cartoon Network FHD DE" tvg-logo="http://pici.life/cartoonnethd.png" group-title="Germany",Cartoon Network FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6257
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="http://pici.life/disneychannelhd_2.png" group-title="Germany",Disney Channel FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6253
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="Disney Junior FHD DE" tvg-logo="http://pici.life/DE/disneyjnrhd.png" group-title="Germany",Disney Junior FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13568
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="Disney Junior HD DE" tvg-logo="http://pici.life/disneyjunior_2.png" group-title="Germany",Disney Junior HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6251
+#EXTINF:-1 tvg-id="junior.de" tvg-name="Junior HD DE" tvg-logo="http://pici.life/juniortv.png" group-title="Germany",Junior HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6239
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior FHD DE" tvg-logo="" group-title="Germany",Nick Junior FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/690456
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="Nickelodeon HD DE" tvg-logo="http://pici.life/nickelodeon_2.png" group-title="Germany",Nickelodeon HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6224
+#EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="Fix & Foxi DE" tvg-logo="http://pici.life/DE/FIXandFOXI.de.png" group-title="Germany",Fix & Foxi DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/23771
+#EXTINF:-1 tvg-id="" tvg-name="------- Music -------" tvg-logo="" group-title="Germany",------- Music -------
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/678925
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="MTV FHD DE" tvg-logo="http://pici.life/DE/mtvhd.png" group-title="Germany",MTV FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/35466
+#EXTINF:-1 tvg-id="" tvg-name="MTV +1 HD DE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-germany-plus-1-us-de.png" group-title="Germany",MTV +1 HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/679793
+#EXTINF:-1 tvg-id="vh1classic.de" tvg-name="MTV 80s DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",MTV 80s DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/638080
+#EXTINF:-1 tvg-id="classica.de" tvg-name="Sky Classica DE" tvg-logo="http://pici.life/skycalcio1hd_2.png" group-title="Germany",Sky Classica DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6191
+#EXTINF:-1 tvg-id="classica.de" tvg-name="Classica HD DE" tvg-logo="http://pici.life/DE/classica.png" group-title="Germany",Classica HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13167
+#EXTINF:-1 tvg-id="goldstartv.de" tvg-name="GoldStar TV DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",GoldStar TV DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/683427
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="Jukebox DE" tvg-logo="http://pici.life/DE/jukebox.png" group-title="Germany",Jukebox DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13148
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="Deluxe Music HD DE" tvg-logo="http://pici.life/deluxemusic.png" group-title="Germany",Deluxe Music HD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/6255
+#EXTINF:-1 tvg-id="" tvg-name="Kronehit FHD DE" tvg-logo="http://pici.life/DE/KronHit.jpg" group-title="Germany",Kronehit FHD DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/14200
+#EXTINF:-1 tvg-id="deutschesmusikfernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://pici.life/DE/deutschesmusikfernsehen.png" group-title="Germany",Deutsches Musik Fernsehen DE
+http://tv.xtream.itv.world:8080/dux238pf8/wijaxkt31i/13165
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | The Christmas Chronicles 2018" tvg-logo="http://mypanel.tv:80/images/5Il2EMSF2KecrUKZPuen6BZmaCP_small.jpg" group-title="VOD XMas",EN | Comedy | The Christmas Chronicles 2018
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/634419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | 7s Tsm 1982" tvg-logo="http://mypanel.tv:80/images/5Il2EMSF2KecrUKZPuen6BZmaCP_small.jpg" group-title="VOD XMas",EN | Drama | 7s Tsm 1982
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | A Bad Moms Christmas 2017" tvg-logo="http://mypanel.tv:8080/images/gPNHolu7AGnrB7r5kvJRRTfwMFR_small.jpg" group-title="VOD XMas",EN | Comedy | A Bad Moms Christmas 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | A Christmas Prince 2017" tvg-logo="http://mypanel.tv:8080/images/z3jfaahNCSUytgAQhavUmoA1ab6_small.jpg" group-title="VOD XMas",EN | Romance | A Christmas Prince 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | A Christmas Story 1983" tvg-logo="http://mypanel.tv:8080/images/1dSFarRSXwMjFODxPTwyaiNZotF_small.jpg" group-title="VOD XMas",EN | Comedy | A Christmas Story 1983
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | A Christmas Tale 2008" tvg-logo="http://mypanel.tv:8080/images/6jLewTYpJl3sBjZK3wElo2OEVZo_small.jpg" group-title="VOD XMas",EN | Drama | A Christmas Tale 2008
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Fantasy | Rare Exports A Christmas Tale 2010" tvg-logo="http://mypanel.tv:8080/images/5i8HjOfLxmklmVETvypRJH001pP_small.jpg" group-title="VOD XMas",EN | Fantasy | Rare Exports A Christmas Tale 2010
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | A Very Harold And Kumar Christmas 2011" tvg-logo="http://mypanel.tv:8080/images/8zdGMb5lfq2JB5OpipASK85URHC_small.jpg" group-title="VOD XMas",EN | Comedy | A Very Harold And Kumar Christmas 2011
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Happy Christmas 2014" tvg-logo="http://mypanel.tv:8080/images/20IpUbl1ZrxjW32KGqT00WtFiiQ_small.jpg" group-title="VOD XMas",EN | Comedy | Happy Christmas 2014
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630872.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | Arthur Christmas 2011" tvg-logo="http://mypanel.tv:8080/images/brELZkSbkLrcCXJ0xt5hQUMXhut_small.jpg" group-title="VOD XMas",EN | Drama | Arthur Christmas 2011
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | Bad Santa 2003" tvg-logo="http://mypanel.tv:8080/images/103KNOz11U4iojwW6F1rOKKZIDp_small.jpg" group-title="VOD XMas",EN | Drama | Bad Santa 2003
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Horror | Better Watch Out 2016" tvg-logo="http://mypanel.tv:8080/images/liI4c3GYaKuAo4FsCF4RKvFFqbV_small.jpg" group-title="VOD XMas",EN | Horror | Better Watch Out 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Elf 2003" tvg-logo="http://mypanel.tv:8080/images/9jChHqqcpe0zHNTqkNqWZkwkgil_small.jpg" group-title="VOD XMas",EN | Comedy | Elf 2003
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Finding Santa 2017" tvg-logo="http://mypanel.tv:8080/images/zYtk6l5drilvmjTUTKfFhotEkl_small.jpg" group-title="VOD XMas",EN | Romance | Finding Santa 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Frosty The Snowman 1969" tvg-logo="http://mypanel.tv:8080/images/zs6epslSJK2qgDJPm4Aa88zkkTW_small.jpg" group-title="VOD XMas",EN | Family | Frosty The Snowman 1969
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Get Santa 2014" tvg-logo="http://mypanel.tv:8080/images/3mUrojiqrTqj9wJ7UFY3nZ2GDB9_small.jpg" group-title="VOD XMas",EN | Comedy | Get Santa 2014
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Fantsy | Gremlins 1984" tvg-logo="http://mypanel.tv:8080/images/qehNFww7A9kRDbqCQNWvaQc8Y4w_small.jpg" group-title="VOD XMas",EN | Fantsy | Gremlins 1984
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Heaven Sent 2016" tvg-logo="http://mypanel.tv:8080/images/dhLWpNK1taCXWRLQopU8mXN41Z4_small.jpg" group-title="VOD XMas",EN | Romance | Heaven Sent 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Home Alone 1990" tvg-logo="http://mypanel.tv:8080/images/5Lo3sWuvbO4AnrAHYBgB5U1Opqd_small.jpg" group-title="VOD XMas",EN | Comedy | Home Alone 1990
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | It's A Wonderful Life 1946" tvg-logo="http://mypanel.tv:8080/images/rgj6QjdyCeDrO9KGt1kusGyhvb2_small.jpg" group-title="VOD XMas",EN | Drama | It's A Wonderful Life 1946
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Joyeux Noel 2005" tvg-logo="http://mypanel.tv:8080/images/9Ka8lKCIiWjnZiMslPQeakS5UhW_small.jpg" group-title="VOD XMas",EN | Romance | Joyeux Noel 2005
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Horror | Krampus 2015" tvg-logo="http://mypanel.tv:8080/images/27SiV4EBHcTBMz4IKANjhX5iIoX_small.jpg" group-title="VOD XMas",EN | Horror | Krampus 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Love Actually 2003" tvg-logo="http://mypanel.tv:8080/images/kfX8Ctin3fSZbdnjh6CXSNZUOVP_small.jpg" group-title="VOD XMas",EN | Comedy | Love Actually 2003
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Mickeys Christmas Carol 1983" tvg-logo="http://mypanel.tv:8080/images/b5bOnImybMdWNA415PXFjMWlsi7_small.jpg" group-title="VOD XMas",EN | Family | Mickeys Christmas Carol 1983
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | National Lampoon's Christmas Vacation 1989" tvg-logo="http://mypanel.tv:8080/images/uh2sQFjRXCwexWcBtV7OEnL1c5G_small.jpg" group-title="VOD XMas",EN | Comedy | National Lampoon's Christmas Vacation 1989
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Fanstay | Scrooged 1988" tvg-logo="http://mypanel.tv:8080/images/9gUQPVt0QZYKUBrGGtknfrsRQ1c_small.jpg" group-title="VOD XMas",EN | Fanstay | Scrooged 1988
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | The Christmas Train 2017" tvg-logo="http://mypanel.tv:8080/images/ncOByX6T8IRnmOprPTmNahmuVK3_small.jpg" group-title="VOD XMas",EN | Family | The Christmas Train 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | The Man Who Invented Christmas 2017" tvg-logo="http://mypanel.tv:8080/images/xYCuRgEKynGurSEooxDa9pQPF7n_small.jpg" group-title="VOD XMas",EN | Drama | The Man Who Invented Christmas 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | The Mistletoe Inn 2017" tvg-logo="http://mypanel.tv:8080/images/5bXS0QreoaRIjHkvLUMLW53hBHg_small.jpg" group-title="VOD XMas",EN | Drama | The Mistletoe Inn 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | The Muppet Christmas Carol 1992" tvg-logo="http://mypanel.tv:8080/images/fe4nLJkDNXhyuMnrZ60MfoSpPes_small.jpg" group-title="VOD XMas",EN | Comedy | The Muppet Christmas Carol 1992
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | The Night Before 2015" tvg-logo="http://mypanel.tv:8080/images/eEGZgNZgN3sZWwoSaL1u2rTGlzj_small.jpg" group-title="VOD XMas",EN | Comedy | The Night Before 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Fantasy | The Preacher's Wife 1996" tvg-logo="http://mypanel.tv:8080/images/z1mU4g9poAgoDQRNLcfNdj3iiMs_small.jpg" group-title="VOD XMas",EN | Fantasy | The Preacher's Wife 1996
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630897.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | The Ref 1994" tvg-logo="http://mypanel.tv:8080/images/njp8Vyx77uCJsGIwnIfu4zfBwFR_small.jpg" group-title="VOD XMas",EN | Comedy | The Ref 1994
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630898.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN | Fantasy | The Santa Clause 1994" tvg-logo="http://mypanel.tv:8080/images/hrZjAYAF1o37k4Qb442c4yxwVLw_small.jpg" group-title="VOD XMas",EN | Fantasy | The Santa Clause 1994
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | The Star 2017" tvg-logo="http://mypanel.tv:8080/images/tEbDvivUfsCupngKIfMJJ725eAD_small.jpg" group-title="VOD XMas",EN | Comedy | The Star 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | Tokyo Godfathers 2003" tvg-logo="http://mypanel.tv:8080/images/aY1q9dTGC8u8TUsAgnpJHsdAdJZ_small.jpg" group-title="VOD XMas",EN | Drama | Tokyo Godfathers 2003
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Trading Places 1983" tvg-logo="http://mypanel.tv:8080/images/6HS7QG5aR0tZ9JHORs7DMtyqCDr_small.jpg" group-title="VOD XMas",EN | Comedy | Trading Places 1983
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | While You Were Sleeping 1995" tvg-logo="http://mypanel.tv:8080/images/9StV7DX4ZtRZGJs9VcVEPvxIKL6_small.jpg" group-title="VOD XMas",EN | Comedy | While You Were Sleeping 1995
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | With Love Christmas 2017" tvg-logo="http://mypanel.tv:8080/images/yg6ijnKB1RH1RPSqjnqRc0sJSPR_small.jpg" group-title="VOD XMas",EN | Romance | With Love Christmas 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Wrapped Up In Christmas 2017" tvg-logo="http://mypanel.tv:8080/images/fLSMmSPaQ5f48pVRnvtrYoLm1Vm_small.jpg" group-title="VOD XMas",EN | Romance | Wrapped Up In Christmas 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | How The Grinch Stole Christmas 2000" tvg-logo="http://mypanel.tv:8080/images/vQfgNHbcIWS2j3AAAzLOtPUGVmB_small.jpg" group-title="VOD XMas",EN | Family | How The Grinch Stole Christmas 2000
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/627095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | The Christmas Cure" tvg-logo="http://mypanel.tv:8080/images/j9aL8s7UbdOBMjBSnECeYkiXJxA_small.jpg" group-title="VOD XMas",EN | Drama | The Christmas Cure
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/630568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Office Christmas Partyy 2016" tvg-logo="http://mypanel.tv:8080/images/1711525.jpg" group-title="VOD XMas",EN | Comedy | Office Christmas Partyy 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/21360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FR | Comedy | Les Chroniques De Noël -The Christmas Chronicles 2018" tvg-logo="http://mypanel.tv:8080/images/pH4hDqlrWIzTNBaBkxG4gJxh4Sh_small.jpg" group-title="VOD XMas",FR | Comedy | Les Chroniques De Noël -The Christmas Chronicles 2018
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | You Cant Fight Christmas 2017" tvg-logo="http://mypanel.tv:8080/images/vVPYNLvkMbkgqADxJxJc74Kj6nI_small.jpg" group-title="VOD XMas",EN | Comedy | You Cant Fight Christmas 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Why Him 2016" tvg-logo="http://mypanel.tv:8080/images/eezFoKz7bXgdbjeieeCYJFXPKSu_small.jpg" group-title="VOD XMas",EN | Comedy | Why Him 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | The Spirit Of Christmas 2015" tvg-logo="http://mypanel.tv:8080/images/yPz7C8gEiaYEpAsq6l5yMRS6LDW_small.jpg" group-title="VOD XMas",EN | Romance | The Spirit Of Christmas 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | The Princess Switch 2018" tvg-logo="http://mypanel.tv:8080/images/biRUM4CBgfJtEQDCttf3zca4epp_small.jpg" group-title="VOD XMas",EN | Romance | The Princess Switch 2018
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | The Flight Before Christmas 2008" tvg-logo="http://mypanel.tv:8080/images/7r4Z2bDmjvTY4hHbhCQqqALS3hl_small.jpg" group-title="VOD XMas",EN | Family | The Flight Before Christmas 2008
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | The Christmas Project 2016" tvg-logo="http://mypanel.tv:8080/images/eJOM9Dnw7C47SRRJwvyXYwjqXYN_small.jpg" group-title="VOD XMas",EN | Romance | The Christmas Project 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Once Upon A Holiday 2015" tvg-logo="http://mypanel.tv:8080/images/mBiLHwCMUCmPfhhkTP87Ht65Qy1_small.jpg" group-title="VOD XMas",EN | Family | Once Upon A Holiday 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Northpole Open For Christmas 2015" tvg-logo="http://mypanel.tv:8080/images/61fWnlrSIvIZ848amcoEvbwGAEF_small.jpg" group-title="VOD XMas",EN | Family | Northpole Open For Christmas 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631309.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | A Christmas To Remember 2016" tvg-logo="http://mypanel.tv:8080/images/vhCiCgNl109rOh3HmMwOtM6B82k_small.jpg" group-title="VOD XMas",EN | Romance | A Christmas To Remember 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | A Joyous Christmas 2017" tvg-logo="http://mypanel.tv:8080/images/rDpoZnuRN92hI5YmpxWCmLQUfWA_small.jpg" group-title="VOD XMas",EN | Romance | A Joyous Christmas 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Christmas Getaway 2017" tvg-logo="http://mypanel.tv:8080/images/ohBJhAI7YJrlYmnr4czCvZj1FW7_small.jpg" group-title="VOD XMas",EN | Romance | Christmas Getaway 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Christmas In The Air 2017" tvg-logo="http://mypanel.tv:8080/images/fq4oaBOE9UNUfkuRJ2lmlLLRE7H_small.jpg" group-title="VOD XMas",EN | Romance | Christmas In The Air 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Christmas Inheritance 2017" tvg-logo="http://mypanel.tv:8080/images/sqdbF40nBzS2IZVAGPxJT7loxoM_small.jpg" group-title="VOD XMas",EN | Romance | Christmas Inheritance 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Crown For Christmas 2015" tvg-logo="http://mypanel.tv:8080/images/z2i3TDhOpG3z9RQiWI3R1fyDs1q_small.jpg" group-title="VOD XMas",EN | Romance | Crown For Christmas 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Miss Christmas 2017" tvg-logo="http://mypanel.tv:8080/images/v0LYOohG976PHjFr2F4Zw5ibX8v_small.jpg" group-title="VOD XMas",EN | Romance | Miss Christmas 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | My Christmas Dream 2016" tvg-logo="http://mypanel.tv:8080/images/syGpFZ9Ch7HTs03GpHrBZ1HhZPe_small.jpg" group-title="VOD XMas",EN | Romance | My Christmas Dream 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Merry Matrimony 2015" tvg-logo="http://mypanel.tv:8080/images/7Dmk4OGItpe40ef2WrNlneHko4E_small.jpg" group-title="VOD XMas",EN | Romance | Merry Matrimony 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Love The Coopers 2015" tvg-logo="http://mypanel.tv:8080/images/nL0rGAxqIT6rBBudFjN8wJDkrVM_small.jpg" group-title="VOD XMas",EN | Comedy | Love The Coopers 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Just In Time For Christmas 2015" tvg-logo="http://mypanel.tv:8080/images/ucKugcPvnAv0nNrdBdVtVOqBW62_small.jpg" group-title="VOD XMas",EN | Family | Just In Time For Christmas 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | Journey Back To Christmas 2016" tvg-logo="http://mypanel.tv:8080/images/be5y2ajRrOJyV9x6ocTls9bBFGS_small.jpg" group-title="VOD XMas",EN | Drama | Journey Back To Christmas 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | I'll Be Home For Christmas 2016" tvg-logo="http://mypanel.tv:8080/images/jecVCKLA2rttDps4jiFdtd0pA3n_small.jpg" group-title="VOD XMas",EN | Family | I'll Be Home For Christmas 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | How Sarah Got Her Wings 2015" tvg-logo="http://mypanel.tv:8080/images/elhXcxDrYUbVH7p5dTMv2k5JlDm_small.jpg" group-title="VOD XMas",EN | Comedy | How Sarah Got Her Wings 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Home Alone The Holiday Heist 2012" tvg-logo="http://mypanel.tv:8080/images/XPbba0kfQkLWjkttnPFPzSf09a_small.jpg" group-title="VOD XMas",EN | Comedy | Home Alone The Holiday Heist 2012
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Crime | Home Alone 4 2002" tvg-logo="http://mypanel.tv:8080/images/359bHILkiD6ZVCq6WoHSD0UuJQV_small.jpg" group-title="VOD XMas",EN | Crime | Home Alone 4 2002
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | Holiday Breakup 2016" tvg-logo="http://mypanel.tv:8080/images/nEMrQYHGXSjmfVcV67cdmZf1Xju_small.jpg" group-title="VOD XMas",EN | Romance | Holiday Breakup 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631297.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Family For Christmas 2015" tvg-logo="http://mypanel.tv:8080/images/SiCTUFCnHFyYz4HWjWThUJOJg9_small.jpg" group-title="VOD XMas",EN | Family | Family For Christmas 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Daddy's Home 2015" tvg-logo="http://mypanel.tv:8080/images/diEAZtU6KJzo6VStL5US8arkdIQ_small.jpg" group-title="VOD XMas",EN | Comedy | Daddy's Home 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Christmas In The Heartland 2017" tvg-logo="http://mypanel.tv:8080/images/4jOa1pFBJM4lKA3kNJcAWD9kR6P_small.jpg" group-title="VOD XMas",EN | Family | Christmas In The Heartland 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Christmas In The Smokies 2015" tvg-logo="http://mypanel.tv:8080/images/7Y8AdauxTmthVVU2hUxqlC3Ko7t_small.jpg" group-title="VOD XMas",EN | Family | Christmas In The Smokies 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Christmas Land 2015" tvg-logo="http://mypanel.tv:8080/images/Al3fCDcKEzH6sDPRu9x5qYFXvo_small.jpg" group-title="VOD XMas",EN | Family | Christmas Land 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | Christmas Connection 2017" tvg-logo="http://mypanel.tv:8080/images/pLwL7nv61j3hu5akeNTRTEnPITU_small.jpg" group-title="VOD XMas",EN | Drama | Christmas Connection 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | Christmas Incorporated 2015" tvg-logo="http://mypanel.tv:8080/images/bpOcutV6cAQqT7ovkfGD99khZZs_small.jpg" group-title="VOD XMas",EN | Drama | Christmas Incorporated 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Christmas Eve 2015" tvg-logo="http://mypanel.tv:8080/images/cjclP7PpxTS1RCO1P6sETPxf820_small.jpg" group-title="VOD XMas",EN | Comedy | Christmas Eve 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | Carol 2015" tvg-logo="http://mypanel.tv:8080/images/2vLRjvAjXDaqU8niiZxP7IilHiD_small.jpg" group-title="VOD XMas",EN | Drama | Carol 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Best Christmas Party Ever 2014" tvg-logo="http://mypanel.tv:8080/images/6aZouvsek0H32QXUmAU67qAvp6i_small.jpg" group-title="VOD XMas",EN | Comedy | Best Christmas Party Ever 2014
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Believe 2017" tvg-logo="http://mypanel.tv:8080/images/6aZouvsek0H32QXUmAU67qAvp6i_small.jpg" group-title="VOD XMas",EN | Comedy | Believe 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Bad Moms 2016" tvg-logo="http://mypanel.tv:8080/images/8sH6LX06JijKQehWo0iSJtbp446_small.jpg" group-title="VOD XMas",EN | Comedy | Bad Moms 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Bad Santa 2 2016" tvg-logo="http://mypanel.tv:8080/images/y3kVZVknjDeLZSanLewaXsuwP12_small.jpg" group-title="VOD XMas",EN | Comedy | Bad Santa 2 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Angel Of Christmas 2015" tvg-logo="http://mypanel.tv:8080/images/oCMW4CDJAMgf30rLxoaVreYlMtG_small.jpg" group-title="VOD XMas",EN | Family | Angel Of Christmas 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Almost Christmas 2016" tvg-logo="http://mypanel.tv:8080/images/ztqeL8yiu12NZUfN9RaE60HPUXz_small.jpg" group-title="VOD XMas",EN | Comedy | Almost Christmas 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631277.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | A Very Merry Toy Store 2017" tvg-logo="http://mypanel.tv:8080/images/9AhY5uNzGTXtUeQRBIeyWkCUxTG_small.jpg" group-title="VOD XMas",EN | Drama | A Very Merry Toy Store 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | A Song For Christmas 2017" tvg-logo="http://mypanel.tv:8080/images/iUtw1ablq5J7jXH1d8XXD8J7RG7_small.jpg" group-title="VOD XMas",EN | Drama | A Song For Christmas 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Fantasy | A Heavenly Christmas 2016" tvg-logo="http://mypanel.tv:8080/images/zYJVX6zB0jmzTOPjJQm6miCfn73_small.jpg" group-title="VOD XMas",EN | Fantasy | A Heavenly Christmas 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | A Christmas Detour 2015" tvg-logo="http://mypanel.tv:8080/images/qIjtjCM8kwTIkjO9aADV7LvglKq_small.jpg" group-title="VOD XMas",EN | Comedy | A Christmas Detour 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | A Christmas Melody 2015" tvg-logo="http://mypanel.tv:8080/images/dSAJpqKITTiGuhidIVrf8Ah7MXP_small.jpg" group-title="VOD XMas",EN | Comedy | A Christmas Melody 2015
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | A Bramble House Christmas 2017" tvg-logo="http://mypanel.tv:8080/images/597m2mYce5eITgKWCdFjm2a0BQI_small.jpg" group-title="VOD XMas",EN | Drama | A Bramble House Christmas 2017
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/631269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Alone For Christmas 2013" tvg-logo="http://mypanel.tv:8080/images/7TNF1QgciEytxoaGHBcwfNvJQyu_small.jpg" group-title="VOD XMas",EN | Comedy | Alone For Christmas 2013
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/632810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | I Am Santa Claus 2014" tvg-logo="http://mypanel.tv:8080/images/lNrWm9E8tMUaDcdJhB92aNJaRQp_small.jpg" group-title="VOD XMas",EN | Drama | I Am Santa Claus 2014
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/632811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | I'll Be Next Door For Christmas 2018" tvg-logo="http://mypanel.tv:8080/images/1KHOB1jePFFSg1Z0N7n3fsP7PL7_small.jpg" group-title="VOD XMas",EN | Comedy | I'll Be Next Door For Christmas 2018
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/632812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Little Lord Fauntleroy 1980" tvg-logo="http://mypanel.tv:8080/images/xclr7DdFhp6tN6wvb5jt5iVmDS3_small.jpg" group-title="VOD XMas",EN | Family | Little Lord Fauntleroy 1980
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/632813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | My Christmas Love 2016" tvg-logo="http://mypanel.tv:8080/images/bVCKFvwrM1zOAWSujv7wPwlCcD0_small.jpg" group-title="VOD XMas",EN | Romance | My Christmas Love 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/632814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | Santa Claus 1985" tvg-logo="http://mypanel.tv:8080/images/tZvGQF2623FD0MZgvOy18J5d7x5_small.jpg" group-title="VOD XMas",EN | Family | Santa Claus 1985
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/632815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Fantasy | Scrooge 1970" tvg-logo="http://mypanel.tv:8080/images/pkN92snLYxKiAh5ZUv5ZzWAbRL0_small.jpg" group-title="VOD XMas",EN | Fantasy | Scrooge 1970
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/632816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | The Christmas Candle 2013" tvg-logo="http://mypanel.tv:8080/images/wNA9PLh3xf2Y0aP3yInFDa92bn7_small.jpg" group-title="VOD XMas",EN | Drama | The Christmas Candle 2013
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/632817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | White Christmas 1954" tvg-logo="http://mypanel.tv:8080/images/A5kBQsHKbIptxJyELEpHQJROCRj_small.jpg" group-title="VOD XMas",EN | Comedy | White Christmas 1954
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/632818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | Wish For Christmas 2016" tvg-logo="http://mypanel.tv:8080/images/9z81XnaxHJ7LYptef6augvgwake_small.jpg" group-title="VOD XMas",EN | Drama | Wish For Christmas 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/632819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Four Christmases 2008" tvg-logo="http://mypanel.tv:80/images/ybEq3gB5lxPwLRwpbZhAwRyziQx_small.jpg" group-title="VOD XMas",EN | Comedy | Four Christmases 2008
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/633828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | The Knight Before Christmas 2019" tvg-logo="http://mytv.fun:8080/images/ivymBQYzYqZoLhvgYg77gSzXKsA_small.jpg" group-title="VOD XMas",EN | Comedy | The Knight Before Christmas 2019
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/663796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Holiday In The Wild 2019" tvg-logo="http://mytv.fun:8080/images/kDXMzBpiUJld5zLnSqDmGln3XuM_small.jpg" group-title="VOD XMas",EN | Comedy | Holiday In The Wild 2019
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/663797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Adventure | Klaus 2019" tvg-logo="http://mytv.fun:8080/images/q125RHUDgR4gjwh1QkfYuJLYkL_small.jpg" group-title="VOD XMas",EN | Adventure | Klaus 2019
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/663798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Let It Snow 2019" tvg-logo="http://mytv.fun:8080/images/rEVu3E1OhMPJeCAn9a6QLyVhZDj_small.jpg" group-title="VOD XMas",EN | Comedy | Let It Snow 2019
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/663799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | Hats Off To Christmas 2013" tvg-logo="http://mytv.fun:8080/images/vPG7e8ONd35cDybzt6KDwpf9eRe_small.jpg" group-title="VOD XMas",EN | Drama | Hats Off To Christmas 2013
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/664152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Drama | Every Christmas Has A Story 2016" tvg-logo="http://mytv.fun:8080/images/vPG7e8ONd35cDybzt6KDwpf9eRe_small.jpg" group-title="VOD XMas",EN | Drama | Every Christmas Has A Story 2016
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/664153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Family | 2nd Chance For Christmas 2019" tvg-logo="http://mytv.fun:8080/images/uhxtLXbZWkF9Eces9BhSetLUlzV_small.jpg" group-title="VOD XMas",EN | Family | 2nd Chance For Christmas 2019
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/664265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Romance | A Very Corgi Christmas 2019" tvg-logo="http://mytv.fun:8080/images/m3SFmO1J1InD2BUcSTssDJvkcbL_small.jpg" group-title="VOD XMas",EN | Romance | A Very Corgi Christmas 2019
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/664266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Fantasy | A Christmas Movie Christmas 2019" tvg-logo="http://mytv.fun:8080/images/fRJMUpSzA1Krzw7jQ70ztAOVIha_small.jpg" group-title="VOD XMas",EN | Fantasy | A Christmas Movie Christmas 2019
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/664267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN | Comedy | Holiday in Handcuffs 2007" tvg-logo="http://mytv.fun:8080/images/fRJMUpSzA1Krzw7jQ70ztAOVIha_small.jpg" group-title="VOD XMas",EN | Comedy | Holiday in Handcuffs 2007
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/664268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE | Drama | 47 Ronin (2013)" tvg-logo="http://mytv.fun:80/images/pUH46wa0n4zXZytpriSaoNUXai4_small.jpg" group-title="VOD Germany 3D",DE | Drama | 47 Ronin (2013)
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/650293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE | Family | Asterix and Obelix Im Auftrag Ihrer Majestat (2012)" tvg-logo="http://mytv.fun:80/images/rbdGCkvLPxuSvfVwHDK4PmOqmIm_small.jpg" group-title="VOD Germany 3D",DE | Family | Asterix and Obelix Im Auftrag Ihrer Majestat (2012)
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/650294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE | Adventure | Baymax Riesiges Robowabohu (2014)" tvg-logo="http://mytv.fun:80/images/9gLu47Zw5ertuFTZaxXOvNfy78T_small.jpg" group-title="VOD Germany 3D",DE | Adventure | Baymax Riesiges Robowabohu (2014)
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/650295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE | Adventure | Cars 3 Evolution (2017)" tvg-logo="http://mytv.fun:80/images/fyy1nDC8wm553FCiBDojkJmKLCs_small.jpg" group-title="VOD Germany 3D",DE | Adventure | Cars 3 Evolution (2017)
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/650296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fantasy | Dark World Das Tal der Hexenkonigin (2010)" tvg-logo="http://mytv.fun:80/images/loAbo79VuWxDxoWPYH8CEXAuXIr_small.jpg" group-title="VOD Germany 3D",DE | Fantasy | Dark World Das Tal der Hexenkonigin (2010)
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/650297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE | Thriller | Das Haus der Geheimnisse (2011)" tvg-logo="http://mytv.fun:80/images/csuRugqNhzEwcEK4NFSsO6NrVGH_small.jpg" group-title="VOD Germany 3D",DE | Thriller | Das Haus der Geheimnisse (2011)
+http://tv.xtream.itv.world:8080/movie/dux238pf8/wijaxkt31i/650298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE | Adventure | Dead Before Dawn 3D (2012)" tvg-logo="http://mytv.fun:80/images/lkbVIu7nJm3IlchcHdqDKJsjCZ7_small.jpg" group-title="VOD …
