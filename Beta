@@ -6,3 +6,9 @@ https://stream-11.dc3.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrXBgSjEIfINzyA56A4
 #EXTINF:0,Atv Hd
 #EXTTV:nacionalni,hd;slovenski;ATV;http://asakyuznakliyat.com/wp-content/uploads/logo-atv.jpg
 https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=CF4LGObTUPwjHlfWpWJzmA&e=1631055709&SessionID=qajsruuvx24wdhz2zbokwor5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=mobil
+
+
+
+#EXTINF:0,KanalD Hd
+#EXTTV:nacionalni,hd;slovenski;KANALD;https://images.app.goo.gl/9MpkKocRrKLL6t1D8
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
