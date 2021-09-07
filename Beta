@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:1,TV Channel
 #EXTTV:Tag1-Tag2-Tag3;lang;XML-TV-Channel;Channel_Icon
 udp://@10.10.10.10:1000
