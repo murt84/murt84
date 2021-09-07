@@ -1,4 +1,12 @@
 #EXTM3U
 #EXTINF:0,Star Tv
-#EXTTV:nacionalni,hd;slovenski;SLO1;https://cdn.freelogovectors.net/wp-content/uploads/2018/04/Star_TV_Logo.png
+#EXTTV:nacionalni,hd;slovenski;STARTV;https://cdn.freelogovectors.net/wp-content/uploads/2018/04/Star_TV_Logo.png
 https://stream-11.dc3.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrXBgSjEIfINzyA56A4YiBxU)/dm/3/x729whv/s/live-3.m3u8#cell=lcore
+
+
+
+
+#EXTINF:0,Atv Hd
+#EXTTV:nacionalni,hd;slovenski;ATV;http://asakyuznakliyat.com/wp-content/uploads/logo-atv.jpg
+https://stream-11.dc3.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrXBgSjEIfINzyA56A4YiBxU)/dm/3/x729whv/s/live-3.m3u8#cell=lcore
+https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=CF4LGObTUPwjHlfWpWJzmA&e=1631055709&SessionID=qajsruuvx24wdhz2zbokwor5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=mobil
