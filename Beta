@@ -9,6 +9,6 @@ https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=CF4LGObTUPwjHlfWpWJzmA&e=
 
 
 
-#EXTINF:0,KanalD Hd
-#EXTTV:nacionalni,hd;slovenski;KANALD;https://images.app.goo.gl/9MpkKocRrKLL6t1D8
-https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
+#EXTINF:0,tv8 5 Hd
+#EXTTV:nacionalni,hd;slovenski;TV8;https://image.pngaaa.com/643/774643-middle.png
+https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
