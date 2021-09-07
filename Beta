@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:1,TV Channel
-#EXTTV:Tag1-Tag2-Tag3;lang;XML-TV-Channel;Channel_Icon
-udp://@10.10.10.10:1000
+#EXTINF:0,SLO 1 HD
+#EXTTV:nacionalni,hd;slovenski;SLO1;http://cdn1.siol.tv/logo/93x78/slo2.png
+udp://@239.10.2.56:5000
