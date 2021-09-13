@@ -1,0 +1,564 @@
+#EXTINF:0 tvg-id="ext" group-title="radyo",arabesk radyo
+http://37.247.101.101:5934
+#EXTINF:0 tvg-id="ext" group-title="radyo",arabesk fm
+http://www.arabeskinsesi.net:9958/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",mamaş fm arabesk
+http://mamasfm.com:3500/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",aşk fm
+http://yayin.asymedya.com:8020
+#EXTINF:0 tvg-id="ext" group-title="radyo",baba radyo
+http://37.247.100.100:1935/best/babaradyo.stream/media_w2062193473_152751.aac
+#EXTINF:0 tvg-id="ext" group-title="radyo",damar fm
+https://yayin.damarfm.com:80/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",best fm
+http://46.20.7.125:80
+#EXTINF:0 tvg-id="ext" group-title="radyo",damar fm
+http://yayin.damarfm.com:8080
+#EXTINF:0 tvg-id="ext" group-title="radyo",alem fm
+http://scturkmedya.radyotvonline.com/stream/80/
+#EXTINF:0 tvg-id="ext" group-title="radyo",karadeniz fm
+http://37.247.100.100/shoutcast/karadenizfm.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",slow karadeniz
+http://dinle.slowkaradenizfm.com:9578
+#EXTINF:0 tvg-id="ext" group-title="radyo",karanediz sesi fm
+http://95.173.188.155:7070/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",hamsi fm 😂🤣😅
+http://radyo.hamsi.fm:8050/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",kral fm
+http://46.20.3.204:80/
+#EXTINF:0 tvg-id="ext" group-title="radyo",kral pop fm
+http://46.20.3.201:80
+#EXTINF:0 tvg-id="ext" group-title="radyo",taksim fm
+http://95.211.162.32:8000
+#EXTINF:0 tvg-id="ext" group-title="radyo",taksim fm arabesk
+http://95.211.162.32:8008
+#EXTINF:0 tvg-id="ext" group-title="radyo",taksim fm oyun havası
+http://95.211.162.32:8012
+#EXTINF:0 tvg-id="ext" group-title="radyo",taksim fm club mix
+http://95.211.162.32:8016
+#EXTINF:0 tvg-id="ext" group-title="radyo",taksim fm pop
+http://95.211.162.32:8014
+#EXTINF:0 tvg-id="ext" group-title="radyo",taksim fm rap
+http://95.211.162.32:8018
+#EXTINF:0 tvg-id="ext" group-title="radyo",taksim fm slow
+http://95.211.162.32:8002
+#EXTINF:0 tvg-id="ext" group-title="radyo",türkiyem fm
+http://turkiyemfm.canliyayinda.com:8032
+#EXTINF:0 tvg-id="ext" group-title="radyo",türkü fm
+http://radyo.turkuradyo.net:4591
+#EXTINF:0 tvg-id="ext" group-title="radyo",türkülerle türkiye
+https://moondigitalmaster.radyotvonline.net/turkulerleturkiye/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",süper fm
+https://18463.live.streamtheworld.com/SUPER2128AAC.aac
+#EXTINF:0 tvg-id="ext" group-title="radyo",retro türk fm
+https://17753.live.streamtheworld.com/RETROTURK128AAC.aac
+#EXTINF:0 tvg-id="ext" group-title="radyo",REMIX TürkFm
+http://remixtu1.80.yayin.com.tr//mp3/1/?icy=http
+#EXTINF:0 tvg-id="ext" group-title="radyo",radyo remix
+http://radyoremix.canliyayinda.com:8304/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",rap home
+https://moondigitalmaster.radyotvonline.net/raphome/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",fenomen pop
+https://listen.radyofenomen.com/fenomenpop/128/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",fenomen rap
+https://listen.radyofenomen.com/fenomenrap/128/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",fenomen türkçe rap
+https://listen.radyofenomen.com/fenomenturkrap/128/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",fenomen
+https://listen.radyofenomen.com/fenomen/128/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",fenomen akustik
+https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",fenomen clubbin
+https://listen.radyofenomen.com/fenomenclubbin/128/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",fenomen dans
+https://listen.radyofenomen.com/fenomendans/128/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",fenomen karışık
+https://listen.radyofenomen.com/fenomenkarisik/128/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",fenomen oriental
+https://listen.radyofenomen.com/fenomenoriental/128/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",fenomen türk
+https://listen.radyofenomen.com/fenomenturk/128/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",radyo ahmet kaya
+http://ahmetkaya.canliyayinda.com:9999/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",radyo 2000
+http://broadcasttr.com:8004/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",pal nostalji
+http://shoutcast.radyogrup.com:1010/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",pal alaturka
+http://shoutcast.radyogrup.com:3050/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",powertürk rap
+https://listen.powerapp.com.tr/powerturkrap/abr/powerturkrap/128/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",Ninniler Zzz..
+https://22193.live.streamtheworld.com/SC041_SO1AAC.aac
+#EXTINF:0 tvg-id="ext" group-title="radyo",Kastamonu 105 fm
+http://yayin.turkhosted.com:6004/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",ankara havaları
+http://37.247.98.8/stream/30/
+#EXTINF:0 tvg-id="ext" group-title="radyo",popüler fm
+http://37.59.205.232:9344/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",dijital radyo
+http://yayin.liderhost.net:9406/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",ilaç radyo
+http://95.173.184.20:9798/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",KISS Dance
+http://dijimedya.radyotvonline.net/kissdance
+#EXTINF:0 tvg-id="ext" group-title="radyo",KISS BeatBox
+http://dijimedya.radyotvonline.net/radiobeatbox
+
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 BEST OF
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 CLASSİC
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 DANCE
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e33b514f52_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 DEEP HOUSE
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e35cb55bf5_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 DİSCO
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 ERTUĞRUL ÖZKÖK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 FM https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 GREEK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e389058588_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 HEART
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e367972335_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 JAZZ
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3e06878b9_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 LOUNGE
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e37fbcb763_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 RNB
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3aecf0941_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 ROCK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e39cae8c9c_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 SLOW
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3a53317d4_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 TURK 90LAR  https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e325182420_1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 TURK DAMAR
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ce2c120f_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1
+TURK ELLER HAVAYA
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3303b3edf_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 TÜRK FM
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 TURK MEGASTAR
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e373ab0257_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 TURK MİNİK SERÇE
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ffc12f95_1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 TÜRK RAP
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e42fe816a0_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1
+TÜRK ROCK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3c44cad10_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 TÜRK SLOW
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e318b5ac09_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 TÜRK ÜMC
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e392765b48_1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",NUMBER 1 WORLD
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL ALA
+http://shoutcast.radyogrup.com:3040/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL ALATURKA
+http://shoutcast.radyogrup.com:3050/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL BESK
+http://shoutcast.radyogrup.com:3010/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL DOĞA
+http://shoutcast.radyogrup.com:1040/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL DOĞA https://ssl4.radyotvonline.com/radyohome/paldogahome.stream_aac/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL FM 
+http://shoutcast.radyogrup.com:1030/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL FM
+https://ssl4.radyotvonline.com/radyohome/palfmhome.stream_aac/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL LAGEND
+http://shoutcast.radyogrup.com:3030/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL MİNA
+http://shoutcast.radyogrup.com:3070/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL NOSTALJİ
+http://shoutcast.radyogrup.com:1010/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL NOSTALJİ
+https://ssl4.radyotvonline.com/radyohome/palnostaljihome.stream_aac/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL ORIENT
+http://shoutcast.radyogrup.com:1050/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL ORIENT
+https://ssl4.radyotvonline.com/radyohome/palorienthome.stream_aac/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL RABIA
+http://shoutcast.radyogrup.com:3000/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL SLOW
+http://shoutcast.radyogrup.com:2020/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL STATION
+http://shoutcast.radyogrup.com:1020/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",PAL STATION
+https://ssl4.radyotvonline.com/radyohome/palstationhome.stream_aac/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER Dance
+https://cros9.yayin.com.tr/http://powerdance.listenpowerapp.com/powerdance/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER Deep
+https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER FM
+https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER Gold
+https://cros9.yayin.com.tr/http://powergold.listenpowerapp.com/powergold/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER Greece
+https://cros9.yayin.com.tr/http://powergreece.listenpowerapp.com/powergreece/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER Love
+https://cros9.yayin.com.tr/http://powerlove.listenpowerapp.com/powerlove/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER Pop
+https://cros9.yayin.com.tr/http://powerpop.listenpowerapp.com/powerpop/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER HipHoP
+https://cros9.yayin.com.tr/http://powerrbhiphop.listenpowerapp.com/powerrbhiphop/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER Jazz
+https://cros9.yayin.com.tr/http://powersmoothjazz.listenpowerapp.com/powersmoothjazz/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER TürkAkustik
+https://cros9.yayin.com.tr/http://powerturkakustik.listenpowerapp.com/powerturkakustik/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER TürkEfsane
+https://cros9.yayin.com.tr/http://powerturkefsane.listenpowerapp.com/powerturkefsane/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER TürkEnIyiler
+https://cros9.yayin.com.tr/http://powerturkeniyiler.listenpowerapp.com/powerturkeniyiler/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER Türk
+https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER TürkTapTaze
+https://cros9.yayin.com.tr/http://powerturktaptaze.listenpowerapp.com/powerturktaptaze/mpeg/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",POWER XtraLounge
+https://cros9.yayin.com.tr/http://powerextralounge.listenpowerapp.com/powerextralounge/mpeg/icecast.audio
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",Metro 90lar
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC033_SO1_SC?/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",Metro dance
+https://22193.live.streamtheworld.com/SC031_SO1AAC.aac
+#EXTINF:0 tvg-id="ext" group-title="radyo",https://17703.live.streamtheworld.com/METRO_FM.mp3
+#EXTINF:0 tvg-id="ext" group-title="radyo",Metro rnb
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC034_SO1_SC?/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",JOY Fm
+https://17703.live.streamtheworld.com/JOY_FM.mp3
+#EXTINF:0 tvg-id="ext" group-title="radyo",JOY Fm2
+https://17703.live.streamtheworld.com/JOY_FM2.mp3
+#EXTINF:0 tvg-id="ext" group-title="radyo",JOY Jazz
+https://17773.live.streamtheworld.com/JOY_JAZZ.mp3
+#EXTINF:0 tvg-id="ext" group-title="radyo",JOY 
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC029_SO1_SC?/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",JOY Türk2
+https://17703.live.streamtheworld.com/JOY_TURK2.mp3
+#EXTINF:0 tvg-id="ext" group-title="radyo",JOY Türk Akustik
+https://21293.live.streamtheworld.com/SC004_SO1AAC.aac
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",NRJ Finland
+https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac
+#EXTINF:0 tvg-id="ext" group-title="radyo",HiTmIx Finland
+https://supla.digitacdn.net/live/_definst_/supla/hitmix/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",kiss fm finland
+https://stream.bauermedia.fi/kiss/kiss_128.mp3
+#EXTINF:0 tvg-id="ext" group-title="radyo",iskelmä fm finland
+https://stream-redirect.bauermedia.fi/iskelma/iskelma_128.mp3
+#EXTINF:0 tvg-id="ext" group-title="radyo",Nova fm finland
+https://stream-redirect.bauermedia.fi/radionova/radionova_128.mp3
+#EXTINF:0 tvg-id="ext" group-title="radyo",suomirap fm finland
+https://stream-redirect.bauermedia.fi/suomirap/suomirap_64.aac
+#EXTINF:0 tvg-id="ext" group-title="radyo",yleradio fm finland
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_3@113880/index_256_a-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="radyo",yleXM fm finland
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_6@113883/index_256_a-p.m3u8
+
+
+
+     ///   RAP  \\\
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",eminem 24/7
+https://streaming.exclusive.radio/er/eminem/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="radyo",90s summerhits
+http://streams.90s90s.de/90s90s-sommerhits/mp3-192/streams.90s90s.de/play.pls
+
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 1
+http://192.211.51.158:5413/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 2
+http://158.69.4.114:8150/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 3
+http://188.165.221.132:8002/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 4
+http://149.56.157.81:5024/;stream/1
+
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 5
+https://uk7.internet-radio.com/proxy/faymusradio?mp=/stream;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 6
+https://us3.internet-radio.com/proxy/batalpiiradio?mp=/live
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 7
+http://149.56.157.81:8569/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 8
+http://95.211.162.32:8018/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 8
+http://5.196.56.208:8048/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 9
+http://traditionalhiphop.zapto.org:7500/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 10
+https://us3.internet-radio.com/proxy/chiefchilee?mp=/stream;
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 11
+http://198.143.144.226:8277/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 12
+http://192.99.8.170:7886/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 13
+https://us4.internet-radio.com/proxy/jtyner70?mp=/stream;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 14
+http://144.217.203.184:8081/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 15
+http://www.partyviberadio.com:8040/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 16
+http://69.175.13.130:8110/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 17
+http://192.99.41.102:5316/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 18
+http://192.211.51.158:8010/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 19
+http://91.121.77.158:8264/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 20
+http://192.99.4.210:3664/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 21
+http://85.25.237.157:8266/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 22
+http://stream.cerritosallstars.com/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 23
+http://198.27.83.198:5112/;stream/1
+
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop
+24
+http://192.99.35.215:5137/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 25
+http://149.56.157.81:8764/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 26
+http://208.77.21.31:14910/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 27
+http://192.99.8.170:6708/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 28
+http://69.46.47.237:8074/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop29
+http://91.121.3.59:13000/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 30
+http://144.217.203.184:8081/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 31
+http://212.83.150.15:8066/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 32
+http://62.210.24.124:8811/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 33
+http://69.175.94.98:8302/;stream/1
+
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 34
+http://91.121.165.41:9049/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 35
+http://162.244.80.106:11120/;
+
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 36
+http://144.217.129.213:9238/;stream/1
+
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 37
+http://xradio.zone:9420/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 38
+http://108.163.197.114:8223/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 39
+http://212.83.150.15:8054/;stream/1
+
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 40
+http://149.56.157.81:8752/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 41
+http://94.23.213.103:8000/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 42
+http://208.77.21.31:14930/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 43
+http://162.244.80.131:8024/;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 44
+http://192.111.140.11:8520/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 45
+http://198.245.60.88:8272/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 46
+http://38.96.148.134:5052/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 47
+http://206.190.150.90:8394/;
+
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 48
+http://149.56.175.167:5808/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 49
+
+http://149.56.157.81:5052/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 50
+http://149.56.175.167:5852/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 51
+http://192.99.35.215:5769/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 52
+http://149.56.157.81:8575/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 53
+http://198.27.83.198:5542/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 54
+http://37.59.37.6:7298/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 55
+http://91.121.205.70:10470/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 56
+http://xradio.zone:9420/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 57
+http://centova.pure-isp.eu:8015/high_autodj
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 58
+http://37.59.47.192:8628/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 59
+http://149.56.175.167:5724/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 60
+http://149.56.157.81:8752/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 61
+http://144.217.203.184:8433/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 61
+http://149.56.157.81:5006/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 62
+http://95.154.193.6:8103/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 63
+http://162.244.80.106:8125/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 64
+http://163.172.198.16:8704/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 65
+http://38.96.148.134:5052/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 66
+http://149.56.175.167:5858/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 67
+http://149.56.175.167:5790/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 68
+http://162.244.80.106:8868/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 69
+http://83.137.145.141:14220/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 70
+http://213.202.241.199:9440/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 71
+http://149.56.157.81:5076/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 72
+http://67.222.145.108:8005/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 73
+http://188.165.240.90:9000/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 74
+http://149.56.175.167:5864/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 75
+http://centova.pure-isp.eu:8015/high_autodj
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 76
+http://149.56.175.167:5724/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 76
+http://149.56.157.81:8740/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 77
+http://144.217.195.24:8383/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 78
+http://142.4.215.64:8124/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 79
+http://149.56.157.81:8770/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 80
+http://192.99.4.210:3274/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 81
+http://149.56.157.81:8764/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 82
+http://162.244.80.106:8125/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 83
+http://149.56.157.81:8824/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 84
+http://149.56.157.81:8758/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 85
+http://149.56.157.81:8782/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 86
+http://149.56.157.81:8812/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 87
+http://162.244.80.106:8868/;
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 88
+http://149.56.157.81:8818/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 89
+http://192.99.4.210:3397/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 90
+http://149.56.175.167:5632/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 91
+http://91.232.4.33:7154/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 92
+http://149.56.157.81:8740/;stream/1
+#EXTINF:0 tvg-id="ext" group-title="radyo",RnBRaPHipHop 93
+http://149.56.175.167:5509/;stream/1
+
+
+      ///    POP  \\\
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 1
+https://uk1.internet-radio.com/proxy/thezone?mp=/stream;
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 2
+https://us2.internet-radio.com/proxy/mahaperiyavausa?mp=/live
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 3
+https://us3.internet-radio.com/proxy/valsang?mp=/live
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 4
+https://us5.internet-radio.com/proxy/outadebox?mp=/stream;
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 5
+http://www.partyviberadio.com:8024/;stream/1
+
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 6
+https://uk7.internet-radio.com/proxy/radiomerge?mp=/stream;
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 7
+https://uk2.internet-radio.com/proxy/magic1152?mp=/live
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 8
+https://us3.internet-radio.com/proxy/radiotelecosmopolite?mp=/live
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 9
+https://de1.internet-radio.com/proxy/pohodaradio?mp=/stream;
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 10
+https://uk6.internet-radio.com/proxy/brassbandradio?mp=/stream;
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 11
+https://uk6.internet-radio.com/proxy/pvradio?mp=/stream;
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 12
+https://uk5.internet-radio.com/proxy/top80radio?mp=/stream;
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 13
+https://us3.internet-radio.com/proxy/thecube?mp=/stream;
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 14
+https://uk7.internet-radio.com/proxy/sweetoneradio?mp=/live
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 15
+https://us5.internet-radio.com/proxy/afterhours?mp=/live
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 16
+https://us3.internet-radio.com/proxy/beatvariety?mp=/live
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 17
+https://uk1.internet-radio.com/proxy/lounge?mp=/stream;
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 18
+https://uk7.internet-radio.com/proxy/danceradioukchatbox?mp=/stream;
+#EXTINF:0 tvg-id="ext" group-title="radyo",POP 19
+https://uk2.internet-radio.com/proxy/divinestream?mp=/stream;
