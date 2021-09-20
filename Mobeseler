@@ -173,4 +173,26 @@ http://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_1.stream/chunkli
 http://ibb-media2.ibb.gov.tr:1935/live/564.stream/chunklist_w747483282.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",Esenler
+https://livestream.ibb.gov.tr/cam_sehir/cam_esenler_meydan.stream/chunklist_w26844206.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",Sultanbeyli
+https://livestream.ibb.gov.tr/cam_sehir/cam_sultanbeyli_meydan.stream/chunklist_w2081559607.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",Üsküdar
+https://livestream.ibb.gov.tr/cam_sehir/cam_uskudar.stream/chunklist_w1766638688.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",Zeytinburnu
+https://livestream.ibb.gov.tr/cam_sehir/cam_zeytinburnu_meydan.stream/chunklist_w1311203037.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",KüçükÇekmece
+https://livestream.ibb.gov.tr/cam_sehir/cam_kucukcekmece.stream/chunklist_w1258227160.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",OrtaKöy
+https://livestream.ibb.gov.tr/cam_sehir/cam_ortakoy.stream/chunklist_w598697139.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Mobeseler",Anadolu Hisarı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_anadolu_hisari.stream/chunklist_w1884057384.m3u8
+
 
