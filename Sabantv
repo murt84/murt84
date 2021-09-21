@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Kemal Sunal Hakkında
 https://cloclo2.cloud.mail.ru/videowl/1080p_1/aHo0Yi9CVkR1Z3ZqN1c=.m3u8?double_encode=1
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",,Kemal Sunal Belgesel
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Kemal Sunal Belgesel
 https://cloclo59.cloud.mail.ru/videowl/720p_1/UlJyUC9id2Vmb3FaODM=.m3u8?double_encode=1
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",24/7 Kemal Sunal 1
@@ -202,11 +202,50 @@ https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCTbK3/nN2tDg/
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Öğretmen
 https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChQtEtWLglYGpadOHNoVDxh1OoeaYRAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBZRVUsDE1AWPTs1HTwiZCtlOnQ9LTcgAx4PFhk6OURMLzU_U2ULMzU9GR12Ymos&ngsw-bypass=1
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Oh Olsun
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCTbK3/nN2tDg/mp4/ChQwD_Rn1pE4uWASwMZfIpRgMQkW7xAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBdWV0sDE1AWPTs1HTwiZFB-FxxWIxE-GkpsMwwpT1AWITNJU2ULNyIjCQM7JDceVyt4QVIG&ngsw-bypass=1
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Ortadirek Şaban
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChT-1VyYXDXgTnuzG-7MSOU-DA8RfhAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBdVWkkDE1AWPTs1HTwiZF1HZw4CMwchBzUtHjUnLBplKVcMEANKQGIWDE19Aw&ngsw-bypass=1
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Polizei
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChQ8JP2Rrzr3-YsKR1pnOGglNa6qFRAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBdUUEADE1AWPTs1HTwiZBFrFUMiEhorPSkaODYzTDlKIxkBfGULM2EOdio9Ymos&ngsw-bypass=1
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Postacı
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/gCTbK3/nN2tDg/mp4/ChTRy2cHpOTDkGrg5NlFK671KcgF0hAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBdTV0sDE1AWPTs1HTwiZDtZZ24DNQ9eFT0yUGYcKz1rUwgfawdwF2VpIgsXYmos&ngsw-bypass=1
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Postacı
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChS_q_CQuAymz2B9j0IJV9XUtSW6SxAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBdTWk8DE1AWPTs1HTwiZBlhAAAoDDcDJTw9UGYYOxoTNBIeSwxWGWUUIw8LYmos&ngsw-bypass=1
 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Şaban Pabucu Yarım
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChSBKqynLuijokcSk4JHlsq8acQYChAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBdSVkADE1AWPTs1HTwiZF96FW03MBYTJjc4HCEoTD12UFFNciFeQRQMBE19Aw&ngsw-bypass=1
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Şabaniye
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChSXOipcoFz4nu2qb1p1UmgrXodWzBAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBdQV0sDE1AWPTs1HTwiZCR6PXENNAMcCy01MBVsHRFMISxJQBJ7JTkrcU19Aw&ngsw-bypass=1
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Sahte Kabadayı 
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCTbK3/nN2tDg/mp4/ChRgM3brgR0AIa4kZikkf_lCXsGBlBAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBdQWkkDE1AWPTs1HTwiZCdfYEoKUiAAQVcfMgQELSVPCxJAajBtCBc1Ik19Aw&ngsw-bypass=1
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Sakar Şakir
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChQhHdcVtu_H50RNTDA9GO7p2KMrWRAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBdfVEgDE1AWPTs1HTwiZC9LYlstVgUNSkpsM2Y8FDJpLxsRVC1rEysYcgoDYmos&ngsw-bypass=1
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Salak Milyoner
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCTbK3/nN2tDg/mp4/ChSO7CsZDV3q2rkTJ50J922dHNINOBAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBdeWkkDE1AWPTs1HTwiZFFQYk5QKjM6NTxmQjFuKgYcPlBcFwJSVGEcED04YmsuencKIA&ngsw-bypass=1
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Şark Bülbülü
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChRwkmJV7tbseWtiT7tMP9OLi4bMJxAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBBXV0wDE1AWPTs1HTwiZDF5HFhdKXEhQz4rRmQ5PRJPCzs4AHJ7EgMOMiIXYmos&ngsw-bypass=1
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Şaşkın Damat
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChRrKVOZGzcxd8yWTGZfdN7oB7XJARAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBBWUEADE1AWPTs1HTwiZB5kHmo1BzQlKx4QB2QRHU1qHRUUHTJ4GGQgJk19Aw&ngsw-bypass=1
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Saygılar Bizden
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCTbK3/nN2tDg/mp4/ChSPr4ogLMcWO4pohbn_PBcPOIEnVRAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBBVV04DE1AWPTs1HTwiZBIFA21UEhQyHQoqFzkrSiNIVik8UhZfJx0jNk19Aw&ngsw-bypass=1
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Şendul Şaban
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChTYUU7lGezn5ZJM0Ao_9TSPBHVsUhAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBBUUkkDE1AWPTs1HTwiZCFbEQwGGC4lQzlmJTVuTxtGJjkgVA9xAxo7Ik19Aw&ngsw-bypass=1
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/muratmedya/image/upload/v1630438259/imagen-saban-tv-izle-0thumb_bz1qlu.png",Sevimli Hırsız
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/gCTbK3/1t-YDA/mp4/ChTKAY01aLzYjzgYGDdaxDSZDCQ6ghAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DZ2xAQBBUVE4DE1AWPTs1HTwiZC1DOm1RBAASCy4pOg0YN0VLFhQ6FjRdPgQ5Nk19Aw&ngsw-bypass=1
 
 
 
