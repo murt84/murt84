@@ -1,0 +1,72 @@
+Kanal ismi="denizpostasi"
+    <head>
+        <meta charset=utf-8/>
+    </head>
+    <body>
+        <div id='player'>
+            <video width="352" height="300" src="http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8" controls autoplay>
+            </video>
+        </div>
+    </body>
+</html>
+
+Kanal ismi="Kanal7"
+    <head>
+        <meta charset=utf-8/>
+    </head>
+    <body>
+        <div id='player'>
+            <video width="352" height="300" src="
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8" controls autoplay>
+            </video>
+        </div>
+    </body>
+</html>
+
+Kanal ismi="MaviKaraDeniz"
+    <head>
+        <meta charset=utf-8/>
+    </head>
+    <body>
+        <div id='player'>
+            <video width="352" height="300" src="http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8" controls autoplay>
+            </video>
+        </div>
+    </body>
+</html>
+
+Kanal ismi="PowerTürkHd"
+    <head>
+        <meta charset=utf-8/>
+    </head>
+    <body>
+        <div id='player'>
+            <video width="352" height="300" src="https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8" controls autoplay>
+            </video>
+        </div>
+    </body>
+</html>
+
+sportstv 👇👇 
+<html>
+<body>
+    <video width="400" height="400" controls>
+        <source src="https://live.sportstv.com.tr/hls/low/sportstv.m3u8" type="application/x-mpegURL">
+    </video>
+</body> 
+
+Star 👇👇 
+<html>
+<body>
+    <video width="400" height="400" controls>
+        <source src="https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+</body> 
+
+AfyonTürk 👇👇 
+<html>
+<body>
+    <video width="400" height="400" controls>
+        <source src="https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+</body> 
