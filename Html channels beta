@@ -59,7 +59,7 @@ Star 👇👇
 <html>
 <body>
     <video width="400" height="400" controls>
-        <source src="https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/playlist.m3u8" type="application/x-mpegURL">
+        <source src="https://dogus-live.daioncdn.net/startv/playlist.m3u8" type="application/x-mpegURL">
     </video>
 </body> 
 
