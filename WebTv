@@ -19,7 +19,7 @@ file: [
 {"title": "star","file": "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8"},
 {"title": "NTV","file": "https://tr3e.herokuapp.com/https://izmir.tvizlehd.com/live/ntv.m3u8"},
 {"title": "showtv","file": "https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8"},
-{"title": "kanald","file": "https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8"},
+{"title": "kanald","file": "https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8"},
 {"title": "TRT 2","file": "http://167.114.115.233:8080/trt2fhd/index.m3u8"},
 {"title": "TRT WORLD","file": "https://tv-trtworld.live.trt.com.tr/master.m3u8"},
 {"title": "TRT HABER","file": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"},
