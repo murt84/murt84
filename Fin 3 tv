@@ -17,6 +17,10 @@ file: [
 {"title": "yle teema","file": "https://yletv-lh.akamaihd.net/i/yleteemafemfi_1@490775/master.m3u8"},
 {"title": "fox fin","file": "https://segments1.booxmedia.com/premium/56dd7ff7e5c1438e57a840878c12d172521947ac9fe750d2dc14b07c72bb477f/f8e68cba842d88da8dea06d1500ffbf76fa42ceffca3cd77a055592365f5a8c3/62070673/live/529/529.isml/529-audio_aac_48000_stereo_fin=96000-video_h264=2500000.m3u8"},
 {"title": "nat geo fin","file": "https://segments1.booxmedia.com/premium/34d27fe80e2f2144787eb05138ed47e2704da215dcd2c23247433af158dcb295/f8e68cba842d88da8dea06d1500ffbf76fa42ceffca3cd77a055592365f5a8c3/620706c2/live/201/201.isml/201-audio_aac_48000_stereo_eng=96000-video_h264=2800000.m3u8"},
+{"title": "ylepuhe","file": "http://icecast.live.yle.fi/radio/YlePuhe/icecast.audio"},
+{"title": "yleradio1","file": "http://icecast.live.yle.fi/radio/YleRadio1/icecast.audio"},
+{"title": "yleRS","file": "http://icecast.live.yle.fi/radio/YleRS/icecast.audio"},
+
 
 
 
