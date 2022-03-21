@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ABCNews.al" group-title="News",ABC News
+#EXTINF:0 tvg-id="ABCNews.al" group-title="News",turkmen 1
 https://alpha.tv.online.tm/legacyhls/ch001.m3u8
-#EXTINF:0 tvg-id="ABCNews.al" group-title="News",ABC News (540p) [Not 24/7]
+#EXTINF:0 tvg-id="ABCNews.al" group-title="News",turkmen 2
+https://alpha.tv.online.tm/legacyhls/ch002.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 3
+https://alpha.tv.online.tm/legacyhls/ch003.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 4
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",AlbUK TV (1080p)
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Apollon TV
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",EuroAl TV
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews Albania
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="News24.al" group-title="News",News 24 (576p)
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Peace TV Albanian (Peace TV Shqip)
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="RTK.al" group-title="News",RTK 1 HD (720p)
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",RTK 2 (720p)
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",RTK 3 (720p)
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",RTK 4 (720p)
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",RTV Ilirida (274p) [Not 24/7]
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
-#EXTINF:0 tvg-id="SyriTV.al" group-title="News",Syri TV
-http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:0 tvg-id="ext" group-title="News",TV 7 Albania (540p)
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",TV Koha
-rtmp://live.tvkoha.tv:1935/live/koha/livestream
-#EXTINF:0 tvg-id="ext" group-title="News",Zjarr Televizion (1080p)
-http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 5
+https://alpha.tv.online.tm/legacyhls/ch005.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 6
+https://alpha.tv.online.tm/legacyhls/ch006.m3u8
+#EXTINF:0 tvg-id="News24.al" group-title="News",turkmen 7
+https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 8
+https://alpha.tv.online.tm/legacyhls/ch008.m3u8
+#EXTINF:0 tvg-id="RTK.al" group-title="News",turkmen 9
+https://alpha.tv.online.tm/legacyhls/ch009.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 10
+https://alpha.tv.online.tm/legacyhls/ch010.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 11
+https://alpha.tv.online.tm/legacyhls/ch011.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 12
+https://alpha.tv.online.tm/legacyhls/ch012.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 13
+https://alpha.tv.online.tm/legacyhls/ch013.m3u8
+#EXTINF:0 tvg-id="SyriTV.al" group-title="News",turkmen 14
+https://alpha.tv.online.tm/legacyhls/ch014.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 15
+https://alpha.tv.online.tm/legacyhls/ch015.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 16
+https://alpha.tv.online.tm/legacyhls/ch016.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",turkmen 17
+https://alpha.tv.online.tm/legacyhls/ch017.m3u8
