@@ -90,6 +90,15 @@ http://webcam-kaustinen.stream.kasenet.fi:1935/maisemakamerat/smil:KaustinenWebc
 #EXTINF:-1,Mikkeli
 http://79.141.146.84/mjpg/video.mjpg
 
+#EXTINF:-1,Espoo
+http://128.214.194.71/mjpg/video.mjpg
+
+#EXTINF:-1,Kangasala
+http://195.165.183.74/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000
+
+#EXTINF:-1,Lapland
+https://s55.ipcamlive.com/streams/37tzgcqlpmr716udp/stream.m3u8
+
 #EXTINF:-1,Calle Ocho Florida
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/13866/2018/10/15/1300.mp4/chunklist_w514974886.m3u8
 
