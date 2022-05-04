@@ -1,0 +1,102 @@
+#EXTINF: -1 group-title="TURKTV", TRT AVAZ [HD]
+https://tv-trtavaz.live.trt.com.tr/master.m3u8
+#EXTINF: -1 group-title="TURKTV", TRT TÜRK [HD]
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF: -1 group-title="TURKTV", TRT TÜRK HD
+https://mn-nl.mncdn.com/blutv_trtturk/trtturk_sd.smil/chunklist_b2096000.m3u8
+#EXTINF: -1 group-title="TURKTV", TRT 1 [HD]
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF: -1 group-title="TURKTV", TRT 1 HD
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", TRT 1 [SD]
+https://live-01.tvjetapp.com/ch-21/live.m3u8
+#EXTINF: -1 group-title="TURKTV", A2 HD
+http://iptvmasterlink.dyndns.org:5566/Entry/a2hd_yeni.m3u8
+#EXTINF: -1 group-title="TURKTV", ATV [HD]
+http://130.193.165.50:4000/play/a04r/index.m3u8
+#EXTINF: -1 group-title="TURKTV", ATV HD TR
+http://spyiptv.merseine.com:8000/live/fsyl09QAZ/fsyl09QAZX/69.m3u8
+#EXTINF: -1 group-title="TURKTV", ATV HD
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF: -1 group-title="TURKTV", ATV (HD)
+https://live-01.tvjetapp.com/ch-14/live.m3u8
+#EXTINF: -1 group-title="TURKTV", ATV AVRUPA
+http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
+#EXTINF: -1 group-title="TURKTV", STAR TV [HD]
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF: -1 group-title="TURKTV", STAR TV HD
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", EURO STAR [HD]
+http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF: -1 group-title="TURKTV", KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", KANAL D SD
+https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
+#EXTINF: -1 group-title="TURKTV", EURO D HD
+https://mn-nl.mncdn.com/blutv_eurod/smil:eurod_sd.smil/chunklist_b2096000.m3u8
+#EXTINF: -1 group-title="TURKTV", Euro D
+https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF: -1 group-title="TURKTV", SHOW TV HD
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF: -1 group-title="TURKTV", SHOW TÜRK HD
+https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
+#EXTINF: -1 group-title="TURKTV", SHOW TÜRK
+https://live-01.tvjetapp.com/ch-163/live.m3u8
+#EXTINF: -1 group-title="TURKTV", SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", SHOW TV (HD)
+https://av.livestreamlive.xyz/hls/show.m3u8
+#EXTINF: -1 group-title="TURKTV", KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", Kanal 7 HD
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF: -1 group-title="TURKTV", KANAL 7 (HD)
+https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8
+#EXTINF: -1 group-title="TURKTV", Kanal 7 AVRUPA
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF: -1 group-title="TURKTV", BEYAZ TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", BEYAZ TV (HD)
+https://av.livestreamlive.xyz/hls/beyaz.m3u8
+#EXTINF: -1 group-title="TURKTV", BEYAZ TV [HD]+
+http://iptvmasterlink.dyndns.org:8080/Entry/beyaztvhd_yeni/index.m3u8
+#EXTINF: -1 group-title="TURKTV", FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", FOX TV TÜRKIYE
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
+#EXTINF: -1 group-title="TURKTV", FOX TV
+https://live-01.tvjetapp.com/ch-7/live.m3u8
+#EXTINF: -1 group-title="TURKTV", TV8
+https://av.livestreamlive.xyz/hls/tv8.m3u8
+#EXTINF: -1 group-title="TURKTV", TV 8 HD
+http://spyiptv.mine.nu:8000/live/fsyl09QAZ/fsyl09QAZX/83.ts
+#EXTINF: -1 group-title="TURKTV", TV8.5
+https://av.livestreamlive.xyz/hls/tv85.m3u8
+#EXTINF: -1 group-title="TURKTV", TV8 BUÇUK
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
+#EXTINF: -1 group-title="TURKTV", TV8 İNT
+https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/playlist.m3u8
+#EXTINF: -1 group-title="TURKTV", TV8 INT HD
+https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/chunklist_b2096000.m3u8
+#EXTINF: -1 group-title="TURKTV", TV8 HD
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", TV8.5 [HD]
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", 360 [HD]
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF: -1 group-title="TURKTV", 360 TV HD
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF: -1 group-title="TURKTV", 360 TV SD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF: -1 group-title="TURKTV", TEVE 2 HD
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", TEVE 2 SD
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
+#EXTINF: -1 group-title="TURKTV", UCAN KUS TV HD
+https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="TURKTV", UCAN KUS TV SD
+http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF: -1 group-title="TURKTV", TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF: -1 group-title="TURKTV", BITLIS TV
+https://59cba4d34b678.streamlock.net/canlitv/bitlistv/playlist.m3u8?checkedby:hlscat.com
