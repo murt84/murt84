@@ -1,0 +1,1182 @@
+<!DOCTYPE html>
+<br /><html lang="en"><head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="Askbootstrap">
+      <meta name="author" content="TeLaSe">
+      <title>IPTV Stream Web Player</title>
+      <!-- Favicon Icon -->
+      <link rel="icon" type="image/png" href="img/favicon.png">
+      <!-- Bootstrap core CSS-->
+      <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+      <!-- Custom fonts for this template-->
+      <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+      <!-- Custom styles for this template-->
+      <link href="css/osahan.css" rel="stylesheet">
+      <!-- Owl Carousel -->
+      <link rel="stylesheet" href="vendor/owl-carousel/owl.carousel.css">
+      <link rel="stylesheet" href="vendor/owl-carousel/owl.theme.css">
+        <script type="text/javascript" src="dist/clappr.js"></script><style type="text/css">.cc-controls[data-cc-controls] {
+  float: right;
+  position: relative;
+  display: none; }
+  .cc-controls[data-cc-controls].available {
+    display: block; }
+  .cc-controls[data-cc-controls] .cc-button {
+    padding: 6px !important; }
+    .cc-controls[data-cc-controls] .cc-button.enabled {
+      display: block;
+      opacity: 1.0; }
+      .cc-controls[data-cc-controls] .cc-button.enabled:hover {
+        opacity: 1.0;
+        text-shadow: none; }
+  .cc-controls[data-cc-controls] > ul {
+    list-style-type: none;
+    position: absolute;
+    bottom: 25px;
+    border: 1px solid black;
+    display: none;
+    background-color: #e6e6e6; }
+  .cc-controls[data-cc-controls] li {
+    font-size: 10px; }
+    .cc-controls[data-cc-controls] li[data-title] {
+      background-color: #c3c2c2;
+      padding: 5px; }
+    .cc-controls[data-cc-controls] li a {
+      color: #444;
+      padding: 2px 10px;
+      display: block;
+      text-decoration: none; }
+      .cc-controls[data-cc-controls] li a:hover {
+        background-color: #555;
+        color: white; }
+        .cc-controls[data-cc-controls] li a:hover a {
+          color: white;
+          text-decoration: none; }
+    .cc-controls[data-cc-controls] li.current a {
+      color: #f00; }
+</style><style type="text/css">.dvr-controls[data-dvr-controls] {
+  display: inline-block;
+  float: left;
+  color: #fff;
+  line-height: 32px;
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 6px; }
+  .dvr-controls[data-dvr-controls] .live-info {
+    cursor: default;
+    font-family: "Roboto", "Open Sans", Arial, sans-serif;
+    text-transform: uppercase; }
+    .dvr-controls[data-dvr-controls] .live-info:before {
+      content: "";
+      display: inline-block;
+      position: relative;
+      width: 7px;
+      height: 7px;
+      border-radius: 3.5px;
+      margin-right: 3.5px;
+      background-color: #ff0101; }
+    .dvr-controls[data-dvr-controls] .live-info.disabled {
+      opacity: 0.3; }
+      .dvr-controls[data-dvr-controls] .live-info.disabled:before {
+        background-color: #fff; }
+  .dvr-controls[data-dvr-controls] .live-button {
+    cursor: pointer;
+    outline: none;
+    display: none;
+    border: 0;
+    color: #fff;
+    background-color: transparent;
+    height: 32px;
+    padding: 0;
+    opacity: 0.7;
+    font-family: "Roboto", "Open Sans", Arial, sans-serif;
+    text-transform: uppercase;
+    transition: all 0.1s ease; }
+    .dvr-controls[data-dvr-controls] .live-button:before {
+      content: "";
+      display: inline-block;
+      position: relative;
+      width: 7px;
+      height: 7px;
+      border-radius: 3.5px;
+      margin-right: 3.5px;
+      background-color: #fff; }
+    .dvr-controls[data-dvr-controls] .live-button:hover {
+      opacity: 1;
+      text-shadow: rgba(255, 255, 255, 0.75) 0 0 5px; }
+
+.dvr .dvr-controls[data-dvr-controls] .live-info {
+  display: none; }
+
+.dvr .dvr-controls[data-dvr-controls] .live-button {
+  display: block; }
+
+.dvr.media-control.live[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-fill-2[data-seekbar] {
+  background-color: #005aff; }
+
+.media-control.live[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-fill-2[data-seekbar] {
+  background-color: #ff0101; }
+</style><style type="text/css">[data-player] .player-error-screen {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #CCCACA;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 2000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+  [data-player] .player-error-screen__content[data-error-screen] {
+    font-size: 14px;
+    color: #CCCACA;
+    margin-top: 45px; }
+  [data-player] .player-error-screen__title[data-error-screen] {
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 18px; }
+  [data-player] .player-error-screen__message[data-error-screen] {
+    width: 90%;
+    margin: 0 auto; }
+  [data-player] .player-error-screen__code[data-error-screen] {
+    font-size: 13px;
+    margin-top: 15px; }
+  [data-player] .player-error-screen__reload {
+    cursor: pointer;
+    width: 30px;
+    margin: 15px auto 0 !important; }
+</style><style type="text/css">.media-control-notransition {
+  transition: none !important; }
+
+.media-control[data-media-control] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  pointer-events: none; }
+  .media-control[data-media-control].dragging {
+    pointer-events: auto;
+    cursor: -webkit-grabbing !important;
+    cursor: grabbing !important;
+    cursor: url("closed-hand.cur"), move; }
+    .media-control[data-media-control].dragging * {
+      cursor: -webkit-grabbing !important;
+      cursor: grabbing !important;
+      cursor: url("closed-hand.cur"), move; }
+  .media-control[data-media-control] .media-control-background[data-background] {
+    position: absolute;
+    height: 40%;
+    width: 100%;
+    bottom: 0;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.9));
+    will-change: transform, opacity;
+    transition: opacity 0.6s ease-out; }
+  .media-control[data-media-control] .media-control-icon {
+    line-height: 0;
+    letter-spacing: 0;
+    speak: none;
+    color: #fff;
+    opacity: 0.5;
+    vertical-align: middle;
+    text-align: left;
+    transition: all 0.1s ease; }
+  .media-control[data-media-control] .media-control-icon:hover {
+    color: white;
+    opacity: 0.75;
+    text-shadow: rgba(255, 255, 255, 0.8) 0 0 5px; }
+  .media-control[data-media-control].media-control-hide .media-control-background[data-background] {
+    opacity: 0; }
+  .media-control[data-media-control].media-control-hide .media-control-layer[data-controls] {
+    transform: translateY(50px); }
+    .media-control[data-media-control].media-control-hide .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-scrubber[data-seekbar] {
+      opacity: 0; }
+  .media-control[data-media-control] .media-control-layer[data-controls] {
+    position: absolute;
+    transform: translateY(-7px);
+    bottom: 0;
+    width: 100%;
+    height: 32px;
+    font-size: 0;
+    vertical-align: middle;
+    pointer-events: auto;
+    transition: bottom 0.4s ease-out; }
+    .media-control[data-media-control] .media-control-layer[data-controls] .media-control-left-panel[data-media-control] {
+      position: absolute;
+      top: 0;
+      left: 4px;
+      height: 100%; }
+    .media-control[data-media-control] .media-control-layer[data-controls] .media-control-center-panel[data-media-control] {
+      height: 100%;
+      text-align: center;
+      line-height: 32px; }
+    .media-control[data-media-control] .media-control-layer[data-controls] .media-control-right-panel[data-media-control] {
+      position: absolute;
+      top: 0;
+      right: 4px;
+      height: 100%; }
+    .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button {
+      background-color: transparent;
+      border: 0;
+      margin: 0 6px;
+      padding: 0;
+      cursor: pointer;
+      display: inline-block;
+      width: 32px;
+      height: 100%; }
+      .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button svg {
+        width: 100%;
+        height: 22px; }
+        .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button svg path {
+          fill: white; }
+      .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button:focus {
+        outline: none; }
+      .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-play] {
+        float: left;
+        height: 100%; }
+      .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-pause] {
+        float: left;
+        height: 100%; }
+      .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-stop] {
+        float: left;
+        height: 100%; }
+      .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-fullscreen] {
+        float: right;
+        background-color: transparent;
+        border: 0;
+        height: 100%; }
+      .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-hd-indicator] {
+        background-color: transparent;
+        border: 0;
+        cursor: default;
+        display: none;
+        float: right;
+        height: 100%; }
+        .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-hd-indicator].enabled {
+          display: block;
+          opacity: 1.0; }
+          .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-hd-indicator].enabled:hover {
+            opacity: 1.0;
+            text-shadow: none; }
+      .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-playpause] {
+        float: left; }
+      .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-playstop] {
+        float: left; }
+    .media-control[data-media-control] .media-control-layer[data-controls] .media-control-indicator[data-position], .media-control[data-media-control] .media-control-layer[data-controls] .media-control-indicator[data-duration] {
+      display: inline-block;
+      font-size: 10px;
+      color: white;
+      cursor: default;
+      line-height: 32px;
+      position: relative; }
+    .media-control[data-media-control] .media-control-layer[data-controls] .media-control-indicator[data-position] {
+      margin: 0 6px 0 7px; }
+    .media-control[data-media-control] .media-control-layer[data-controls] .media-control-indicator[data-duration] {
+      color: rgba(255, 255, 255, 0.5);
+      margin-right: 6px; }
+      .media-control[data-media-control] .media-control-layer[data-controls] .media-control-indicator[data-duration]:before {
+        content: "|";
+        margin-right: 7px; }
+    .media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] {
+      position: absolute;
+      top: -20px;
+      left: 0;
+      display: inline-block;
+      vertical-align: middle;
+      width: 100%;
+      height: 25px;
+      cursor: pointer; }
+      .media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] {
+        width: 100%;
+        height: 1px;
+        position: relative;
+        top: 12px;
+        background-color: #666666; }
+        .media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-fill-1[data-seekbar] {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 0;
+          height: 100%;
+          background-color: #c2c2c2;
+          transition: all 0.1s ease-out; }
+        .media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-fill-2[data-seekbar] {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 0;
+          height: 100%;
+          background-color: #005aff;
+          transition: all 0.1s ease-out; }
+        .media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-hover[data-seekbar] {
+          opacity: 0;
+          position: absolute;
+          top: -3px;
+          width: 5px;
+          height: 7px;
+          background-color: rgba(255, 255, 255, 0.5);
+          transition: opacity 0.1s ease; }
+      .media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar]:hover .bar-background[data-seekbar] .bar-hover[data-seekbar] {
+        opacity: 1; }
+      .media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar].seek-disabled {
+        cursor: default; }
+        .media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar].seek-disabled:hover .bar-background[data-seekbar] .bar-hover[data-seekbar] {
+          opacity: 0; }
+      .media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-scrubber[data-seekbar] {
+        position: absolute;
+        transform: translateX(-50%);
+        top: 2px;
+        left: 0;
+        width: 20px;
+        height: 20px;
+        opacity: 1;
+        transition: all 0.1s ease-out; }
+        .media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-scrubber[data-seekbar] .bar-scrubber-icon[data-seekbar] {
+          position: absolute;
+          left: 6px;
+          top: 6px;
+          width: 8px;
+          height: 8px;
+          border-radius: 10px;
+          box-shadow: 0 0 0 6px rgba(255, 255, 255, 0.2);
+          background-color: white; }
+    .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] {
+      float: right;
+      display: inline-block;
+      height: 32px;
+      cursor: pointer;
+      margin: 0 6px;
+      box-sizing: border-box; }
+      .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] {
+        float: left;
+        bottom: 0; }
+        .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume] {
+          background-color: transparent;
+          border: 0;
+          box-sizing: content-box;
+          width: 32px;
+          height: 32px;
+          opacity: 0.5; }
+          .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume]:hover {
+            opacity: 0.75; }
+          .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume] svg {
+            height: 24px;
+            position: relative;
+            top: 3px; }
+            .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume] svg path {
+              fill: white; }
+          .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume].muted svg {
+            margin-left: 2px; }
+      .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] {
+        float: left;
+        position: relative;
+        overflow: hidden;
+        top: 6px;
+        width: 42px;
+        height: 18px;
+        padding: 3px 0;
+        transition: width .2s ease-out; }
+        .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-background[data-volume] {
+          height: 1px;
+          position: relative;
+          top: 7px;
+          margin: 0 3px;
+          background-color: #666666; }
+          .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-background[data-volume] .bar-fill-1[data-volume] {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 0;
+            height: 100%;
+            background-color: #c2c2c2;
+            transition: all 0.1s ease-out; }
+          .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-background[data-volume] .bar-fill-2[data-volume] {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 0;
+            height: 100%;
+            background-color: #005aff;
+            transition: all 0.1s ease-out; }
+          .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-background[data-volume] .bar-hover[data-volume] {
+            opacity: 0;
+            position: absolute;
+            top: -3px;
+            width: 5px;
+            height: 7px;
+            background-color: rgba(255, 255, 255, 0.5);
+            transition: opacity 0.1s ease; }
+        .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-scrubber[data-volume] {
+          position: absolute;
+          transform: translateX(-50%);
+          top: 0px;
+          left: 0;
+          width: 20px;
+          height: 20px;
+          opacity: 1;
+          transition: all 0.1s ease-out; }
+          .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-scrubber[data-volume] .bar-scrubber-icon[data-volume] {
+            position: absolute;
+            left: 6px;
+            top: 6px;
+            width: 8px;
+            height: 8px;
+            border-radius: 10px;
+            box-shadow: 0 0 0 6px rgba(255, 255, 255, 0.2);
+            background-color: white; }
+        .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .segmented-bar-element[data-volume] {
+          float: left;
+          width: 4px;
+          padding-left: 2px;
+          height: 12px;
+          opacity: 0.5;
+          box-shadow: inset 2px 0 0 white;
+          transition: transform .2s ease-out; }
+          .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .segmented-bar-element[data-volume].fill {
+            box-shadow: inset 2px 0 0 #fff;
+            opacity: 1; }
+          .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .segmented-bar-element[data-volume]:nth-of-type(1) {
+            padding-left: 0; }
+          .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .segmented-bar-element[data-volume]:hover {
+            transform: scaleY(1.5); }
+  .media-control[data-media-control].w320 .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume].volume-bar-hide {
+    width: 0;
+    height: 12px;
+    top: 9px;
+    padding: 0; }
+</style><style type="text/css">.player-poster[data-poster] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 998;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%; }
+  .player-poster[data-poster].clickable {
+    cursor: pointer; }
+  .player-poster[data-poster]:hover .play-wrapper[data-poster] {
+    opacity: 1; }
+  .player-poster[data-poster] .play-wrapper[data-poster] {
+    width: 100%;
+    height: 25%;
+    margin: 0 auto;
+    opacity: 0.75;
+    transition: opacity 0.1s ease; }
+    .player-poster[data-poster] .play-wrapper[data-poster] svg {
+      height: 100%; }
+      .player-poster[data-poster] .play-wrapper[data-poster] svg path {
+        fill: #fff; }
+</style><style type="text/css">.seek-time[data-seek-time] {
+  position: absolute;
+  white-space: nowrap;
+  height: 20px;
+  line-height: 20px;
+  font-size: 0;
+  left: -100%;
+  bottom: 55px;
+  background-color: rgba(2, 2, 2, 0.5);
+  z-index: 9999;
+  transition: opacity 0.1s ease; }
+  .seek-time[data-seek-time].hidden[data-seek-time] {
+    opacity: 0; }
+  .seek-time[data-seek-time] [data-seek-time] {
+    display: inline-block;
+    color: white;
+    font-size: 10px;
+    padding-left: 7px;
+    padding-right: 7px;
+    vertical-align: top; }
+  .seek-time[data-seek-time] [data-duration] {
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 10px;
+    padding-right: 7px;
+    vertical-align: top; }
+    .seek-time[data-seek-time] [data-duration]:before {
+      content: "|";
+      margin-right: 7px; }
+</style><style type="text/css">.spinner-three-bounce[data-spinner] {
+  position: absolute;
+  margin: 0 auto;
+  width: 70px;
+  text-align: center;
+  z-index: 999;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  /* center vertically */
+  top: 50%;
+  transform: translateY(-50%); }
+  .spinner-three-bounce[data-spinner] > div {
+    width: 18px;
+    height: 18px;
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
+            animation: bouncedelay 1.4s infinite ease-in-out;
+    /* Prevent first frame from flickering when animation starts */
+    -webkit-animation-fill-mode: both;
+            animation-fill-mode: both; }
+  .spinner-three-bounce[data-spinner] [data-bounce1] {
+    -webkit-animation-delay: -0.32s;
+            animation-delay: -0.32s; }
+  .spinner-three-bounce[data-spinner] [data-bounce2] {
+    -webkit-animation-delay: -0.16s;
+            animation-delay: -0.16s; }
+
+@-webkit-keyframes bouncedelay {
+  0%, 80%, 100% {
+    transform: scale(0); }
+  40% {
+    transform: scale(1); } }
+
+@keyframes bouncedelay {
+  0%, 80%, 100% {
+    transform: scale(0); }
+  40% {
+    transform: scale(1); } }
+</style><style type="text/css">.clappr-watermark[data-watermark] {
+  position: absolute;
+  min-width: 70px;
+  max-width: 200px;
+  width: 12%;
+  text-align: center;
+  z-index: 10; }
+
+.clappr-watermark[data-watermark] a {
+  outline: none;
+  cursor: pointer; }
+
+.clappr-watermark[data-watermark] img {
+  max-width: 100%; }
+
+.clappr-watermark[data-watermark-bottom-left] {
+  bottom: 10px;
+  left: 10px; }
+
+.clappr-watermark[data-watermark-bottom-right] {
+  bottom: 10px;
+  right: 42px; }
+
+.clappr-watermark[data-watermark-top-left] {
+  top: 10px;
+  left: 10px; }
+
+.clappr-watermark[data-watermark-top-right] {
+  top: 10px;
+  right: 37px; }
+</style>
+        <script type="text/javascript" src="dist/clappr.min.js"></script><style type="text/css">.container[data-container]{position:absolute;background-color:#000;height:100%;width:100%;max-width:100%}.container[data-container] .chromeless{cursor:default}[data-player]:not(.nocursor) .container[data-container]:not(.chromeless).pointer-enabled{cursor:pointer}[data-player]{-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-transform:translateZ(0);transform:translateZ(0);position:relative;margin:0;padding:0;border:0;font-style:normal;font-weight:400;text-align:center;overflow:hidden;font-size:100%;font-family:Roboto,Open Sans,Arial,sans-serif;text-shadow:0 0 0;box-sizing:border-box}[data-player] a,[data-player] abbr,[data-player] acronym,[data-player] address,[data-player] applet,[data-player] article,[data-player] aside,[data-player] audio,[data-player] b,[data-player] big,[data-player] blockquote,[data-player] canvas,[data-player] caption,[data-player] center,[data-player] cite,[data-player] code,[data-player] dd,[data-player] del,[data-player] details,[data-player] dfn,[data-player] div,[data-player] dl,[data-player] dt,[data-player] em,[data-player] embed,[data-player] fieldset,[data-player] figcaption,[data-player] figure,[data-player] footer,[data-player] form,[data-player] h1,[data-player] h2,[data-player] h3,[data-player] h4,[data-player] h5,[data-player] h6,[data-player] header,[data-player] hgroup,[data-player] i,[data-player] iframe,[data-player] img,[data-player] ins,[data-player] kbd,[data-player] label,[data-player] legend,[data-player] li,[data-player] mark,[data-player] menu,[data-player] nav,[data-player] object,[data-player] ol,[data-player] output,[data-player] p,[data-player] pre,[data-player] q,[data-player] ruby,[data-player] s,[data-player] samp,[data-player] section,[data-player] small,[data-player] span,[data-player] strike,[data-player] strong,[data-player] sub,[data-player] summary,[data-player] sup,[data-player] table,[data-player] tbody,[data-player] td,[data-player] tfoot,[data-player] th,[data-player] thead,[data-player] time,[data-player] tr,[data-player] tt,[data-player] u,[data-player] ul,[data-player] var,[data-player] video{margin:0;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline}[data-player] table{border-collapse:collapse;border-spacing:0}[data-player] caption,[data-player] td,[data-player] th{text-align:left;font-weight:400;vertical-align:middle}[data-player] blockquote,[data-player] q{quotes:none}[data-player] blockquote:after,[data-player] blockquote:before,[data-player] q:after,[data-player] q:before{content:"";content:none}[data-player] a img{border:none}[data-player]:focus{outline:0}[data-player] *{max-width:none;box-sizing:inherit;float:none}[data-player] div{display:block}[data-player].fullscreen{width:100%!important;height:100%!important;top:0;left:0}[data-player].nocursor{cursor:none}.clappr-style{display:none!important}[data-html5-video]{position:absolute;height:100%;width:100%;display:block}.clappr-flash-playback[data-flash-playback]{display:block;position:absolute;top:0;left:0;height:100%;width:100%;pointer-events:none}[data-html-img]{max-width:100%;max-height:100%}[data-no-op]{position:absolute;height:100%;width:100%;text-align:center}[data-no-op] p[data-no-op-msg]{position:absolute;text-align:center;font-size:25px;left:0;right:0;color:#fff;padding:10px;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);max-height:100%;overflow:auto}[data-no-op] canvas[data-no-op-canvas]{background-color:#777;height:100%;width:100%}.spinner-three-bounce[data-spinner]{position:absolute;margin:0 auto;width:70px;text-align:center;z-index:999;left:0;right:0;margin-left:auto;margin-right:auto;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.spinner-three-bounce[data-spinner]>div{width:18px;height:18px;background-color:#fff;border-radius:100%;display:inline-block;-webkit-animation:bouncedelay 1.4s infinite ease-in-out;animation:bouncedelay 1.4s infinite ease-in-out;-webkit-animation-fill-mode:both;animation-fill-mode:both}.spinner-three-bounce[data-spinner] [data-bounce1]{-webkit-animation-delay:-.32s;animation-delay:-.32s}.spinner-three-bounce[data-spinner] [data-bounce2]{-webkit-animation-delay:-.16s;animation-delay:-.16s}@-webkit-keyframes bouncedelay{0%,80%,to{-webkit-transform:scale(0);transform:scale(0)}40%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes bouncedelay{0%,80%,to{-webkit-transform:scale(0);transform:scale(0)}40%{-webkit-transform:scale(1);transform:scale(1)}}.clappr-watermark[data-watermark]{position:absolute;min-width:70px;max-width:200px;width:12%;text-align:center;z-index:10}.clappr-watermark[data-watermark] a{outline:none;cursor:pointer}.clappr-watermark[data-watermark] img{max-width:100%}.clappr-watermark[data-watermark-bottom-left]{bottom:10px;left:10px}.clappr-watermark[data-watermark-bottom-right]{bottom:10px;right:42px}.clappr-watermark[data-watermark-top-left]{top:10px;left:10px}.clappr-watermark[data-watermark-top-right]{top:10px;right:37px}.player-poster[data-poster]{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:absolute;height:100%;width:100%;z-index:998;top:0;left:0;background-color:#000;background-size:cover;background-repeat:no-repeat;background-position:50% 50%}.player-poster[data-poster].clickable{cursor:pointer}.player-poster[data-poster]:hover .play-wrapper[data-poster]{opacity:1}.player-poster[data-poster] .play-wrapper[data-poster]{width:100%;height:25%;margin:0 auto;opacity:.75;transition:opacity .1s ease}.player-poster[data-poster] .play-wrapper[data-poster] svg{height:100%}.player-poster[data-poster] .play-wrapper[data-poster] svg path{fill:#fff}.media-control-notransition{transition:none!important}.media-control[data-media-control]{position:absolute;width:100%;height:100%;z-index:9999;pointer-events:none}.media-control[data-media-control].dragging{pointer-events:auto;cursor:-webkit-grabbing!important;cursor:grabbing!important;cursor:url(<%=baseUrl%>/a8c874b93b3d848f39a71260c57e3863.cur),move}.media-control[data-media-control].dragging *{cursor:-webkit-grabbing!important;cursor:grabbing!important;cursor:url(<%=baseUrl%>/a8c874b93b3d848f39a71260c57e3863.cur),move}.media-control[data-media-control] .media-control-background[data-background]{position:absolute;height:40%;width:100%;bottom:0;background:linear-gradient(transparent,rgba(0,0,0,.9));transition:opacity .6s ease-out}.media-control[data-media-control] .media-control-icon{line-height:0;letter-spacing:0;speak:none;color:#fff;opacity:.5;vertical-align:middle;text-align:left;transition:all .1s ease}.media-control[data-media-control] .media-control-icon:hover{color:#fff;opacity:.75;text-shadow:hsla(0,0%,100%,.8) 0 0 5px}.media-control[data-media-control].media-control-hide .media-control-background[data-background]{opacity:0}.media-control[data-media-control].media-control-hide .media-control-layer[data-controls]{bottom:-50px}.media-control[data-media-control].media-control-hide .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-scrubber[data-seekbar]{opacity:0}.media-control[data-media-control] .media-control-layer[data-controls]{position:absolute;bottom:7px;width:100%;height:32px;font-size:0;vertical-align:middle;pointer-events:auto;transition:bottom .4s ease-out}.media-control[data-media-control] .media-control-layer[data-controls] .media-control-left-panel[data-media-control]{position:absolute;top:0;left:4px;height:100%}.media-control[data-media-control] .media-control-layer[data-controls] .media-control-center-panel[data-media-control]{height:100%;text-align:center;line-height:32px}.media-control[data-media-control] .media-control-layer[data-controls] .media-control-right-panel[data-media-control]{position:absolute;top:0;right:4px;height:100%}.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button{background-color:transparent;border:0;margin:0 6px;padding:0;cursor:pointer;display:inline-block;width:32px;height:100%}.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button svg{width:100%;height:22px}.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button svg path{fill:#fff}.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button:focus{outline:none}.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-pause],.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-play],.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-stop]{float:left;height:100%}.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-fullscreen]{float:right;background-color:transparent;border:0;height:100%}.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-hd-indicator]{background-color:transparent;border:0;cursor:default;display:none;float:right;height:100%}.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-hd-indicator].enabled{display:block;opacity:1}.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-hd-indicator].enabled:hover{opacity:1;text-shadow:none}.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-playpause],.media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button[data-playstop]{float:left}.media-control[data-media-control] .media-control-layer[data-controls] .media-control-indicator[data-duration],.media-control[data-media-control] .media-control-layer[data-controls] .media-control-indicator[data-position]{display:inline-block;font-size:10px;color:#fff;cursor:default;line-height:32px;position:relative}.media-control[data-media-control] .media-control-layer[data-controls] .media-control-indicator[data-position]{margin:0 6px 0 7px}.media-control[data-media-control] .media-control-layer[data-controls] .media-control-indicator[data-duration]{color:hsla(0,0%,100%,.5);margin-right:6px}.media-control[data-media-control] .media-control-layer[data-controls] .media-control-indicator[data-duration]:before{content:"|";margin-right:7px}.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar]{position:absolute;top:-20px;left:0;display:inline-block;vertical-align:middle;width:100%;height:25px;cursor:pointer}.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar]{width:100%;height:1px;position:relative;top:12px;background-color:#666}.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-fill-1[data-seekbar]{position:absolute;top:0;left:0;width:0;height:100%;background-color:#c2c2c2;transition:all .1s ease-out}.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-fill-2[data-seekbar]{position:absolute;top:0;left:0;width:0;height:100%;background-color:#005aff;transition:all .1s ease-out}.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-hover[data-seekbar]{opacity:0;position:absolute;top:-3px;width:5px;height:7px;background-color:hsla(0,0%,100%,.5);transition:opacity .1s ease}.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar]:hover .bar-background[data-seekbar] .bar-hover[data-seekbar]{opacity:1}.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar].seek-disabled{cursor:default}.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar].seek-disabled:hover .bar-background[data-seekbar] .bar-hover[data-seekbar]{opacity:0}.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-scrubber[data-seekbar]{position:absolute;-webkit-transform:translateX(-50%);transform:translateX(-50%);top:2px;left:0;width:20px;height:20px;opacity:1;transition:all .1s ease-out}.media-control[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-scrubber[data-seekbar] .bar-scrubber-icon[data-seekbar]{position:absolute;left:6px;top:6px;width:8px;height:8px;border-radius:10px;box-shadow:0 0 0 6px hsla(0,0%,100%,.2);background-color:#fff}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume]{float:right;display:inline-block;height:32px;cursor:pointer;margin:0 6px;box-sizing:border-box}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume]{float:left;bottom:0}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume]{background-color:transparent;border:0;box-sizing:content-box;width:32px;height:32px;opacity:.5}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume]:hover{opacity:.75}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume] svg{height:24px;position:relative;top:3px}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume] svg path{fill:#fff}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .drawer-icon-container[data-volume] .drawer-icon[data-volume].muted svg{margin-left:2px}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume]{float:left;position:relative;overflow:hidden;top:6px;width:42px;height:18px;padding:3px 0;transition:width .2s ease-out}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-background[data-volume]{height:1px;position:relative;top:7px;margin:0 3px;background-color:#666}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-background[data-volume] .bar-fill-1[data-volume]{position:absolute;top:0;left:0;width:0;height:100%;background-color:#c2c2c2;transition:all .1s ease-out}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-background[data-volume] .bar-fill-2[data-volume]{position:absolute;top:0;left:0;width:0;height:100%;background-color:#005aff;transition:all .1s ease-out}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-background[data-volume] .bar-hover[data-volume]{opacity:0;position:absolute;top:-3px;width:5px;height:7px;background-color:hsla(0,0%,100%,.5);transition:opacity .1s ease}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-scrubber[data-volume]{position:absolute;-webkit-transform:translateX(-50%);transform:translateX(-50%);top:0;left:0;width:20px;height:20px;opacity:1;transition:all .1s ease-out}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .bar-scrubber[data-volume] .bar-scrubber-icon[data-volume]{position:absolute;left:6px;top:6px;width:8px;height:8px;border-radius:10px;box-shadow:0 0 0 6px hsla(0,0%,100%,.2);background-color:#fff}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .segmented-bar-element[data-volume]{float:left;width:4px;padding-left:2px;height:12px;opacity:.5;box-shadow:inset 2px 0 0 #fff;transition:-webkit-transform .2s ease-out;transition:transform .2s ease-out;transition:transform .2s ease-out,-webkit-transform .2s ease-out}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .segmented-bar-element[data-volume].fill{box-shadow:inset 2px 0 0 #fff;opacity:1}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .segmented-bar-element[data-volume]:first-of-type{padding-left:0}.media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume] .segmented-bar-element[data-volume]:hover{-webkit-transform:scaleY(1.5);transform:scaleY(1.5)}.media-control[data-media-control].w320 .media-control-layer[data-controls] .drawer-container[data-volume] .bar-container[data-volume].volume-bar-hide{width:0;height:12px;top:9px;padding:0}.dvr-controls[data-dvr-controls]{display:inline-block;float:left;color:#fff;line-height:32px;font-size:10px;font-weight:700;margin-left:6px}.dvr-controls[data-dvr-controls] .live-info{cursor:default;font-family:Roboto,Open Sans,Arial,sans-serif;text-transform:uppercase}.dvr-controls[data-dvr-controls] .live-info:before{content:"";display:inline-block;position:relative;width:7px;height:7px;border-radius:3.5px;margin-right:3.5px;background-color:#ff0101}.dvr-controls[data-dvr-controls] .live-info.disabled{opacity:.3}.dvr-controls[data-dvr-controls] .live-info.disabled:before{background-color:#fff}.dvr-controls[data-dvr-controls] .live-button{cursor:pointer;outline:none;display:none;border:0;color:#fff;background-color:transparent;height:32px;padding:0;opacity:.7;font-family:Roboto,Open Sans,Arial,sans-serif;text-transform:uppercase;transition:all .1s ease}.dvr-controls[data-dvr-controls] .live-button:before{content:"";display:inline-block;position:relative;width:7px;height:7px;border-radius:3.5px;margin-right:3.5px;background-color:#fff}.dvr-controls[data-dvr-controls] .live-button:hover{opacity:1;text-shadow:hsla(0,0%,100%,.75) 0 0 5px}.dvr .dvr-controls[data-dvr-controls] .live-info{display:none}.dvr .dvr-controls[data-dvr-controls] .live-button{display:block}.dvr.media-control.live[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-fill-2[data-seekbar]{background-color:#005aff}.media-control.live[data-media-control] .media-control-layer[data-controls] .bar-container[data-seekbar] .bar-background[data-seekbar] .bar-fill-2[data-seekbar]{background-color:#ff0101}.cc-controls[data-cc-controls]{float:right;position:relative;display:none}.cc-controls[data-cc-controls].available{display:block}.cc-controls[data-cc-controls] .cc-button{padding:6px!important}.cc-controls[data-cc-controls] .cc-button.enabled{display:block;opacity:1}.cc-controls[data-cc-controls] .cc-button.enabled:hover{opacity:1;text-shadow:none}.cc-controls[data-cc-controls]>ul{list-style-type:none;position:absolute;bottom:25px;border:1px solid #000;display:none;background-color:#e6e6e6}.cc-controls[data-cc-controls] li{font-size:10px}.cc-controls[data-cc-controls] li[data-title]{background-color:#c3c2c2;padding:5px}.cc-controls[data-cc-controls] li a{color:#444;padding:2px 10px;display:block;text-decoration:none}.cc-controls[data-cc-controls] li a:hover{background-color:#555;color:#fff}.cc-controls[data-cc-controls] li a:hover a{color:#fff;text-decoration:none}.cc-controls[data-cc-controls] li.current a{color:red}.seek-time[data-seek-time]{position:absolute;white-space:nowrap;height:20px;line-height:20px;font-size:0;left:-100%;bottom:55px;background-color:rgba(2,2,2,.5);z-index:9999;transition:opacity .1s ease}.seek-time[data-seek-time].hidden[data-seek-time]{opacity:0}.seek-time[data-seek-time] [data-seek-time]{display:inline-block;color:#fff;font-size:10px;padding-left:7px;padding-right:7px;vertical-align:top}.seek-time[data-seek-time] [data-duration]{display:inline-block;color:hsla(0,0%,100%,.5);font-size:10px;padding-right:7px;vertical-align:top}.seek-time[data-seek-time] [data-duration]:before{content:"|";margin-right:7px}div.player-error-screen{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#cccaca;position:absolute;top:0;height:100%;width:100%;background-color:rgba(0,0,0,.7);z-index:2000;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}div.player-error-screen__content[data-error-screen]{font-size:14px;color:#cccaca;margin-top:45px}div.player-error-screen__title[data-error-screen]{font-weight:700;line-height:30px;font-size:18px}div.player-error-screen__message[data-error-screen]{width:90%;margin:0 auto}div.player-error-screen__code[data-error-screen]{font-size:13px;margin-top:15px}div.player-error-screen__reload{cursor:pointer;width:30px;margin:15px auto 0}</style>
+        <script type="text/javascript" src="dist/hlsjs-playback.min.js"></script>
+        <script type="text/javascript" src="dist/playback.js"></script>		
+        <script type="text/javascript" src="dist/clappr-chromecast-plugin.min.js"></script>
+        <script type="text/javascript" src="dist/level-selector.min.js"></script><style type="text/css">.level_selector[data-level-selector]{float:right;position:relative;height:100%}.level_selector[data-level-selector] button{background-color:transparent;color:#fff;font-family:Roboto,Open Sans,Arial,sans-serif;-webkit-font-smoothing:antialiased;border:none;font-size:12px;height:100%}.level_selector[data-level-selector] button:hover{color:#c9c9c9}.level_selector[data-level-selector] button.changing{-webkit-animation:pulse .5s infinite alternate}.level_selector[data-level-selector]>ul{list-style-type:none;position:absolute;bottom:100%;display:none;background-color:rgba(28,28,28,.9);white-space:nowrap}.level_selector[data-level-selector] li{font-size:12px;color:#eee}.level_selector[data-level-selector] li[data-title]{background-color:#333;padding:8px 25px}.level_selector[data-level-selector] li a{color:#eee;padding:5px 10px;display:block;text-decoration:none}.level_selector[data-level-selector] li a:hover{background-color:hsla(0,0%,100%,.1);color:#fff}.level_selector[data-level-selector] li a:hover a{color:#fff;text-decoration:none}.level_selector[data-level-selector] li.current a{color:#2ecc71}</style>
+        <script type="text/javascript" src="clappr-ads/ads.js"></script>
+        <script type="text/javascript" src="js/player-error.js"></script>
+
+    <!--Get ip client-->
+    <script>var ip = '';</script>
+    <script src="assets/js/blkviewsrccode.min.js"></script>
+
+		<style class="clappr-style">@font-face{font-family:Roboto;font-style:normal;font-weight:400;src:local("Roboto"),local("Roboto-Regular"),url(http://tvden.epizy.com/ilk/dist/38861cba61c66739c1452c3a71e39852.ttf) format("truetype")}</style><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style></head><body id="page-top"><a href="index.php">
+		<img style="border: 0px solid ; width: 350px; height: 83px;" alt="" src="img/FREE-IPTV-Player.png" align="middle"></a>
+   
+   
+   
+    <div class="modal fade" id="info-code-source" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header"><h4 class="modal-title">Hi </h4></div>
+                <div class="modal-body"></div>
+                <div class="modal-footer">
+                    <a href="?bad=1" class="btn btn-danger">I want to see</a>
+                    <button type="button" class="btn btn-success" data-dismiss="modal">I do not want to see</button>
+                </div>
+            </div>
+        </div>
+     </div>
+	  
+<script>
+$(document).ready(function() {
+    document.onkeydown = function(e){
+        if (e.ctrlKey &&
+            (e.keyCode === 67 ||
+			    e.keyCode === 70 ||
+                e.keyCode === 86 ||
+                e.keyCode === 85 ||
+                e.keyCode === 117)) {
+            return false;
+        } else {
+            return true;
+        }
+    };
+});
+</script>
+      <nav class="navbar navbar-expand navbar-light bg-white static-top osahan-nav sticky-top">
+         &nbsp;&nbsp;
+         <button class="btn btn-link btn-sm text-secondary order-1 order-sm-0" id="sidebarToggle">
+         <i class="fas fa-bars"></i>
+         </button> &nbsp;&nbsp;
+		 <h5><a href="index.php">◀IPTV Stream Web Player<span class="logo_colour"></span></a></h5>
+         <!--<a class="navbar-brand mr-1" href="/"><img class="img-fluid" alt="" src="img/logo.png"></a>-->
+          <!--Navbar Search -->
+         <div class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-5 my-2 my-md-0 osahan-navbar-search">
+            <div class="input-group">
+               <input type="text" class="form-control search" onkeyup="bait(this)" placeholder="Search for...">
+               <div class="input-group-append">
+                  <button class="btn btn-light sort" type="button">
+                  <i class="fas fa-search"></i>
+                  </button>
+               </div>
+            </div>
+         </div>
+         <!-- Navbar -->
+         <ul class="navbar-nav ml-auto ml-md-10 osahan-right-navbar">
+            <li class="nav-item mx-1">
+            </li>
+         </ul>
+      </nav>
+      <div id="wrapper">
+          <div id="lists">
+         <!-- Sidebar -->
+         <ul id="list" class="sidebar navbar-nav list"><li class="nav-item">
+               <a class="channel nav-link" data-value="https://stream.ecable.tv/afrobeats/index.m3u8" href="javascript:void(0);">Afrobeats (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8" href="javascript:void(0);">Ahlulbayt TV (404p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8" href="javascript:void(0);">Ahlulbayt TV (404p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8" href="javascript:void(0);">Akaal TV (480p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8" href="javascript:void(0);">Akaal TV (396p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8" href="javascript:void(0);">Alaraby TV (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8" href="javascript:void(0);">Alhiwar TV (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8" href="javascript:void(0);">Arise News (480p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8" href="javascript:void(0);">Arise News (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://b01c02nl.mediatriple.net/videoonlylive/mtqtqloqdxtlive/broadcast_5cefc3677caee.smil/playlist.m3u8" href="javascript:void(0);">Awraas TV (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd" href="javascript:void(0);">BBC Arabic (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd" href="javascript:void(0);">BBC Arabic (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd" href="javascript:void(0);">BBC Arabic (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd" href="javascript:void(0);">BBC Arabic (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8" href="javascript:void(0);">BBC Arabic (540p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8" href="javascript:void(0);">BBC Arabic (540p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8" href="javascript:void(0);">BBC Earth</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://91.218.60.3:8001/play/a00s" href="javascript:void(0);">BBC Lifestyle</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8" href="javascript:void(0);">BBC Lifestyle (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8" href="javascript:void(0);">BBC News (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://www.filmon.com/vr-streams/27.high/playlist.m3u8" href="javascript:void(0);">BBC News (480p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://159.69.58.154/bbc/master.m3u8" href="javascript:void(0);">BBC Persian (360p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd" href="javascript:void(0);">BBC Persian (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd" href="javascript:void(0);">BBC Persian (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.mpd" href="javascript:void(0);">BBC Persian (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd" href="javascript:void(0);">BBC Persian (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8" href="javascript:void(0);">BBC Persian (540p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8" href="javascript:void(0);">BBC Persian (540p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)" href="javascript:void(0);">BBC World News (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd" href="javascript:void(0);">BBC World News (英国)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Beano TV (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/" href="javascript:void(0);">Box Hits (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/" href="javascript:void(0);">Box Hits (576p) [Geo-blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8" href="javascript:void(0);">Brit Asia Live (US Eastern) (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8" href="javascript:void(0);">Brit Asia Live (US Pacific) (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8" href="javascript:void(0);">British Muslim TV (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8" href="javascript:void(0);">CBBC (540p) [Geo-Blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8" href="javascript:void(0);">CBBC HD (720p) [Geo-Blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8" href="javascript:void(0);">CBeebies (540p) [Geo-Blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8" href="javascript:void(0);">CBeebies HD (720p) [Geo-Blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8" href="javascript:void(0);">Channel S (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8" href="javascript:void(0);">Channel S (US Eastern) (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8" href="javascript:void(0);">Channel S (US Pacific) (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://c0.cdn.trinity-tv.net/stream/hujuv8xpr4gdugis2szd4rqrvpzip8iuwn2jwpt68wmvpmdz79qime8idwrxga95rnghp64hfimevyvrp6n7p3c52yg3rfsuhxe9u9az35ti8te625sxerfwaxr2cbefyau4tmfa4nwqvca6ckmtwv2=.m3u8" href="javascript:void(0);">Chelsea TV (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8" href="javascript:void(0);">Clubbing TV (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://uksono1-samsunguk.amagi.tv/playlist.m3u8" href="javascript:void(0);">Comedy Channel (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8" href="javascript:void(0);">Cruise1st TV (396p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Discover.Film (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8" href="javascript:void(0);">EDGEsport (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8" href="javascript:void(0);">EDGEsport (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8" href="javascript:void(0);">EDGEsport (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://edgesport-samsunguk.amagi.tv/playlist.m3u8" href="javascript:void(0);">EDGEsport (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://edgesport-samsungus.amagi.tv/playlist.m3u8" href="javascript:void(0);">EDGEsport (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://edgesports-plex.amagi.tv/playlist.m3u8" href="javascript:void(0);">EDGEsport (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://edgesports-roku.amagi.tv/hls/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8" href="javascript:void(0);">EDGEsport (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://edgesports-row-rakuten.amagi.tv/playlist.m3u8" href="javascript:void(0);">EDGEsport (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8" href="javascript:void(0);">EDGEsport (1080p) [Offline]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8" href="javascript:void(0);">EDGEsport (STIRR) (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">EDGEsport (US) (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8" href="javascript:void(0);">Eman Channel (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCBgM-sKkB4ySrdiCsk0ikUA/live" href="javascript:void(0);">Fadak TV</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://linkastream.co/headless?url=https://www.youtube.com/c/ddrricky/live" href="javascript:void(0);">Fadak TV [Offline]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">FailArmy (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://photocall.tv/lF4r/ftv.m3u8?ch=film4" href="javascript:void(0);">Film 4</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://photocall.tv/hD6n/ftv.m3u8?ch=phoenix" href="javascript:void(0);">FILMON.TV PHOENIX</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://photocall.tv/hD6n/ftv.m3u8?ch=zdf_info" href="javascript:void(0);">FILMON.TV REPORTAGE INFO</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Filmzie (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8" href="javascript:void(0);">FreeSports (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">FTF For the fans (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8" href="javascript:void(0);">Garshom TV (360p) [Not 24/7]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8" href="javascript:void(0);">GB News (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8" href="javascript:void(0);">Gems TV (360p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Go USA (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://brandusa-gousa-1-in.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Go USA (India) (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8" href="javascript:void(0);">God TV UK (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8" href="javascript:void(0);">Hala London (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://j78dpkrjlq5r-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8" href="javascript:void(0);">Health Media (720p) [Not 24/7]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://hncfree-samsung-uk.amagi.tv/playlist.m3u8" href="javascript:void(0);">Horse and Country (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8" href="javascript:void(0);">Iqraa TV (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8" href="javascript:void(0);">Iran International (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://live.playstop.me/1816184091/index.m3u8" href="javascript:void(0);">Iran International (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://live.playstop.me/LS-63503-4/index.m3u8" href="javascript:void(0);">Iran International (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8" href="javascript:void(0);">Islam Channel (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8" href="javascript:void(0);">ITV (302p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8" href="javascript:void(0);">ITV2 (432p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8" href="javascript:void(0);">ITV2 (576p) [Not 24/7]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8" href="javascript:void(0);">ITV3 (432p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8" href="javascript:void(0);">ITV4 (302p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8" href="javascript:void(0);">Jewelery Maker (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://188.40.68.167/russia/jimjam/playlist.m3u8" href="javascript:void(0);">JimJam Россия (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://51.210.199.37/hls/stream.m3u8" href="javascript:void(0);">Kalemeh TV (576p) [Not 24/7]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8" href="javascript:void(0);">Kanshi TV (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/" href="javascript:void(0);">Kerrang (576p) [Geo-blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/kerrang/" href="javascript:void(0);">Kerrang (576p) [Geo-blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://studio71-samsung-uk.amagi.tv/playlist.m3u8" href="javascript:void(0);">Kid Gamer TV (1080p) [Offline]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/" href="javascript:void(0);">Kiss (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://w10.streamgb.com:1935/kool/kool/playlist.m3u8" href="javascript:void(0);">Kool London Radio (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8" href="javascript:void(0);">London Live (720p) [Offline]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8" href="javascript:void(0);">Loveworld TV (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/" href="javascript:void(0);">Magic (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://159.69.58.154/manoto_plus1/manoto_plus.m3u8" href="javascript:void(0);">Manoto +1 (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://159.69.58.154/manoto_plus2/manoto2.m3u8" href="javascript:void(0);">Manoto +2</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://d2rwmwucnr0d10.cloudfront.net/live.m3u8" href="javascript:void(0);">Manoto TV (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8" href="javascript:void(0);">MoonBug (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://moonbug-rokuus.amagi.tv/playlist.m3u8" href="javascript:void(0);">Moonbug Kids (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaDE6sCK6v0vDomDayqoKeSal6G/cn/8fb839e3a82045bd99a92ecd9df257e5.m3u8" href="javascript:void(0);">MTA 1 (720p) [Offline]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8" href="javascript:void(0);">MTA 1 English (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8" href="javascript:void(0);">MTA 1 Original (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8" href="javascript:void(0);">MTA 1 Urdu (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8" href="javascript:void(0);">MTA 2 (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8" href="javascript:void(0);">MTA 2 Urdu (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8" href="javascript:void(0);">MTA 3 (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8" href="javascript:void(0);">MTA Africa (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8" href="javascript:void(0);">n TV (US Eastern) (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Planet Knowledge (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Pocket watch (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Qello Concerts by Stingray (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8" href="javascript:void(0);">Qello Concerts by Stingray (1080p) [Not 24/7]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://realstories-samsung-uk.amagi.tv/playlist.m3u8" href="javascript:void(0);">Real Stories (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Reuters (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Reuters Now (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Reuters TV (EU) (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8" href="javascript:void(0);">Rugby Men's Sevens (288p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8" href="javascript:void(0);">Rugby Women's Sevens (288p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8" href="javascript:void(0);">Rugby World TV (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8" href="javascript:void(0);">S4C (540p) [Geo-Blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8" href="javascript:void(0);">Sangat Television (720p) [Not 24/7]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://tv.sheffieldlive.org/hls/main.m3u8" href="javascript:void(0);">Sheffield Live TV (360p) [Not 24/7]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8" href="javascript:void(0);">Ski TV (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true" href="javascript:void(0);">Sky News (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8" href="javascript:void(0);">Sky News (720p) [Geo-blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://skynews-sn-cdhls.ak-cdn.skydvn.com/cdhlsskynews/1404/latest.m3u8" href="javascript:void(0);">Sky News (720p) [Geo-blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://stream.skynewsarabia.com/hls/sna.m3u8" href="javascript:void(0);">Sky News Arabia (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://stream.skynewsarabia.com/vertical/vertical.m3u8" href="javascript:void(0);">Sky News Arabia (Portrait) (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8" href="javascript:void(0);">Sky News Extra 1 (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8" href="javascript:void(0);">Sky News Extra 2 (540p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8" href="javascript:void(0);">Sky News Extra 3 (540p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://sparktv-samsunguk.amagi.tv/playlist.m3u8" href="javascript:void(0);">Spark Tv (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8" href="javascript:void(0);">Spike (480p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Sports Channel Network (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8" href="javascript:void(0);">Sports Tonight (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8" href="javascript:void(0);">Spotlight TV (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Stingray Karaoke (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8" href="javascript:void(0);">STV (1080p) [Geo-Blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-stv.tls1.yospace.com/csm/live/181023311.m3u8" href="javascript:void(0);">STV+1 (1080p) [Geo-Blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Supertoons TV (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Tastemade (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8" href="javascript:void(0);">Teletubbies (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Teletubbies (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8" href="javascript:void(0);">Tennis Channel (UK) (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/" href="javascript:void(0);">The Box UK (576p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/" href="javascript:void(0);">The Box UK (576p) [Geo-blocked]</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8" href="javascript:void(0);">The Tennis Channel (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://timeline-samsung-uk.amagi.tv/playlist.m3u8" href="javascript:void(0);">Time Line (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)" href="javascript:void(0);">TJC (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Toongoggles (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8" href="javascript:void(0);">Truly (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://abr.de1se01.v2beat.live/playlist.m3u8" href="javascript:void(0);">V2BEAT (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://de1se01.v2beat.live/playlist.m3u8" href="javascript:void(0);">V2BEAT (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_tklzcakd_1_1/chunklist.m3u8" href="javascript:void(0);">William Hill BTV 1 (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://betamg-i.akamaihd.net/hls/live/513429/willhill/0_3838s0ja_1_1/chunklist.m3u8" href="javascript:void(0);">William Hill BTV 2 (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://lds-wonder-plex.amagi.tv/playlist.m3u8" href="javascript:void(0);">Wonder (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://lds-wonder-rakuten.amagi.tv/playlist.m3u8" href="javascript:void(0);">Wonder (1080p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://lds-wonder-samsungau.amagi.tv/playlist.m3u8" href="javascript:void(0);">Wonder (720p)</a>
+            </li><li class="nav-item">
+               <a class="channel nav-link" data-value="https://wonder-samsung-uk.amagi.tv/playlist.m3u8" href="javascript:void(0);">Wonder (720p)</a>
+            </li></ul>
+         </div>
+         <div id="content-wrapper">
+            <div class="container-fluid pb-0">
+               <div class="top-mobile-search">
+                  <div class="row">
+                     <div class="col-md-12">
+                        <form class="mobile-search">
+                           <div class="input-group">
+                             <input type="text" placeholder="Search for..." class="form-control">
+                               <div class="input-group-append">
+                                 <button type="button" class="btn btn-dark"><i class="fas fa-search"></i></button>
+                               </div>
+                           </div>
+                        </form>
+                     </div>
+                  </div>
+               </div>
+               <div class="video-block section-padding">
+                  <div class="row">
+                     <div class="col-md-12">
+                            <div id="TeLaSe"><div data-player="" tabindex="9999" class="" style="height: calc(90vh - 90px); width: 100%;"><style class="clappr-style">.chromecast-playback{height:100%;width:100%}.chromecast-playback .chromecast-playback-background,.chromecast-playback .chromecast-playback-overlay{position:absolute;height:100%;width:100%}.chromecast-playback .chromecast-playback-background{background-size:contain}.chromecast-playback .chromecast-playback-overlay{background-color:#000;opacity:.4}.chromecast-button{background:transparent;border:0;width:32px;height:32px;font-size:22px;line-height:32px;letter-spacing:0;margin:0 6px;color:#fff;opacity:.5;vertical-align:middle;text-align:left;cursor:pointer;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;transition:all .1s ease}.chromecast-button:hover{opacity:.75;text-shadow:hsla(0,0%,100%,.8) 0 0 5px}.chromecast-button:focus{outline:none}.chromecast-button svg{width:24px;height:24px}.chromecast-button svg #cast,.chromecast-button svg #cast-on,.chromecast-button svg #Path{fill:#fff;stroke:#fff;stroke-width:.5px}</style><div class="container" data-container=""><div style="position: absolute; z-index: 999; width: 100%; height: 100%; background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoBAMAAAA1HFdiAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAG1BMVEX5+fn//wAA//8A/wD/AP//AAAAAP8XFxf///8H5gWfAAAAAWJLR0QIht6VegAAAAd0SU1FB98IBRIsAXmGk48AAAI5SURBVHja7dJBDYBADADBs4AFLGABC1iohbOPhv1BMvu+NLlp10odqTN1pe7Uk5pQ8wMIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECDA/wKWxzM71T7ZZrfltNnppgACBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgQIECAAL8B+ALjSfYzPnmdzgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxNS0wOC0wNVQxODo0NDowMSswMTowMCL95a4AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTUtMDgtMDVUMTg6NDQ6MDErMDE6MDBToF0SAAAAAElFTkSuQmCC&quot;); background-size: cover; background-repeat: no-repeat; padding-top: 15%; text-align: center; font-weight: bold; text-shadow: rgb(255, 255, 255) 1px 1px;"><h2 style="font-size: 200%;">IPTV Channel Encountered Error</h2><p style="font-size: 120%; margin: 15px;">Retry this channel in few minutes or report to your IPTV provider.</p></div><div data-spinner="" class="spinner-three-bounce" style="display: none;"><div data-bounce1=""></div><div data-bounce2=""></div><div data-bounce3=""></div>
+</div><div style="display: none;"><div class="clappr-watermark" data-watermark="" data-watermark-bottom-right="">
+
+<a target="_blank" href="">
+
+<img src="img/FREE-IPTV-Player.png">
+
+</a>
+
+</div>
+</div><div class="player-poster clickable" data-poster=""><div class="play-wrapper" data-poster=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-poster="" class="poster-icon" style="color: rgb(255, 255, 255);"><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z" style="fill: rgb(255, 255, 255);"></path></svg></div>
+</div><video data-html5-video="" preload="metadata"><style class="clappr-style">[data-html5-video] {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: block; }
+</style></video></div><div class="media-control media-control-hide w320" data-media-control="" style="display: none;"><div class="media-control-background" data-background=""></div>
+<div class="media-control-layer" data-controls="">
+  
+  
+  
+  
+  
+  
+  
+  <div class="media-control-center-panel" data-media-control="">
+    
+      <div class="bar-container seek-disabled" data-seekbar="">
+        <div class="bar-background" data-seekbar="">
+          <div class="bar-fill-1" data-seekbar=""></div>
+          <div class="bar-fill-2" data-seekbar="" style="width: 0%; background-color: rgb(0, 255, 0);"></div>
+          <div class="bar-hover" data-seekbar=""></div>
+        </div>
+        <div class="bar-scrubber" data-seekbar="" style="left: 0%;">
+          <div class="bar-scrubber-icon" data-seekbar=""></div>
+        </div>
+      </div>
+  
+  </div>
+  
+  
+  <div class="media-control-left-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon paused" data-playpause="" aria-label="playpause"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z" style="fill: rgb(255, 255, 255);"></path></svg></button>
+  
+      <div class="media-control-indicator" data-position=""></div>
+  
+      <div class="media-control-indicator" data-duration=""></div>
+  
+  </div>
+  
+  
+  <div class="media-control-right-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon" data-fullscreen="" aria-label="fullscreen"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M7.156 8L4 11.156V8.5H3V13h4.5v-1H4.844L8 8.844 7.156 8zM8.5 3v1h2.657L8 7.157 8.846 8 12 4.844V7.5h1V3H8.5z" style="fill: rgb(255, 255, 255);"></path></svg></button><div class="cc-controls" data-cc-controls=""><button type="button" class="cc-button media-control-button media-control-icon" data-cc-button="" aria-label="cc-button"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 49 41.8" style="enable-background:new 0 0 49 41.8;" xml:space="preserve"><path d="M47.1,0H3.2C1.6,0,0,1.2,0,2.8v31.5C0,35.9,1.6,37,3.2,37h11.9l3.2,1.9l4.7,2.7c0.9,0.5,2-0.1,2-1.1V37h22.1 c1.6,0,1.9-1.1,1.9-2.7V2.8C49,1.2,48.7,0,47.1,0z M7.2,18.6c0-4.8,3.5-9.3,9.9-9.3c4.8,0,7.1,2.7,7.1,2.7l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2c0,0-2.7,2.9-7.6,2.9 C10.8,27.9,7.2,23.5,7.2,18.6z M36.9,27.9c-6.4,0-9.9-4.4-9.9-9.3c0-4.8,3.5-9.3,9.9-9.3C41.7,9.3,44,12,44,12l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2C44.5,25,41.9,27.9,36.9,27.9z"></path></svg></button>
+<ul style="display: none;">
+  
+  <li><a href="#" data-cc-select="-1">Engelli</a></li>
+  
+</ul>
+</div>
+  
+      <div class="drawer-container" data-volume="">
+        <div class="drawer-icon-container" data-volume="">
+          <div class="drawer-icon media-control-icon" data-volume=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M11.5 11h-.002v1.502L7.798 10H4.5V6h3.297l3.7-2.502V4.5h.003V11zM11 4.49L7.953 6.5H5v3h2.953L11 11.51V4.49z" style="fill: rgb(255, 255, 255);"></path></svg></div>
+          <span class="drawer-text" data-volume=""></span>
+        </div>
+        
+    <div class="bar-container volume-bar-hide" data-volume="">
+    
+      <div class="segmented-bar-element fill" data-volume="" style="box-shadow: rgb(255, 255, 255) 2px 0px 0px inset;"></div>
+    
+      <div class="segmented-bar-element fill" data-volume="" style="box-shadow: rgb(255, 255, 255) 2px 0px 0px inset;"></div>
+    
+      <div class="segmented-bar-element fill" data-volume="" style="box-shadow: rgb(255, 255, 255) 2px 0px 0px inset;"></div>
+    
+      <div class="segmented-bar-element fill" data-volume="" style="box-shadow: rgb(255, 255, 255) 2px 0px 0px inset;"></div>
+    
+      <div class="segmented-bar-element fill" data-volume="" style="box-shadow: rgb(255, 255, 255) 2px 0px 0px inset;"></div>
+    
+      <div class="segmented-bar-element fill" data-volume="" style="box-shadow: rgb(255, 255, 255) 2px 0px 0px inset;"></div>
+    
+      <div class="segmented-bar-element fill" data-volume="" style="box-shadow: rgb(255, 255, 255) 2px 0px 0px inset;"></div>
+    
+      <div class="segmented-bar-element fill" data-volume="" style="box-shadow: rgb(255, 255, 255) 2px 0px 0px inset;"></div>
+    
+      <div class="segmented-bar-element fill" data-volume="" style="box-shadow: rgb(255, 255, 255) 2px 0px 0px inset;"></div>
+    
+      <div class="segmented-bar-element fill" data-volume="" style="box-shadow: rgb(255, 255, 255) 2px 0px 0px inset;"></div>
+    
+    </div>
+  
+      </div>
+  
+    <button type="button" class="media-control-button media-control-icon" data-hd-indicator="" aria-label="hd-indicator"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M5.375 7.062H2.637V4.26H.502v7.488h2.135V8.9h2.738v2.848h2.133V4.26H5.375v2.802zm5.97-2.81h-2.84v7.496h2.798c2.65 0 4.195-1.607 4.195-3.77v-.022c0-2.162-1.523-3.704-4.154-3.704zm2.06 3.758c0 1.21-.81 1.896-2.03 1.896h-.83V6.093h.83c1.22 0 2.03.696 2.03 1.896v.02z" style="fill: rgb(255, 255, 255);"></path></svg></button>
+  
+  </div>
+  
+</div>
+<div class="seek-time" data-seek-time="" style="display: none; left: -100%;"><span data-seek-time=""></span>
+<span data-duration="" style="display: none;"></span>
+</div></div></div></div>
+                            <script>
+                                var playerElement = document.getElementById("TeLaSe");
+                                var player = new Clappr.Player({
+                                    source: "http://tv-trt1.live.trt.com.tr/master.m3u8",
+                                    //mimeType: 'application/x-mpegURL',
+                                    //mimeType: 'video/x-matroska',									
+									//mimeType: 'application/vdn.apple.mpegurl',
+									//mimeType: 'application/octet-stream',
+									//mimeType: 'application/x-www-form-urlencoded',						
+                                    width: '100%',
+                                    height: 'calc(90vh - 90px)',
+                                    autoPlay: false,
+									watermark: "img/FREE-IPTV-Player.png",
+                                    watermarkLink: "",
+                                    mediacontrol: {seekbar: "#00FF00", buttons: "#FFFFFF"},
+                                    mute: false,
+                                    gaAccount: "UA-69771681-1",
+                                    disableErrorScreen: true, // Disable the internal error screen plugin
+                                    plugins: [ChromecastPlugin,ErrorPlugin,LevelSelector,ClapprAds,HlsjsPlayback],
+                                    chromecast: {
+                                        appId: "9DFB77C0",
+                                        contentType: "video/m3u8",
+										contentType: "video/mp4",
+										contentType: "video/mp2t",
+										contentType: "video/matroska",
+										contentType: "video/hls",
+
+                                        media: {
+                                            type: ChromecastPlugin.None,
+                                            title: "IPTV",
+                                            subtitle: "IPTV Streaming Service"
+                                        }
+                                    },
+
+                                    errorPlugin: {
+                                        onRetry: function(e) {
+                                        }
+                                      },
+									  
+                                    ads: {
+                                        preRoll: {
+                                            src: './img/efecct.mp4',
+                                            skip: true,
+                                            timeout: 3,
+                                            link: ''
+                                        },
+                                        text: {
+                                            wait: 'Wait % seconds...',
+                                            skip: 'Skip >>>'
+                                        }
+                                    },
+                                    disableVideoTagContextMenu: true,
+                                    playbackNotSupportedMessage: 'Your browser is not supported.'
+                                });
+                                player.attachTo(playerElement);
+                            </script>
+                     </div>
+                  </div>
+               </div>
+               <hr class="mt-0">
+            </div>
+         </div>
+         <!-- /.content-wrapper -->
+      </div><script type="text/javascript" async="async" src="//www.google-analytics.com/ga.js"></script>
+      <!-- /#wrapper -->
+      <!-- Bootstrap core JavaScript-->
+      <script src="vendor/jquery/jquery.min.js"></script>
+      <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <!-- Core plugin JavaScript-->
+      <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+      <!-- Owl Carousel -->
+      <script src="vendor/owl-carousel/owl.carousel.js"></script>
+      <script src="libs/list.min.js"></script>
+      <!-- Custom scripts for all pages-->
+      <script src="js/custom.js"></script>
+   
+</body></html>
