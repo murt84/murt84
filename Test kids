@@ -1,0 +1,147 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",DISNEY CHANNEL
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",GONG MAX
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",ANIMAX
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",ANIPLUS
+http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",MY KIDS
+http://210.210.155.35/session/8f57997a-7f8f-11ea-84dd-806b9117222e/uq2663/h/h98/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",LEARNINGS
+http://210.210.155.35/uq2663/h/h97/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Tene kame
+http://92.43.140.200/s56/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Mynbt
+http://92.43.140.200/s58/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Tiji
+http://92.43.140.200/s59/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Uniuni
+http://92.43.140.200/s46/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Mama
+http://92.43.140.200/s77/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",AW
+http://92.43.140.200/s74/04.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-kaku-cn.png",BTV KAKU
+http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiajia-cartoon-cn.png",JIAJIA CARTOON
+http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg",ANIWORLD
+http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.postimg.cc/jCYDqv4t/3-ABN-KidsTV.png",3ABN KidsTV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.imgur.com/wIAZh19.jpg",BOOMERANG
+http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
+#EXTINF:-1 group-title="KidsTV" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg",YOU MAN
+http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.imgur.com/wIAZh19.jpg",CARTOON CLUB
+https://edge4-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.imgur.com/wIAZh19.jpg",NICK JR. BG
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.imgur.com/wIAZh19.jpg",NICKELODEON GER
+http://136.243.177.164/NICKELODEON/playlist.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-lUNyzC0zQ6C_0HjUoqikJb0mduDz_-YKbrQ=s900-c-k-c0xffffffff-no-rj-mo",GEM KidsTV
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_KidsTV/playlist.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.imgur.com/wIAZh19.jpg",Blacberry Cartoon
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.imgur.com/wIAZh19.jpg",TCT KidsTV
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.imgur.com/0OYQYvR.png",ANIMAX
+https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.imgur.com/wIAZh19.jpg",ANIMAX
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",DISNEY XD THAI
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",CARTOON NETWORK THAI
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",ANIMAX
+http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",MY KIDS
+http://45.126.83.51/session/ed35b066-8776-11e9-8be0-b73f998c1fa0/x6bnqe/s/s113/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",CARTOON NETWORK
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",TRT Cocuk(Turki)
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Sony YAY
+http://198.255.87.59:8080/INDIA_HINDI/SONY_YAY/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Discovery Kids
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Astro Cartoon
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",SPACETOON
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",CTC KIDS
+http://live-ng-01.more.tv/hls/CTC_Kids/index_1.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",SHEMAROOME KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",DISNEY XD
+http://randomserver.site:2086/crystal/12345/95371
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",BOOMERANG
+https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",BOOMERANG
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",GONGMAX_TV
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Toonmax
+http://45.126.83.51/qwr9ew/s/s50/01.m3u
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",GEM Junior
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Persiana 3 JUNIOR
+http://51.158.74.129/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Taha TV
+https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",TCT Kids
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Hodhod
+http://51.158.184.234/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",IBC Kids
+https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",KTV Kids
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",OneTv Kids
+http://36.37.252.116:7788/live/OneTV-002.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Aniplus 
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",Aniplus 
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",ANIPLUS
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV", 3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",YOU MAN
+http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",BTV KAKU
+http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",JIAJIA CARTOON
+http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="KidsTV",ANIWORLD
+http://117.148.187./PLTV/88888888/224/3221226190/index.m3u8
+
+    }
+}
