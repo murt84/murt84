@@ -1,0 +1,1728 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",= Самообновляемый плейлист FreeBestTV SNIPTV =
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",=== ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv) ===
+http://45.14.38.4:15000
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",12 Канал (Омск)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",12 Канал HD
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="1hdru" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",1HD
+https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",1HD Music TV
+http://live-1.otcnet.ru/onehdweb/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",1Music Channel Hungary
+http://1music.hu/1music.m3u8
+#EXTINF:0 tvg-id="2x2" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",2x2
+https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="31_kazahst" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",31 канал
+https://sc.id-tv.kz/31Kanal_34_35.m3u8
+#EXTINF:0 tvg-id="31_kazahst" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",31 канал
+http://92.46.127.146:8080/31Channel/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",31 канал/Акшам ТВ
+http://aqsham.tv/webdav/1000/list.m3u8?_=1
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",31 канал/Алва ТВ
+http://live-alvatv.cdnvideo.ru/alvatv-push/alvatv_720/playlist.m3u8
+#EXTINF:0 tvg-id="podmoskovie" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",360
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:0 tvg-id="podmoskovie" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",360 HD
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",360 International
+https://sc.id-tv.kz/360_34_35.m3u8
+#EXTINF:0 tvg-id="360-news" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",360 Новости
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+#EXTINF:0 tvg-id="360-news" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",360 Новости HD
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",43 канал HD
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",43 канал HD
+http://sochi-strk.ru:2015/43Kanal/mpegts
+#EXTINF:0 tvg-id="49kanal" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",49 канал
+http://49channel.mediacdn.ru/live/cdn/49channel/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",7 TV
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",7 канал
+http://92.46.127.146:8080/7Channel/index.m3u8
+#EXTINF:0 tvg-id="7kanal" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",7 канал KZ
+https://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:0 tvg-id="8-kanal" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",8 Канал
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",8 Канал (Крым)
+http://176.99.110.252/stream8/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",8 Канал Европа
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",8 Канал Красноярск
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",8 Канал Красноярск
+http://80.65.18.213/8kanal/vintera/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",8 Канал Новосибирск
+http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",8 канал Беларусь HD
+http://80.94.225.126:8080/8kanalHD/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",8 канал Витебск
+http://95.46.208.8:24433/art
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Abai TV
+https://sc.id-tv.kz/AbaiTV_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/abaitv/abaitv_720/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Aiva TV HD
+http://live-2.otcnet.ru/aiva/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Almaty TV
+https://sc.id-tv.kz/Almaty_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Almaty TV
+http://92.46.127.146:8080/Almaty/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Almaty TV (KZ)
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="amedia1" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Amedia 1
+https://sc.id-tv.kz/A1_34_35.m3u8
+#EXTINF:0 tvg-id="amedia1" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Amedia 1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:0 tvg-id="amedia2" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Amedia 2
+https://sc.id-tv.kz/A2_34_35.m3u8
+#EXTINF:0 tvg-id="amedia2" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Amedia 2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:0 tvg-id="amedia-hit" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:0 tvg-id="amedia-hit" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Amedia Hit HD
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:0 tvg-id="amedia-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Amedia Premium HD
+https://sc.id-tv.kz/amedia_pr_hd_34_35.m3u8
+#EXTINF:0 tvg-id="astana" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Astana TV
+https://sc.id-tv.kz/Astana_34_35.m3u8
+#EXTINF:0 tvg-id="astana" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Astana TV
+http://92.46.127.146:8080/Astana-L3-TRANS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Atameken Business
+http://92.46.127.146:8080/Atameken-L3-TRANS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Atameken Business TV
+https://sc.id-tv.kz/Atameken_36_37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Atameken Business TV
+http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="baby-tv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Baby TV
+http://okkotv-live.cdnvideo.ru/channel/BabyTV/480p.m3u8
+#EXTINF:0 tvg-id="sony-turbo" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+#EXTINF:0 tvg-id="bollywood-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:0 tvg-id="bridge" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Bridge TV
+https://stream.sputnik24.tv/bridge/index.m3u8
+#EXTINF:0 tvg-id="topsong" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Bridge TV Classic
+https://stream.sputnik24.tv/bridgec/index.m3u8
+#EXTINF:0 tvg-id="dange" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Bridge TV Hits
+https://stream.sputnik24.tv/bridgeh/index.m3u8
+#EXTINF:0 tvg-id="rusong" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Bridge TV Русский хит
+https://stream.sputnik24.tv/bridgerus/index.m3u8
+#EXTINF:0 tvg-id="bridge-fresh" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Bridge TV Фрэш
+https://stream.sputnik24.tv/bridgef/index.m3u8
+#EXTINF:0 tvg-id="shlyager" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Bridge TV Шлягер
+https://stream.sputnik24.tv/bridgesh/index.m3u8
+#EXTINF:0 tvg-id="cctv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Caspian News
+https://sc.id-tv.kz/CaspianNews_36_37.m3u8
+#EXTINF:0 tvg-id="park-razvlecheniy" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Cinema
+https://sc.id-tv.kz/Cinema_36_37.m3u8
+#EXTINF:0 tvg-id="park-razvlecheniy" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Cinema
+http://195.26.83.96:50001/1
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Cinemax TV KG
+rtmp://77.235.18.154:1935/live/live.stream
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:0 tvg-id="myDeejay.it" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Discovery
+https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Dombyra TV
+https://sc.id-tv.kz/Dombyra_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",E TV HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="extreme-sports" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Extreme Sports
+https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
+#EXTINF:0 tvg-id="flixsnip" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Flix Snip
+https://sc.id-tv.kz/FlixSnip_34_35.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Fox
+http://tv.streams.baikal-telecom.net/FOX/index.m3u8
+#EXTINF:0 tvg-id="fox-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Fox HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:0 tvg-id="fox-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Fox HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:0 tvg-id="fox-life-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Fox Life HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Fresh ТВ
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_4.smil/chunklist_b2628000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Gakku
+http://92.46.127.146:8080/gakku/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Gakku TV
+https://sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Gaukhar TV
+https://sc.id-tv.kz/GaukharTV_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Global Star TV
+http://stream2.hardlife.tv:8135/hls-live/hlsGS/_definst_/lq/gs.m3u8
+#EXTINF:0 tvg-id="gulli" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Gulli Girl
+http://live-2.otcnet.ru/Gulli_OT/index.m3u8
+#EXTINF:0 tvg-id="gulli" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Gulli Girl
+https://sc.id-tv.kz/Gulli_34_35.m3u8
+#EXTINF:0 tvg-id="hd-life" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",HDL
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:0 tvg-id="history-rus" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",History
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:0 tvg-id="history2-rus" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",History 2
+https://sc.id-tv.kz/H2HD_36_37.m3u8
+#EXTINF:0 tvg-id="HitMusic.hu" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:0 tvg-id="H!TMusic.ro" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Hit TV
+http://92.46.127.146:8080/HitTV-L3-TRANS/index.m3u8
+#EXTINF:0 tvg-id="H!TMusic.ro" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Hit TV
+https://sc.id-tv.kz/HitTV_34_35.m3u8
+#EXTINF:0 tvg-id="hollywood" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Hollywood
+https://sc.id-tv.kz/Hollywood_34_35.m3u8
+#EXTINF:0 tvg-id="kazakhtv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Kazakh TV
+http://92.46.127.146:8080/KazakhTV-L3-TRANS/index.m3u8
+#EXTINF:0 tvg-id="kazakh-tv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Kazakh TV HD
+http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Kazakh TV HD (ENG)
+http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Kazakh TV HD (KG)
+http://serv30.vintera.tv:8081/kazahtv/stream_kg/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Kazakh TV HD (KZ)
+http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Kino 24
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Leomax
+http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Luxury HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Luxury HD
+https://stream.sputnik24.tv/luxury/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Maidan TV
+http://hls-iptv.tattelecom.ru:80/online_tv_Maydan/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Maidan TV
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv_480/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Maidan TV HD
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
+#EXTINF:0 tvg-id="mezzo" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Mezzo
+https://sc.id-tv.kz/mezzo_34_35.m3u8
+#EXTINF:0 tvg-id="mezzo-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Mezzo Live HD
+https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Munara TV
+https://sc.id-tv.kz/MunaraTV_34_35.m3u8
+#EXTINF:0 tvg-id="musicbox" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Music Box Gold
+http://musicbox.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
+#EXTINF:0 tvg-id="mb-russia" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Music Box Russian
+http://musicbox.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Muzzone
+http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
+#EXTINF:0 tvg-id="nano" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:0 tvg-id="nano" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Nano TV
+https://stream.sputnik24.tv/nano/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Nano TV HD
+http://tv.streams.baikal-telecom.net/NanoTV/mono.m3u8
+#EXTINF:0 tvg-id="natgeo_hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Nat Geo HD
+https://sc.id-tv.kz/NatGeogHD_34_35.m3u8
+#EXTINF:0 tvg-id="natgeo_hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Nat Geo HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:0 tvg-id="wild-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:0 tvg-id="wild-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Nat Geo Wild HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD/1080p.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Nick Jr
+https://sc.id-tv.kz/NickJr_36_37.m3u8
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Nickelodeon
+https://sc.id-tv.kz/Nickelodeon_34_35.m3u8
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Nickelodeon
+http://tv.streams.baikal-telecom.net/Nickelodeon/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Pro100 TV
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",QADAM TV
+https://sc.id-tv.kz/QADAMTV_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Qazaqsha Kinoalem
+https://sc.id-tv.kz/QKinoAlem_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Qazaqsha Kinohit
+https://sc.id-tv.kz/QKinoHIT_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",R-Music (KZ)
+https://otv.wotom.net/rmusic/stream.m3u8
+#EXTINF:0 tvg-id="russia-today" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",RT HD
+http://cdn-01.bonus-tv.ru:8080/RussiaToday/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",RT Документальный HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",RT Документальный HD
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="rtg-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",RTG HD
+http://tv.streams.baikal-telecom.net/RTG_HD/index.m3u8
+#EXTINF:0 tvg-id="rtg-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",RTG HD
+https://stream02.sputnik24.tv/rtghd/index.m3u8
+#EXTINF:0 tvg-id="rutv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",RU TV HD
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
+#EXTINF:0 tvg-id="axn" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:0 tvg-id="shopping-live" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Shopping Live
+http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="shopping-live" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:0 tvg-id="shopping-live" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Shopping Live
+http://origin5.mediacdn.ru/live/shoppinglivedist/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Start Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Start World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TALIM TV (KZ)
+https://sc.id-tv.kz/TALIMTV_34_35.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TLC
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TMTV
+http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="tv1000" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV 1000
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV 1000
+http://tv.streams.baikal-telecom.net/TV1000/index.m3u8
+#EXTINF:0 tvg-id="tv1000" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV 1000
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+#EXTINF:0 tvg-id="tv1000-action" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV 1000 Action
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000-action" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV 1000 Action
+http://tv.streams.baikal-telecom.net/TV1000_Action/index.m3u8
+#EXTINF:0 tvg-id="tv1000-action" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV 1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+#EXTINF:0 tvg-id="tv1000_rus" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV 1000 Русское кино
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000_rus" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV 1000 Русское кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV BRICS
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV BRICS HD
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV BRICS HD (English)
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV1 (KG)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV1 (KG)
+http://st.kglive.asia/hls/tv1kg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV1 KG Cinemastan
+http://st.kglive.asia/hls/tv1cinema.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV1 Бишкек Шаары
+http://st.kglive.asia/hls/tv1bish.m3u8
+#EXTINF:0 tvg-id="tvm" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TVM Channel
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="tvm" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TVM Channel
+http://origin5.mediacdn.ru/live/tvm/index.m3u8
+#EXTINF:0 tvg-id="tiji" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Tiji
+http://live-2.otcnet.ru/TiJi_OT/index.m3u8
+#EXTINF:0 tvg-id="tiji" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Tiji
+https://sc.id-tv.kz/TiJi_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Torre Ricca TV
+http://live-topshop.cdnvideo.ru/topshop/topshop_576p/playlist.m3u8
+#EXTINF:0 tvg-id="travel-adv-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Travel & Adventure HD
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="travel-adv-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Travel + Adventure HD
+http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",VIP Comedy
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",VIP Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",VIP Megahit
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",VIP Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",VIP Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",VIP Premiere HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+#EXTINF:0 tvg-id="vip-serial" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",VIP Serial
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="vip-serial" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",VIP Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+#EXTINF:0 tvg-id="explorer" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat Explore
+https://sc.id-tv.kz/ViasatExplorer_34_35.m3u8
+#EXTINF:0 tvg-id="explorer" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat Explore
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="explorer" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat Explore HD
+http://tv.streams.baikal-telecom.net/Viasat_Explorer/index.m3u8
+#EXTINF:0 tvg-id="explorer" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:0 tvg-id="history" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat History
+https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
+#EXTINF:0 tvg-id="history" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat History
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="history" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat History HD
+http://tv.streams.baikal-telecom.net/Viasat_History/index.m3u8
+#EXTINF:0 tvg-id="history" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:0 tvg-id="viasat-nature" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat Nature
+https://sc.id-tv.kz/ViasatNature_34_35.m3u8
+#EXTINF:0 tvg-id="nature-history" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat Nature HD
+http://tv.streams.baikal-telecom.net/Viasat_Nature/index.m3u8
+#EXTINF:0 tvg-id="nature-history" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:0 tvg-id="viasat-sport" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Viasat Sport
+https://sc.id-tv.kz/ViasatSport_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",WFC TV
+http://wfcrus.mediacdn.ru/cdn/wfcrus/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",WFC TV HD
+http://wfcrus.mediacdn.ru/cdn/wfcrus/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",WFC TV International
+http://wfcint.mediacdn.ru/cdn/wfcint/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",WFC TV International HD
+http://wfcint.mediacdn.ru/cdn/wfcint/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="zee" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Zee TV
+http://194.213.23.7:3304
+#EXTINF:0 tvg-id="zee" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Zee TV
+https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Абаза ТВ
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+#EXTINF:0 tvg-id="avto24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Авто 24
+https://sc.id-tv.kz/Avto24_36_37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Алау ТВ (KZ)
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Арис 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Арис 24
+rtmp://195.191.78.200:1935/aris24/stream
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Арис 24
+http://195.191.78.200:8112/hls/stream.m3u8
+#EXTINF:0 tvg-id="arkhyz24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Архыз 24
+http://live.mediacdn.ru/sr1/arhis24/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Архыз 24 HD
+http://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="astraxan24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
+#EXTINF:0 tvg-id="astraxan24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Астрахань 24 HD
+http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="astraxan24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Астрахань 24 HD
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Афонтово HD
+http://80.65.30.139/Afontovo_HD_test/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Афонтово HD
+http://tshift.telecoma.tv:8082/AfontovoWEB/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bct" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",БСТ
+http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="bct" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",БСТ
+http://origin5.mediacdn.ru/live/bstpart/index.m3u8
+#EXTINF:0 tvg-id="tpo" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:0 tvg-id="belarus1" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Беларусь 1 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="belarus2" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Беларусь 2 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="bel24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:0 tvg-id="bel24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Беларусь 24
+https://sc.id-tv.kz/Belarus24_36_37.m3u8
+#EXTINF:0 tvg-id="bel24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Беларусь 24 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:0 tvg-id="belarus3" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Беларусь 3 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Беларусь 4 HD Витебск
+https://flu.vtv.by/bt4-non-by/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Беларусь 4 HD Витебск
+http://86.57.251.33/bt4/live/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bober" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Бобер
+https://sc.id-tv.kz/bober_34_35.m3u8
+#EXTINF:0 tvg-id="bober" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Бобер
+https://pkvc-hls4.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b2628000_slru.m3u8
+#EXTINF:0 tvg-id="bober" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Бобер
+http://tv.streams.baikal-telecom.net/Bober/index.m3u8
+#EXTINF:0 tvg-id="big-asia" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Большая Азия HD
+https://stream.sputnik24.tv/bigasia_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Брянская Губерния HD
+http://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Бьюти ТВ
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_134.smil/chunklist_b2628000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Витебск ТВ
+https://flu.vtv.by/tvt-non-by/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Витебск ТВ
+http://86.57.251.33/tvt-tv/live/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Витрина ТВ
+http://v4.proofix.ru:80/vitrina-live/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Вкусное ТВ
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_133.smil/chunklist_b2628000.m3u8
+#EXTINF:0 tvg-id="vmeste-rf" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Вместе РФ HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="vostok" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Восток ТВ
+http://topchantv.net:3456/live/cdn_Top/PPEIyMvacU/489.m3u8
+#EXTINF:0 tvg-id="vremya" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Время
+https://sc.id-tv.kz/Vremya_36_37.m3u8
+#EXTINF:0 tvg-id="vremya" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Время
+https://pkvc-hls4.cdnvideo.ru/Vremya/smil:Vremya.smil/chunklist_b3128000_slru.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Грозный ТВ
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дагестан
+http://185.78.112.46:8077/RGVK-DAGESTAN/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дагестан ТВ
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дагестан ТВ HD
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дагестан ТВ HD
+http://origin5.mediacdn.ru/live/dagestan/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дайвинг ТВ
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_130.smil/chunklist_b2628000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Девятая Волна
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Девятая Волна
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Девятая Волна
+http://185.78.112.46:8077/9-volna/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Девятая Волна
+http://origin5.mediacdn.ru/live/9volna/index.m3u8
+#EXTINF:0 tvg-id="dikaya-oxota" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дикая охота HD
+http://okkotv-live.cdnvideo.ru/channel/Dikaya_Ohota_HD/1080p.m3u8
+#EXTINF:0 tvg-id="dikaya-rybalka" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дикая рыбалка HD
+http://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD/1080p.m3u8
+#EXTINF:0 tvg-id="dikij" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дикий
+http://okkotv-live.cdnvideo.ru/channel/Dikiy/480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Димград 24 HD
+http://live-1.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:0 tvg-id="disney" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дисней
+http://94.154.83.88:10000/test1
+#EXTINF:0 tvg-id="disney" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дисней
+http://tv.streams.baikal-telecom.net/Disney/index.m3u8
+#EXTINF:0 tvg-id="disney" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дисней
+https://okkotv-live.cdnvideo.ru/channel/Disney/480p.m3u8
+#EXTINF:0 tvg-id="domkino" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дом Кино
+https://sc.id-tv.kz/DomKino_36_37.m3u8
+#EXTINF:0 tvg-id="domkino" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дом Кино
+https://pkvc-hls4.cdnvideo.ru/DK/smil:DK.smil/chunklist_b3128000_slru.m3u8
+#EXTINF:0 tvg-id="domkino-prem" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дом Кино Премиум
+https://pkvc-hls4.cdnvideo.ru/DKP/smil:DKP.smil/chunklist_b3128000_slru.m3u8
+#EXTINF:0 tvg-id="domkino-prem" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_34_35.m3u8
+#EXTINF:0 tvg-id="home" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Домашний
+http://85.192.10.131/hls/domashnij/playlist.m3u8
+#EXTINF:0 tvg-id="home" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Домашний HD
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+#EXTINF:0 tvg-id="ugdon" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дон 24
+http://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дон 24 HD
+http://donmedia.bonus-tv.ru/cdn/donmedia/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="dorama" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дорама HD
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дума ТВ
+http://dumatv2.mediacdn.ru/cdn/dumatv/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дума ТВ
+http://origin5.mediacdn.ru/live/dumatv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дума ТВ HD
+http://dumatv2.mediacdn.ru/cdn/dumatv/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="eda" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Еда
+https://stream02.sputnik24.tv/eda/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Еда Премиум (Международный)
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ел Арна
+https://sc.id-tv.kz/ElArna_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ел Арна
+http://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ел Арна
+http://92.46.127.146:8080/elarna/index.m3u8
+#EXTINF:0 tvg-id="enisey" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Енисей
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Жар-Птица ТВ
+http://live-2.otcnet.ru/jarptica/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Жара Kids TV HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Жетысу
+http://92.46.127.146:8080/Zhetysu-L3-TRANS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Жетысу ТВ
+https://sc.id-tv.kz/Jetusu_34_35.m3u8
+#EXTINF:0 tvg-id="zagorzhizn" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Загородная Жизнь
+https://sc.id-tv.kz/Zagorod_34_35.m3u8
+#EXTINF:0 tvg-id="zagorodny" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Загородный
+https://stream.sputnik24.tv/zagorod/index.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Звезда
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Звезда
+http://85.192.10.131/hls/zvezda/playlist.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Звезда
+https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="zdorovoe" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Здоровое ТВ
+http://tv.streams.baikal-telecom.net/ZdorovoeTV/index.m3u8
+#EXTINF:0 tvg-id="zoo-tv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Зоо ТВ
+https://stream.sputnik24.tv/zootv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Известия ТВ
+http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Известия ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:0 tvg-id="illuzion+" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Иллюзион+
+https://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ингушетия ТВ
+http://185.78.112.46:8077/INGUSHETIYA/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ингушетия ТВ
+http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ингушетия ТВ
+http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",КСК ТВ (KZ)
+https://otv.wotom.net/ksk/stream.m3u8
+#EXTINF:0 tvg-id="ktk" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",КТК
+https://sc.id-tv.kz/KTK_34_35.m3u8
+#EXTINF:0 tvg-id="ktk" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:0 tvg-id="ktk" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",КТК
+http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_b3064000_slrus.m3u8
+#EXTINF:0 tvg-id="ktk" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",КТК
+http://92.46.127.146:8080/KTK/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Кавказ 24
+https://radio-live-mg.rtr-vesti.ru/hls2/kavkaz_24/playlist_3.m3u8
+#EXTINF:0 tvg-id="kaleidoskop" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Калейдоскоп ТВ
+http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="kaleidoskop" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
+#EXTINF:0 tvg-id="kaleidoskop" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Калейдоскоп ТВ
+http://origin5.mediacdn.ru/live/kaleidoskop/index.m3u8
+#EXTINF:0 tvg-id="kaleidoskop" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Калейдоскоп ТВ
+https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop/480p.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Карусель
+https://radio-live-mg.rtr-vesti.ru/hls/karusel/playlist_3.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Карусель
+https://stream.sputnik24.tv/karusel/index.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Карусель
+http://85.192.10.131/hls/Karusel/playlist.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Карусель Int.
+https://sc.id-tv.kz/Karusel_36_37.m3u8
+#EXTINF:0 tvg-id="kino-tv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Кино ТВ
+http://live-1.otcnet.ru/kinotvsd/mono.m3u8
+#EXTINF:0 tvg-id="konnyj-mir" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="konnyj-mir" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Конный Мир
+https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Красная линия ТВ
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Краснодар ТВ
+http://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Краснодар ТВ [HD]
+rtmp://tvkrasnodar.cdnvideo.ru:1935/tvkrasnodar/tvkrasnodar.sdp
+#EXTINF:0 tvg-id="krik" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Крик ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:0 tvg-id="krik" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Крик ТВ
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Крым 1
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:0 tvg-id="crimea-24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Крым 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Крым 24 HD
+http://live.1tvcrimea.ru:8080/switcher.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Крым 24 HD
+http://185.205.239.26:8081/show/crimea24test/playlist.m3u8
+#EXTINF:0 tvg-id="orbita" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Кубань 24
+http://origin5.mediacdn.ru/live/cuban24/playlist.m3u8
+#EXTINF:0 tvg-id="orbita" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Кубань 24
+https://stream.kuban24.tv:1500/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Кузбасс 1
+http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Кузбасс 1 HD
+http://kuzbass1.ru:8082/10kanal/k24/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Кунел ТВ
+http://hls-iptv.tattelecom.ru:80/online_tv_Kynel/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Курай ТВ
+http://bsttv.bonus-tv.ru:80/cdn/kurai/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="kuhnya" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Кухня ТВ HD
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Легендарный 24 HD
+http://sevas.1tvcrimea.ru:8081/show/legendarniy24/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Лен ТВ 24
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Лен ТВ 24 HD
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Лен ТВ 24 HD
+https://radio-live-mg.rtr-vesti.ru/hls2/lentv24/playlist_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Любимое ТВ
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_6.smil/chunklist_b2628000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Любимый HD (KG)
+rtmp://92.245.103.126:1935/live/live.stream
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",МТРК
+http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Магнат ТВ
+http://nano.teleservice.su:8080/hls/100l.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мамонт ТВ [HD]
+http://live-saha.cdnvideo.ru/saha/mamont/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мамонтенок ТВ
+http://85.192.10.131/hls/MamonRu/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:0 tvg-id="millet" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:0 tvg-id="mir" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир
+https://stream.sputnik24.tv/mir/index.m3u8
+#EXTINF:0 tvg-id="mir" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир
+https://okkotv-live.cdnvideo.ru/channel/Mir_OTT/480p.m3u8
+#EXTINF:0 tvg-id="mir" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 tvg-id="mir24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир 24
+https://sc.id-tv.kz/Mir24_34_35.m3u8
+#EXTINF:0 tvg-id="mir24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир 24
+http://92.46.127.146:8080/Mir-L3-TRANS/index.m3u8
+#EXTINF:0 tvg-id="mir24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир 24
+http://tv.streams.baikal-telecom.net/Mir24/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="mir24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 tvg-id="mir24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир Белогорья
+http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="moskva24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Москва 24
+https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:0 tvg-id="doverie" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Москва Доверие
+https://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
+#EXTINF:0 tvg-id="moya-planeta" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Моя Планета
+https://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="moya-planeta" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Моя Планета
+https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
+#EXTINF:0 tvg-id="moya-planeta" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Моя Планета
+http://tv.streams.baikal-telecom.net/Moya_Planeta/index.m3u8
+#EXTINF:0 tvg-id="moya-planeta" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Моя Планета HD
+http://tv.streams.baikal-telecom.net/MoyaPlanetaHD/index.m3u8
+#EXTINF:0 tvg-id="Muzhskoj.ru" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мужской
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+#EXTINF:0 tvg-id="muz-tv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Муз ТВ
+https://sc.id-tv.kz/MuzTV_34_35.m3u8
+#EXTINF:0 tvg-id="muz-tv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Муз ТВ
+https://stream.sputnik24.tv/muztv/index.m3u8
+#EXTINF:0 tvg-id="muz-tv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Муз ТВ
+https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
+#EXTINF:0 tvg-id="muzika1" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Музыка Первого
+https://sc.id-tv.kz/MuzikaPervogo_36_37.m3u8
+#EXTINF:0 tvg-id="muzika1" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Музыка Первого
+https://pkvc-hls4.cdnvideo.ru/Muzika/smil:Muzika.smil/chunklist_b3128000_slru.m3u8
+#EXTINF:0 tvg-id="mult" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мульт
+https://sc.id-tv.kz/Mult_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мультиландия HD
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мультимания LV
+http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НВК Саха HD
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:0 tvg-id="nstv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НСТ
+https://sc.id-tv.kz/NSTV_34_35.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НТВ
+http://85.192.10.131/hls/NtvRuM9/playlist.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НТВ
+https://stream.sputnik24.tv/ntv/index.m3u8
+#EXTINF:0 tvg-id="ntvmir" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НТВ Мир
+http://92.46.127.146:8080/ntv/index.m3u8
+#EXTINF:0 tvg-id="ntvmir" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НТВ Мир
+https://sc.id-tv.kz/NTV_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НТВ Молдова
+rtmp://93.115.137.166:1935/live/ntvm
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НТС (Севастополь)
+http://radio.nts-tv.com:1338/nts/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НТС HD (Севастополь)
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новое ТВ
+https://sc.id-tv.kz/NovoeTelevidenie_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новое ТВ
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новое ТВ
+http://92.46.127.146:8080/NovoeTV-L3-TRANS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новое ТВ
+https://sc.id-tv.kz/NovoeTVHD_34_35.m3u8
+#EXTINF:0 tvg-id="novyi-mir" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:0 tvg-id="o" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",О!
+https://sc.id-tv.kz/o_36_37.m3u8
+#EXTINF:0 tvg-id="o" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",О!
+https://pkvc-hls4.cdnvideo.ru/O/smil:O.smil/chunklist_b2628000_slru.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ОНТ (Инет-вещание)
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ОРТ Планета
+http://live-media56.cdnvideo.ru/media56-pub/ortoren/playlist.m3u8
+#EXTINF:0 tvg-id="otr" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ОТР
+http://85.192.10.131/hls/OTR/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ПРНК
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:0 tvg-id="muzika1" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Музыкальный
+http://rtmp.one.by:1200
+#EXTINF:0 tvg-id="muzika1" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Музыкальный
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:0 tvg-id="1hdru" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Музыкальный HD
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-id="1hdru" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Музыкальный HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Музыкальный Россия
+http://rtmp.one.by:2200
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Музыкальный Россия HD
+http://rtmp.one.by:2300
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Псковский
+http://live-1.otcnet.ru/pskov/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Ярославский
+http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Ярославский
+http://origin5.mediacdn.ru/live/yaroslavskii/index.m3u8
+#EXTINF:0 tvg-id="ort" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый канал
+http://85.192.10.131/hls/ortm9ru/playlist.m3u8
+#EXTINF:0 tvg-id="ort" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый канал
+https://stream.sputnik24.tv/first/index.m3u8
+#EXTINF:0 tvg-id="ort-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый канал HD
+https://1tv-live-gcore.gcdn.co/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:0 tvg-id="ort-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый канал HD
+http://plmgr-moretv.cdnvideo.ru/1tvstream/playlist.m3u8
+#EXTINF:0 tvg-id="ort-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый канал HD
+http://tv.streams.baikal-telecom.net/PerviyHD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый канал HD (International)
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
+#EXTINF:0 tvg-id="evrazia" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый канал Евразия
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:0 tvg-id="evrazia" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый канал Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+#EXTINF:0 tvg-id="evrazia" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый канал Евразия
+https://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
+#EXTINF:0 tvg-id="ort" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый канал.Всемирная сеть
+https://sc.id-tv.kz/1KanalVsemSet_36_37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Пингвин ТВ
+http://85.192.10.131/hls/pingvinru/playlist.m3u8
+#EXTINF:0 tvg-id="pobeda" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Победа
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
+#EXTINF:0 tvg-id="pobeda" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Победа
+https://pkvc-hls4.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
+#EXTINF:0 tvg-id="poehali" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Поехали!
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Премьера ТВ
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_5.smil/chunklist_b858000.m3u8
+#EXTINF:0 tvg-id="pro-lyubov" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Про Любовь
+https://stream.sputnik24.tv/love/index.m3u8
+#EXTINF:0 tvg-id="prodvizhenie" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Продвижение
+http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="prodvizhenie" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:0 tvg-id="prosveschenie" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Просвещение
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="pyatnica" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Пятница!
+https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="pyatnica" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Пятница!
+http://85.192.10.131/hls/pjatnica/playlist.m3u8
+#EXTINF:0 tvg-id="pyatnica7" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Пятница! HD
+https://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="pyatnica7" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Пятница! HD
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Пятница! Int.
+https://sc.id-tv.kz/friday_36_37.m3u8
+#EXTINF:0 tvg-id="piter" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Пятый канал
+https://stream.sputnik24.tv/five/index.m3u8
+#EXTINF:0 tvg-id="piter" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Пятый канал
+http://85.192.10.131/hls/5kanal/playlist.m3u8
+#EXTINF:0 tvg-id="piter" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Пятый канал
+https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+#EXTINF:0 tvg-id="rbk" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:0 tvg-id="rbk" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",РБК
+https://sc.id-tv.kz/RBK_34_35.m3u8
+#EXTINF:0 tvg-id="rbk" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",РБК
+http://tv.streams.baikal-telecom.net/RBK/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="rbk" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",РБК ТВ (Екатеринбург)
+http://91.229.235.66:8080/online/rbc_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",РБК ТВ (Уфа)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:0 tvg-id="radost-moya" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радость Моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="rentv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Рен ТВ
+https://stream.sputnik24.tv/rentv/index.m3u8
+#EXTINF:0 tvg-id="rentv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Рен ТВ
+http://85.192.10.131/hls/rentv/playlist.m3u8
+#EXTINF:0 tvg-id="rentv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Рен ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+#EXTINF:0 tvg-id="rentv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Рен ТВ Int.
+https://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF:0 tvg-id="retro" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ретро ТВ
+http://tv.streams.baikal-telecom.net/RetroTV/index.m3u8
+#EXTINF:0 tvg-id="rtr" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1
+https://radio-live-mg.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
+#EXTINF:0 tvg-id="rtr" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1
+https://radio-live-mg.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="rtr" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1
+https://stream.sputnik24.tv/russia1/index.m3u8
+#EXTINF:0 tvg-id="rtr" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1
+http://85.192.10.131/hls/RossijaM9/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Грозный)
+http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Калуга)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kaluga_r1.smil/chunklist_b1200000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Краснодар)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kuban_r1.smil/chunklist_b1200000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Липецк)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Нальчик)
+https://83tpjqlujs1.a.trbcdn.net/livemaster/ut4ekx5unw_stream3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Нижний Новгород)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:nnov.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Пенза)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r1.smil/chunklist_b1200000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Сочи)
+http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="rtr" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Тамбов)
+http://live-gtrktambov.cdnvideo.ru/gtrktambov/r1tambov/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Тула)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_tula1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Чебоксары)
+http://chgtrk.code-red.ru/hls/R1_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 (Ярославль)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/yaroslavl_r1.smil/chunklist_b1200000_slrus.m3u8
+#EXTINF:0 tvg-id="rossiya-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 HD
+http://cdn-01.bonus-tv.ru:8080/russiahd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="rossiya-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 HD
+http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:0 tvg-id="rossiya-hd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 1 HD
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#EXTINF:0 tvg-id="vesti" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:0 tvg-id="vesti" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24
+https://radio-live-mg.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:0 tvg-id="vesti" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24
+https://sc.id-tv.kz/Rossiya24_34_35.m3u8
+#EXTINF:0 tvg-id="vesti" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24
+https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
+#EXTINF:0 tvg-id="vesti" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24
+https://stream.sputnik24.tv/russia24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Екатеринбург)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/ural_r24.smil/chunklist_b3000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Калуга)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kaluga_r24.smil/chunklist_b1200000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Краснодар)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kuban_r24.smil/chunklist_b1264000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Липецк)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r24_lipetsk.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Нижний Новгород)
+http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Омск)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/omsk_r24.smil/chunklist_b1800000_slrus.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Пенза)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r24.smil/chunklist_b1000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Сочи)
+http://sochi.camera:8080/cam_256/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Тамбов)
+http://live-gtrktambov.cdnvideo.ru/gtrktambov/r24tambov/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Ульяновск)
+http://gtrk-volga.ru/media/hr24/stream1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Уфа)
+http://rtmp.gtrk.tv/720/tv720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Чебоксары)
+http://chgtrk.code-red.ru/hls/R24_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Челябинск)
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:chel_r24.smil/chunklist_b1200000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия 24 (Чита)
+http://gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
+#EXTINF:0 tvg-id="kultura" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия К
+https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:0 tvg-id="kultura" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия К
+https://radio-live-mg.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="kultura" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия К
+https://radio-live-mg.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="kultura" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия К
+https://stream.sputnik24.tv/russiak/index.m3u8
+#EXTINF:0 tvg-id="kultura" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия К
+http://85.192.10.131/hls/kultura/playlist.m3u8
+#EXTINF:0 tvg-id="kultura" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия К
+https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
+#EXTINF:0 tvg-id="rtrpl" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия РТР
+https://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="rtrpl" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Россия РТР
+https://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ростов-папа HD
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Русский иллюзион International
+https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Рыбалка и охота
+https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
+#EXTINF:0 tvg-id="ohotnik-i-rybolov" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Рыболов
+https://stream.sputnik24.tv/ohotnik/index.m3u8
+#EXTINF:0 tvg-id="ryzhij" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Рыжий
+https://stream.sputnik24.tv/ryzhiy/index.m3u8
+#EXTINF:0 tvg-id="ctv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТВ (Беларусь)
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:0 tvg-id="ctv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТВ (Беларусь)
+http://86.57.147.236/HLS/ctvby/playlist.m3u8
+#EXTINF:0 tvg-id="ctv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТВ (Беларусь)
+http://80.94.225.126:8080/STV/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТВ Казахстан
+https://sc.id-tv.kz/STV_36_37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТРК
+http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТРК HD
+http://sochi-strk.ru:2015/STRK/mpegts
+#EXTINF:0 tvg-id="sts" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТС
+http://85.192.10.131/hls/sts/playlist.m3u8
+#EXTINF:0 tvg-id="sts" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:0 tvg-id="sts-int" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТС International
+https://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:0 tvg-id="sts-kids" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТС Kids HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
+#EXTINF:0 tvg-id="sts-love" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТС Love
+http://tv.streams.baikal-telecom.net/CTC/index.m3u8
+#EXTINF:0 tvg-id="sts-love" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Салям ТВ
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Салям ТВ
+http://origin5.mediacdn.ru/live/salyamrtmp/index.m3u8
+#EXTINF:0 tvg-id="spb" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Санкт-Петербург
+http://live-topspb.cdnvideo.ru/topspb/480/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Санкт-Петербург HD
+http://live-topspb.cdnvideo.ru/topspb/1080/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Санкт-Петербург HD
+https://radio-live-mg.rtr-vesti.ru/hls2/ext_spbtv/playlist_5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Саратов 24
+http://109.248.11.19:8081/web/c24/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Саратов 24 HD
+http://saratov24.tv:80/online/playlist.php
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Свое ТВ
+http://live.stv24.tv:8080/svoetv/LQ_video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Свое ТВ (Ставрополь)
+http://svoetv.mediacdn.ru/cdn/svoetv/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Свое ТВ HD
+http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Свое ТВ HD
+http://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Севастополь 24
+http://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Севастополь ТВ
+http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Север ТВ (Нарьян-Мар)
+http://live2.mediacdn.ru/sr1/sever/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Север ТВ HD
+http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Симферополь 24
+http://simf.1tvcrimea.ru:8081/show/simferopol24sd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Симферополь 24 HD
+http://simf.1tvcrimea.ru:8081/show/simferopol24/playlist.m3u8
+#EXTINF:0 tvg-id="smilik" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Смайлик ТВ HD
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:0 tvg-id="sov-sek" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Совершенно Секретно
+http://live-sovsec.cdnvideo.ru/sovsec/sovsec_orig/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сочи 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сочи 24 HD
+http://sochi.camera:8080/cam_128/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="soyuz" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:0 tvg-id="spas" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Спас
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="spas" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Спас
+https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
+#EXTINF:0 tvg-id="super" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Суббота!
+https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВ Тур
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_2.smil/chunklist_b2628000.m3u8
+#EXTINF:0 tvg-id="tv3" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВ3
+https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv3" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВ3
+http://85.192.10.131/hls/tv3/playlist.m3u8
+#EXTINF:0 tvg-id="tv3" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВ3 HD
+https://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv3" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВ3 HD
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+#EXTINF:0 tvg-id="tvcen" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
+#EXTINF:0 tvg-id="tvcen" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВЦ
+https://stream.sputnik24.tv/tvcenter/index.m3u8
+#EXTINF:0 tvg-id="tvcen" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВЦ
+http://85.192.10.131/hls/TvciRu/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТДК 42
+https://sc.id-tv.kz/TDK-42_36_37.m3u8
+#EXTINF:0 tvg-id="tnv-planeta" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНВ Планета
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="tnv-planeta" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНВ Планета
+https://sc.id-tv.kz/TNV-Planeta_34_35.m3u8
+#EXTINF:0 tvg-id="tnv-planeta" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНВ Планета
+http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
+#EXTINF:0 tvg-id="tnv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНВ Татарстан
+http://hls-iptv.tattelecom.ru:80/online_tv_TNV/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ
+https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ
+http://85.192.10.131/hls/tnt/playlist.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ HD
+https://bl.uma.media/live/410338/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ Moldova
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:0 tvg-id="tnt-music" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ Music
+http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="tnt-music" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ Music
+https://sc.id-tv.kz/TNTMusic_34_35.m3u8
+#EXTINF:0 tvg-id="tnt-music" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ Music HD
+http://origin5.mediacdn.ru/live/tntmusic/index.m3u8
+#EXTINF:0 tvg-id="tnt4" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ4
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tnt4" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ4
+http://tv.streams.baikal-telecom.net/TNT4/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТНТ4 Int.
+https://sc.id-tv.kz/tnt4_36_37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тайна ТВ
+http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+#EXTINF:0 tvg-id="tamyr" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тамыр
+http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="telecafe" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Телекафе
+https://sc.id-tv.kz/Telecafe_36_37.m3u8
+#EXTINF:0 tvg-id="telecafe" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Телекафе
+https://pkvc-hls4.cdnvideo.ru/Telecafe/smil:Telecafe.smil/chunklist_b3128000_slru.m3u8
+#EXTINF:0 tvg-id="puteshestviya" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Телепутешествия
+https://stream.sputnik24.tv/travel/index.m3u8
+#EXTINF:0 tvg-id="24texno" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Техно 24
+https://sc.id-tv.kz/Tehno24_34_35.m3u8
+#EXTINF:0 tvg-id="tnomer" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тномер
+https://video.jewelleria.de/hlslive/test/tnomer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Той Думан
+https://sc.id-tv.kz/ToiDuman_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Той Думан
+http://92.46.127.146:8080/toiduman/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Толпар ТВ
+http://81.30.52.114:80/tolpar_mobile/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Толпар ТВ HD
+http://cdn-01.bonus-tv.ru:8080/tolpartv_origin/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Толпар ТВ HD
+http://81.30.52.114:80/tolpar/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="tonus-tv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тонус ТВ
+https://stream.sputnik24.tv/tonus/index.m3u8
+#EXTINF:0 tvg-id="tochka" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Точка ТВ
+http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Туган Тел HD
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Туран ТВ
+https://sc.id-tv.kz/TuranTV_36_37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Туран ТВ
+http://92.46.127.146:8080/TuranTV-L3-TRANS/index.m3u8
+#EXTINF:0 tvg-id="tymvremya" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тюменское Время
+http://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",УлПравда ТВ HD
+http://live-1.otcnet.ru/pravdatv/index.m3u8
+#EXTINF:0 tvg-id="fenix+kino" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Феникс плюс кино
+https://okkotv-live.cdnvideo.ru/channel/Phoenix/480p.m3u8
+#EXTINF:0 tvg-id="habar" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Хабар
+https://sc.id-tv.kz/Khabar_34_35.m3u8
+#EXTINF:0 tvg-id="habar" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Хабар
+http://92.46.127.146:8080/Khabar-L3-TRANS/index.m3u8
+#EXTINF:0 tvg-id="khabar-24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Хабар 24
+https://sc.id-tv.kz/Khabar_24_34_35.m3u8
+#EXTINF:0 tvg-id="xabar24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Хабар 24 HD
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:0 tvg-id="xabar24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Хабар 24 HD
+http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="xabar24" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Хабар 24 HD
+http://live-1.otcnet.ru/habar24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Халык Арна
+https://sc.id-tv.kz/HalykArna_34_35.m3u8
+#EXTINF:0 tvg-id="chetv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Че
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+#EXTINF:0 tvg-id="chetv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Че!
+http://tv.streams.baikal-telecom.net/CHE/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="shansontv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="shansontv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Шансон ТВ
+http://tv.streams.baikal-telecom.net/ShansonTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Шансон ТВ International
+https://sc.id-tv.kz/Shanson_34_35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Шаян ТВ
+http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v3a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Шаян ТВ
+http://origin5.mediacdn.ru/live/shayan/tracks-v3a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Шаян ТВ HD
+http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Шаян ТВ HD
+http://origin5.mediacdn.ru/live/shayan/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ю
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ю
+https://stream.sputnik24.tv/utv/index.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ю
+http://tv.streams.baikal-telecom.net/U/index.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ювелирия ТВ
+https://video.jewelleria.de/hlslive/test/site.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ювелирочка ТВ
+http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Юрган ТВ
+http://yurgan.bonus-tv.ru/cdn/yurgan/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Юрган ТВ HD
+http://yurgan.bonus-tv.ru/cdn/yurgan/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Якутия 24
+http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Якутия 24 HD
+http://live5-saha.cdnvideo.ru/live/2004.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ямал ТВ
+http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregion_mc/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ямал ТВ HD
+http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregionhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",10 канал (Новокузнецк)
+http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",11 канал Полевской
+http://hjplb2qzsf8.a.trbcdn.net/livemaster/qm9inc7byc_stream1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",26 Регион ТВ
+https://live.26region.tv/app2/stream_bypass/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",360 Сургут
+http://video1.in-news.ru/360/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",4 канал Екатеринбург
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",555 Hunt Fishing TV
+rtmp://193.169.178.29:1935/podsekaiTV/chanelHD
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",555 Hunt Fishing TV HD
+rtmp://193.169.178.29:1935/podsekaiTV/chanelHD1080
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",6 ТВ Горловка
+http://ott.inmart.tv:8081/223/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",8 канал Владивосток
+https://livestream.8kanal.tv/hls/livestream_high.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",8 канал Владивосток HD
+https://livestream.8kanal.tv/hls/livestream_src.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Akudji TV
+http://hlss.goodgame.ru/hls/5346.m3u8
+#EXTINF:0 tvg-id="brodilo" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Brodilo TV HD
+http://brodilo.tv/channel.php
+#EXTINF:0 tvg-id="fan" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",FAN
+http://176.115.152.6:1234
+#EXTINF:0 tvg-id="fan" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",FAN HD
+http://hlss.goodgame.ru/hls/157239.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",MIXM TV
+http://89.179.247.144/mixm.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",MIXM TV
+http://hlss.goodgame.ru/hls/181490.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",MIXM TV
+https://live.prd.dlive.tv/hls/live/mixm.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",MOSOBR TV
+http://retc.educom.ru/mosobrtv/tv2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",MOSOBR TV HD
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Mafi2a Music
+https://live.prd.dlive.tv/hls/live/tv12-gudauta.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Malder TV Hit
+http://hlss.goodgame.ru/hls/153640.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Malder TV Hit
+https://cdn.wasd.tv/live/1256026/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Millennium TV HD
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Naterou TV
+http://hlss.goodgame.ru/hls/61358.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",OVAA TV
+http://tv.tuva.ru/ovaa/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",PZN Stream
+http://hlss.goodgame.ru/hls/180960.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",RITSA TV
+https://live.prd.dlive.tv/hls/live/fila007.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",RITSA TV
+http://hlss.goodgame.ru/hls/179649.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Redcom TV (Хабаровск)
+https://camcity.redcom.ru/Redcams/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",STR TV
+http://hlss.goodgame.ru/hls/185110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",STR TV
+https://strtv.at.ua/hls/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",STR TV
+https://cdn-curie.wasd.tv/live/1077733/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Sochi Live
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Sochi Live HD
+http://sochi.camera:8080/cam_359/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TDM TV
+http://hlss.goodgame.ru/hls/180509.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TDM TV - FMC
+http://hlss.goodgame.ru/hls/187741.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TDM TV - Series TV
+http://hlss.goodgame.ru/hls/186021.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV Pro
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",TV Губерния (Воронеж)
+http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Univer TV
+http://cdn.universmotri.ru/live/univer.sdp_576p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Univer TV HD
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:0 tvg-id="Viva.uk" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",VIVA
+http://hlss.goodgame.ru/hls/180805.m3u8
+#EXTINF:0 tvg-id="Viva.uk" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",VIVA
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Weacom TV (Иркутск)
+http://tv.streams.baikal-telecom.net/WEACOM.TV/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ZAB TV
+https://stream.zab.ru/tv720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",АСТВ (Сахалин)
+http://astvlive.gcdn.co/astv24/astv24.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",АТВ (Ставрополь)
+http://hls.atvmedia.ru/atv800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",АТВ [HD]
+http://hls.atvmedia.ru/atv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Аист ТВ (Иркутск)
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Аист ТВ (Ликино-Дулево)
+http://141.101.205.134:8080/hls/tvaist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Алания 24
+http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Алмазный край
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Алмазный край HD
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Астрахань.Ru TV HD
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",БРТ
+http://194.11.28.2:8000/udp/239.255.1.1:1234
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",БСТ 24 (Братск)
+http://bst.bratsk.ru/hls/bst2/sd/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",БСТ 24 HD
+http://bst.bratsk.ru/hls/bst2/fhd/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Байкал Универ ТВ
+http://stream01.bgu.ru:8081/1/1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Башкортостан 24
+http://109.233.169.137/540/b24-540.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Башкортостан 24 HD
+http://109.233.169.137/hls/b24-hls.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Благосфера ТВ
+https://cdn0.mytvchannel.ru/blagosfera/hls/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Болгар Радиосы (WEB)
+https://user73612.clients-cdnnow.ru/hls/user73612_1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Большое Радио [Мурманск] (Веб-камера)
+http://live-bigradio.cdnvideo.ru/bigradio/bigradio.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Бронницы ТВ
+http://31.31.65.37/hls_get/cameraFeed.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ВТК 41 Аргус (Воронеж)
+http://4kfp3cm483g.a.trbcdn.net/livemaster/753nqiuemp_VTC-41/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Вариант ТВ (Владимир)
+http://variant-v.ru/direct/live/s1100k/playlist1100k.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Вектор 24
+https://live.vektor-tv.ru/live/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Вестник Надыма
+http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Вечерка ТВ
+http://vmvideo.gcdn.co/streams/1503_161/480n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Вечерка ТВ HD
+http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:0 tvg-id="volga" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1024x576@1272/playlist.m3u8
+#EXTINF:0 tvg-id="volga" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Волга (HD)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Волга 24
+http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Волгоград 1
+rtmp://88.87.93.33:2000/live/volgograd1
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Волжский Плюс
+http://flussonic.powernet.com.ru:8080/volplus/tracks-v2a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Волжский Плюс HD
+http://flussonic.powernet.com.ru:8080/telekanal_internet/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Восток 24 HD
+http://109.126.27.2:6484/v24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Вся Уфа
+https://allufaonline.gcdn.co/streams/60574_218850/480n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Вся Уфа HD
+https://allufaonline.gcdn.co/streams/60574_218850/1080n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Выборг ТВ
+http://live-nashgorod.cdnvideo.ru/nashgorod/nashgorod_480p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Выборг ТВ HD
+http://live-nashgorod.cdnvideo.ru/nashgorod/nashgorod_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Генпрокуратура ТВ
+http://flussonic.genproc.gov.ru/tc_out_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Генпрокуратура ТВ HD
+http://flussonic.genproc.gov.ru/playlist/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Глазов 24
+https://yellow.garant.tv/glazov24/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Город ТВ (Шадринск)
+http://public-gw.iptv.shadrinsk.net:8088/gorod.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Городской телеканал (Ярославль)
+http://www.gtk.tv/hls/gtyar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Губерния (Хабаровск)
+https://media1.gubernia.com/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Губерния 33 (Владимир)
+http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Губерния Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дзержинск ТВ
+https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v3a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Дзержинск ТВ HD
+https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Егорьевское ТВ
+http://hls-etv.cdnvideo.ru/hls/5c7e983cef3db53c215ae6e3/720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Запад 24
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Заречный ТВ
+rtmp://trkz.cdnvideo.ru:1935/trkz/trkz.sdp
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Истоки ТВ
+http://istoki.tv:8080/HLS/stream_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",К16 (Саров)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",КФУ ТВ
+http://cdn.universmotri.ru/live/kfu.sdp_576p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",КФУ ТВ HD
+http://cdn.universmotri.ru/live/kfu.sdp_1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Каменск ТВ
+rtmp://89.107.113.89:1935/live/kamensktv
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Камчатка 1
+http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Камчатка 1 HD
+http://77.82.82.244/kamchatka1/tracks-v3a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Катунь 24 (Барнаул)
+https://live.katun24.ru:8082/katun/katun/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Кварц ТВ (Подольск)
+http://streamer1.podolsknet.ru/Infochannel/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Кизилюр ТВ HD
+http://185.78.112.46:8077/KTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Королев ТВ
+http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Красногорск ТВ
+http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ldpr" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ЛДПР ТВ
+http://46.46.143.222:1935/live/ldpr.stream_480p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ЛДПР ТВ HD
+http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ленинск ТВ Плюс
+http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ленинск ТВ/360
+http://83.166.243.97:8081/ltv1360/1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ЛитКлуб ТВ - Проза
+http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ЛитКлуб ТВ - Слово
+http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ЛитКлуб ТВ - Стихи
+http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Лотос 24
+http://streaming.astrakhan.ru/live/vgtrk/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Луганск 24
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",МТВ Волгоград
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",МТВ Столица
+http://185.78.112.46:8077/mtv-stolitca/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Медиа 15
+http://185.46.48.18:8080/media15/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Между Net HD
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Министерство Идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мир-Байкал
+http://176.214.199.23:8111/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мой Дагестан HD
+http://185.78.112.46:8077/MAYAK_moydag_channel/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Мордовия 24
+http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",МузСоюз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ННТ (Дагестан)
+http://185.78.112.46:8077/nnttv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ННТ HD
+http://185.78.112.46:8077/nnttv_hd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ННТВ (Нижний Новгород)
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НТМ HD (Мордовия)
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НТС Иркутск
+http://air.nts-tv.ru/nts/sd/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",НТС Иркутск HD
+http://air.nts-tv.ru/nts/fhd/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Наш Дом (Пенза)
+http://85.234.33.60/stream/c11.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Наши Города
+https://kogalimtv.gcdn.co/streams/775_101/360n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Нижний Новгород 24
+http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ника TV (Калуга)
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ники ТВ
+http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Нирэя (Гомель)
+http://hlss.goodgame.ru/hls/165177.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новое Радио (BY)
+https://live.novoeradio.by:444/live/novoe/novoe/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b1128000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новое Радио ТВ HD
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новороссия ТВ
+http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новый Век (Тамбов)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Новый Век HD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ОСН ТВ
+https://osnmedia.gcdn.co/streams/17603_88089/720n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ОТВ (Серпухов)
+http://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Обком ТВ
+http://www.omsk-kprf.ru/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Одинцово ТВ
+http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Оплот
+http://31.133.57.158/hls/1234.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Оплот
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Оплот 2 HD
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Осетия-Ирыстон
+http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Панорама ТВ (Тверь)
+http://stream.fastlnk.ru:88/Panorama_TV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Панорама ТВ HD
+http://stream.fastlnk.ru:88/Panorama_TV_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Городской (Гомель)
+http://hlss.goodgame.ru/hls/165178.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Медицинский канал
+http://mediasphera-htlive.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Мытищинский
+http://mauonline.ru:1935/live/onetvm/udp.stream_360p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Областной (Орел)
+http://bl.webcaster.pro/media/playlist/free_140eac07a7991aa298f6a236b821adf0_hd/65_97993691/720p/c3ee180611bde15cd97252345bc860ac/4738299574.m3u8?live=15&ref=https://obl1.ru
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Республиканский
+http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Ростовский
+http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_480/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Ростовский HD
+http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_1080/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Тульский
+http://1tvtula.ru/tula/1tv_low/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Первый Тульский HD
+http://1tvtula.ru/tula/1tv_hi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Полезное Радио (Феодосия)
+http://webcam.feonet.net:8080/poleznoeradio/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Прибой ТВ
+http://185.78.112.46:8077/priboy_tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Прим 24
+http://flussonic-vsaas2.podryad.net/prim24/index.m3u8
+#EXTINF:0 tvg-id="sts4" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Прима ТВ
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@1272/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Прима ТВ HD
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:0 tvg-id="rzd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="rzd" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",РТК Забайкалье
+https://stream.zrtk.ru/zrtk.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио 1 [RU]
+http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио 101.8 [Пенза]
+http://video.penzainform.ru/e/r1018.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Kids FM
+http://cqw2lystveu.a.trbcdn.net/livemaster/6j6at4poea_radiokidsfm720_tcode720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио MCM [Иркутск]
+http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Вести FM [RU]
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Волгоград FM (Веб-камера)
+http://www.volgogradfm.ru/cam/hls/volgogradfm.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Говорит Москва [RU] (Веб-камера)
+https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Джем FM [ЕКБ]
+https://m.jamfm.ru/cam/hls/jam.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио За облаками (ВЕБ)
+rtmp://195.88.63.114:1935/live/cam
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Красноярск FM
+https://krasnoyarskfm.ru/cam/hls/krasnoyarskfm.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Крым (Веб-камера)
+https://cdn.1tvcrimea.ru/radio.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Лемма (Владивосток)
+https://livestream.8kanal.tv/hls/lemma_src.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Макс FM [Сочи] (Веб-камера)
+http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Маяк (Веб-камера)
+https://radio-live-mg.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Мелодия [Воронеж]
+https://live-mediaaliance2.cdnvideo.ru/mediaaliance2/mediaaliance2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Мир [BY]
+http://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Москва FM
+https://radio-live-mg.rtr-vesti.ru/live/givc9.smil/chunklist_b2600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Пилот [ЕКБ]
+http://pilotfm.ru:80/cam/hls/pilothd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио России
+https://radio-live-mg.rtr-vesti.ru/hls/radio_rus/playlist_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио России (Чебоксары)
+http://chgtrk.ru/pl/stream/hls/RR_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Хит (Орск)
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Центр FM [BY]
+http://stream1.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Радио Шансон ТВ
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Раменское ТВ
+https://e10-ll.facecast.net/rtv/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Раменское ТВ HD
+https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik2.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ратник HD
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Реальный Тагил ТВ
+http://aw3bw9r75lo.a.trbcdn.net/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Регион 29 (Архангельск)
+http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Резонанс ТВ
+http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Репортер 73 (Ульяновск)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_reporter73/hls/1024x576@1272/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Репортер 73 HD
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_reporter73/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ретро Клуб ТВ
+https://cdn0.myo.tv/stream/963066f17866f5ef2bc310371c1cfa69/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Родной канал
+http://n1.slavmir.tv:80/live/ngrp:Cinegy.stream_all/chunklist_b2756000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Родной канал HD
+http://n1.slavmir.tv:80/live/ngrp:Cinegy.stream_all/chunklist_b5256000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Русский Север (Вологда)
+http://185.186.142.16/rs/576/s.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Русский Север HD
+http://185.186.142.16/rs/1080/s.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СГДФ 24
+https://cdnfs.teonvi.com/sgdf/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СИ ТВ (Новый Уренгой)
+http://lifecam.sigma-ktv.ru/ctv/tracks-v2a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СИ ТВ HD
+http://lifecam.sigma-ktv.ru/ctv/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",СТВ/Продвижение +4 (Стрежевой)
+https://live.stv-tv.ru/playlist2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Самара ГИС
+http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="sampo" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сампо ТВ
+http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Саратовский городской
+http://saratov24.tv:80/online/izvestia/playlist.php
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Саров 24
+http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Светлое ТВ
+http://194.158.218.123:8880/SvetloeTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сейм (Курск)
+https://cloud-seym.ru/hls/seym.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Селенга ТВ
+http://90.188.37.86/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сибай ТВ
+http://stvserver.sibaytv.ru:10082/canals/canal1/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Смайл ТВ/ТНТ4 +2
+rtmp://89.107.113.89:1935/live/ktv1
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Советск-Тильзит ТВ
+http://109.239.208.82/tilsit/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сок ТВ
+http://hlss.goodgame.ru/hls/180212.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Солнечногорское ТВ
+http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Столото ТВ
+https://user10573.clients-cdnnow.ru/hls/user67240_1_1080p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Страна FM ТВ HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сургут 1
+http://sitv.ru/hls/stv1024.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сургут 1 HD
+http://sitv.ru/hls/stv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сургут 24
+http://video1.in-news.ru/c24/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сургут 86
+http://sitv.ru/hls/s861024.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Сургут 86 HD
+http://sitv.ru/hls/s86.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВ-ИН (Магнитогорск)
+http://5.200.56.186/live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВ7 (Абакан)
+https://ctv7.ru/live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВЖ (Аша)
+http://37.79.254.224:1234/hls2/tvg.m3u8
+#EXTINF:0 tvg-id="home4" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВК (Красноярск)
+http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВК HD
+http://air.tvk6.ru/tvk/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВР 24 (Сергиев Посад)
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТВЧ (Черноморск)
+http://live.tvchernomorsk.cdnvideo.ru/tvchernomorsk/tvchernomorsk.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТИВИСИ HD
+http://live-tvstv.cdnvideo.ru/tvstv/tvstv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТКР (Рязань)
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТРК 555 (Алушта)
+http://trk555.tv:8888/live
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТРК Евразия
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТРК Евразия (Орск)
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТРК Луч (Пуровск)
+http://live.trk-luch.ru/hls/live_mid.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТРК Луч HD
+http://live.trk-luch.ru/hls/live_hi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТРК Тонус (Саки)
+http://171.25.175.68:888/tonus
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТСВ (Приднестровье)
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ТСТ/ТНТ +4 (Черемхово)
+http://www.spektr.top/tct_cheremkhovo/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Такт (Курск)
+http://109.194.62.29:8080/
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Татарстан 24
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тверской Проспект-Регион
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тверской Проспект-Регион HD
+http://stream.fastlnk.ru:88/Tverskojj_prospekt_hd/index.m3u8
+#EXTINF:0 tvg-id="teledom" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Теледом ТВ
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Телплюс ТВ (Астрахань)
+http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тео ТВ
+https://teotv.ru/live/site/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тивиком (Улан-Удэ)
+http://stream.trafjam.ru/tvcom/studio/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Ток ТВ (Коломна)
+http://toktvonline.ru/video/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тольятти 24
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Томское Время
+http://tomsk-time.ru/hls/750k/TT_750k.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Тосно ТВ
+http://tosnotv.ru/hlsshare/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Туапсе 24 HD
+http://185.185.69.62:8084/hls/tuapse24.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Учалы ТВ
+http://live-uchalytv.cdnvideo.ru/uchalytv/uchalytv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Центр Красноярск HD
+https://stream.tck.tv/hd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Чаваш Ен
+http://mhd58.iptv2022.com/ntrk/chavashen/324/vh1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Чайковский ТВ
+http://178.170.233.3:8889/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Экспресс (Пенза)
+http://serv25.vintera.tv:8081/expres_penza/penzatv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Эрос ТВ/TV 1000 (Волгоград)
+rtmp://erostv.cdnvideo.ru:1935/erostv/erostv.sdp
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Эфир 25 (Владивосток)
+http://flussonic0.podryad.net/gorodtv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Эфир ТВ (Казань)
+http://stream.efir24.tv:1935/live/efir/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Эфир ТВ (Набережные Челны)
+http://stream.efir24.tv:1935/live/efirchelny/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Эхо ТВ 24 (Новоуральск)
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ЮТВ (Чебоксары)
+http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",ЮУрГУ ТВ (Челябинск)
+http://tvrlive.susu.ru/1800k/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Югра ТВ
+http://live.ugratv.cdnvideo.ru/ugratv/stream1_hq/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",Юнион ТВ HD
+http://ott.inmart.tv:8081/35/index.m3u8
