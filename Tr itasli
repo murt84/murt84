@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",itasli.github.io/TURKTV
+https://i.ibb.co/YZG9MRS/turktv.png
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Channels",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:0 tvg-id="ATV.tr" group-title="Channels",ATV Avrupa
+http://antalya.tvizlehd.com/live/atvavrupa.m3u8
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Channels",Show TV
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Channels",Show Türk
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+#EXTINF:0 tvg-id="Start.tr" group-title="Channels",Star TV
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:0 tvg-id="EuroStar.tr" group-title="Channels",EuroStar
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",Kanal D
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF:0 tvg-id="EuroD.tr" group-title="Channels",Euro D
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
+#EXTINF:0 tvg-id="Fox.tr" group-title="Channels",FOX
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Channels",Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Channels",Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8
+http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV8 INT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV8.5
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF:0 tvg-id="Tv2.tr" group-title="Channels",Teve2
+https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="podmoskovie" group-title="Channels",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="Channels",Beyaz TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:0 tvg-id="amedia2" group-title="Channels",A2
+http://antalya.tvizlehd.com/live/a2tv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Show Max
+https://aeonian-wage.000webhostapp.com/kanal/showmax.php
+#EXTINF:0 tvg-id="ext" group-title="Channels",Afyon Türk TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cine5 TV
+https://host.onlineradyotv.net:8081/cine5/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Channels",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="MinikaGo.tr" group-title="Channels",Minika Go
+http://missing
+#EXTINF:0 tvg-id="MinikaCocuk.tr" group-title="Channels",Minika Çocuk
+https://antalya.tvizlehd.com/live/minikacocuk.m3u8
+#EXTINF:0 tvg-id="AHaber.tr" group-title="Channels",A Haber
+http://antalya.tvizlehd.com/live/ahaber.m3u8
+#EXTINF:0 tvg-id="TVNet.tr" group-title="Channels",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="Channels",NTV
+https://mn-nl.mncdn.com/blutv_ntv_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Channels",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Channels",TGRT Haber
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HABERGLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="Channels",HABERTURK
+https://mn-nl.mncdn.com/blutv_haberturk_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="Channels",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:0 tvg-id="news24" group-title="Channels",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:0 tvg-id="CNNTURK.tr" group-title="Channels",CNN Türk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="Channels",Halk TV
+https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 tvg-id="Tele1.ch" group-title="Channels",Tele 1
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/rz1dvIHz4QFoG_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lalegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:0 tvg-id="SemerkandTV.tr" group-title="Channels",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DOST TV
+http://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tivibu Spor
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 tvg-id="ASpor.tr" group-title="Channels",a Spor
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:0 tvg-id="TRT3.tr" group-title="Channels",TRT Spor
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRT Spor Yildiz
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Channels",Sports TV
+https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Channels",DMAX
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",INVESTIGATION DISCOVERY
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Channels",TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Channels",TGRT Belgesel
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BLUTV BELGESEL
+https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
+#EXTINF:0 tvg-id="YabanTV.tr" group-title="Channels",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
