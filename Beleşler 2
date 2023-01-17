@@ -85,3 +85,8 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-2022, ADULTIPTV.NET Asian
 http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-2022, Dorcel
+http://195.181.168.196:2222/dorcel/index.m3u8
+#EXTINF:-2022, Adult
+http://62.233.57.69:8001/play/a00m
