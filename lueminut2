@@ -30,7 +30,7 @@ se on jokaisen henkilökohtainen.
 
 -Jos teemme puolestasi tarvitsemme sovelluksessa lukevan "mac adress", jotta voimme etänä asentaa.
 
--jos sovellus ei tajoa "mac adress" alussa tai asetuksissa, niin silloin emme onnistu etänä asentamaan ja 
+-jos sovellus ei tarjoa "mac adress" alussa tai asetuksissa, niin silloin emme onnistu etänä asentamaan ja 
  joutuu m3u linkki kirjoittamaan sovellukseen manuaalisesti.
  Asennuksen jälkeen tallennamme ja käynnistämme sovelluksen uudelleen.
 
@@ -51,5 +51,7 @@ Onko tämä sallittua?
 
 Mitä laatua on kanavat?
 
--1080p, 720p, 480 ja 360p, mutta yleensä 720p 
+-4k 2160p, FHD 1080p, HD 720p, SD 480 ja LQ 360p, mutta yleensä HD 720p 
+
+
 
