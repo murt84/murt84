@@ -88,5 +88,8 @@ http://cdn.adultiptv.net/asian.m3u8
 
 #EXTINF:-2022, Dorcel
 http://195.181.168.196:2222/dorcel/index.m3u8
+
+#EXTINF:-2022, Blue Hustler
+http://93.189.60.202:8080/1064/index.m3u8
 #EXTINF:-2022, Adult
 http://62.233.57.69:8001/play/a00m
