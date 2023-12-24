@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 ,1
+#EXTINF:-1,1
 https://stream1.filbox.com.tr/vod/hls/321/index.m3u8
-#EXTINF:-1 ,2
+#EXTINF:-1,2
 https://stream1.filbox.com.tr/vod/hls/322/index.m3u8
-#EXTINF:-1 ,3
+#EXTINF:-1,3
 https://stream1.filbox.com.tr/vod/hls/323/index.m3u8
 #EXTINF:-1 ,
 https://stream1.filbox.com.tr/vod/hls/324/index.m3u8
