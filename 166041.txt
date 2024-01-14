@@ -1,0 +1,53 @@
+https://i.hizliresim.com/ibcphdi.jpg
+
+
+#EXTINF:-1 ,Trt 1
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/5/index.m3u8
+#EXTINF:-1 ,Atv
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/8/index.m3u8
+#EXTINF:-1 ,Show
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/11/index.m3u8
+#EXTINF:-1 ,Star
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/14/index.m3u8
+#EXTINF:-1 ,Kanal D
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/17/index.m3u8
+#EXTINF:-1 ,Fox
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
+#EXTINF:-1 ,Beyaz
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/31/index.m3u8
+#EXTINF:-1 ,Tv2
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8
+#EXTINF:-1 ,360Tv
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/37/index.m3u8
+#EXTINF:-1 ,Test
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/51/index.m3u8
+#EXTINF:-1 ,Haber Türk
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/54/index.m3u8
+#EXTINF:-1 ,Blomberg
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/58/index.m3u8
+#EXTINF:-1 ,Ntv
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/60/index.m3u8
+#EXTINF:-1 ,Cnn Türk
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/62/index.m3u8
+#EXTINF:-1 ,Trt Haber
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/65/index.m3u8
+#EXTINF:-1 ,Halk Tv
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/68/index.m3u8
+#EXTINF:-1 ,Tele1
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/70/index.m3u8
+#EXTINF:-1 ,Haber Global
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/72/index.m3u8
+#EXTINF:-1 ,A Spor
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/75/index.m3u8
+#EXTINF:-1 ,Tv 100
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/79/index.m3u8
+#EXTINF:-1 ,Tgrt Haber
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/83/index.m3u8
+#EXTINF:-1 ,Trt 1
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/84/index.m3u8
+#EXTINF:-1 ,Ulusal
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/85/index.m3u8
+#EXTINF:-1 ,Trt Müzik
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/127/index.m3u8
+#EXTINF:-1 ,Trt Belgesel
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/159/index.m3u8
