@@ -1,5 +1,3 @@
-arkadaslar bunlar benim kendi yaptitgim linkler, nasil uplooad yapacagimi bilmiyorum, o yüzden buradan paylastim
-
 #EXTM3U
 #EXTINF:-1 group-title="ULUSAL KANALLAR BOZZTV" ,TRT 1 HD
 http://gineu10.bozztv.com/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8?nimblesessionid=7435853&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIzIDEwOjU1OjIzIFBNJmhhc2hfdmFsdWU9QTlPSFZMcVk0M29FYlI5QWkveVo2Zz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIy
