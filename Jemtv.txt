@@ -1,6 +1,6 @@
-Hala calisiyorsa buyur dene
 
 
+#EXTM3U
 TRT 1
 http://hw1.jemtv.com/app/trt1/playlist.m3u8
 TRT 2
