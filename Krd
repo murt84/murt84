@@ -1,0 +1,49 @@
+#EXTM3U 
+#EXTINF:-1,NRT HD
+http://hw2.jemtv.com/app/nrt/playlist.m3u8
+#EXTINF:-1,NRT 2
+http://hw2.jemtv.com/app/nrt2/playlist.m3u8
+#EXTINF:-1,SAHAR KURDISH
+http://hw2.jemtv.com/app/saharkurdi/playlist.m3u8
+#EXTINF:-1,AL ESHRAQ TV
+http://hw2.jemtv.com/app/alEshraq/playlist.m3u8
+#EXTINF:-1,ZAGROS TV
+http://hw2.jemtv.com/app/zagros/playlist.m3u8
+#EXTINF:-1,MED MUZIK
+http://hw2.jemtv.com/app/medmuzik/playlist.m3u8
+#EXTINF:-1,AMOZHGARY
+http://hw2.jemtv.com/app/amozhgary/playlist.m3u8
+#EXTINF:-1,BANGAWAZ TV
+http://hw2.jemtv.com/app/bangawaz/playlist.m3u8
+#EXTINF:-1,STERK TV
+http://hw2.jemtv.com/app/sterk/playlist.m3u8
+#EXTINF:-1,SPEDA TV HD
+http://hw2.jemtv.com/app/speda/playlist.m3u8
+#EXTINF:-1,KOMALA TV
+http://hw2.jemtv.com/app/komala/playlist.m3u8
+#EXTINF:-1,KURDISTAN 24
+http://hw2.jemtv.com/app/kurdistan24hd/playlist.m3u8
+#EXTINF:-1,SUROYO TV
+http://hw2.jemtv.com/app/suroyo/playlist.m3u8
+#EXTINF:-1,KÄ°RKUK TV
+https://hw1.jemtv.com/app/Kirkuk/playlist.m3u8
+#EXTINF:-1,CAN TV
+http://hw2.jemtv.com/app/cantv/playlist.m3u8
+#EXTINF:-1,JIN TV HD
+http://hw2.jemtv.com/app/Jintv/playlist.m3u8
+#EXTINF:-1,ZAROK TV
+http://hw2.jemtv.com/app/zarok/playlist.m3u8
+#EXTINF:-1,MÄ°NBÄ°J TV
+http://hw2.jemtv.com/app/minbij/playlist.m3u8
+#EXTINF:-1,KURDMAX SHOW
+http://hw1.jemtv.com/app/KurdmaxShow/playlist.m3u8
+#EXTINF:-1,KURD CHANNEL
+http://hw2.jemtv.com/app/kurdhd.stream/playlist.m3u8
+#EXTINF:-1,PAYAM TV IRAQ
+http://hw1.jemtv.com/app/PayamtvIraq/playlist.m3u8
+#EXTINF:-1,ROJ AVA
+http://hw2.jemtv.com/app/rojAva/playlist.m3u8
+#EXTINF:-1,KURSAT NEWS
+http://hw1.jemtv.com/app/kurdsatnews/playlist.m3u8
+#EXTINF:-1,KURDSAT HD
+http://hw1.jemtv.com/app/kurdsat/playlist.m3u8
