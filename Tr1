@@ -1,4 +1,18 @@
 #EXTM3U 
+#EXTINF:-1,FiLSPOR 1
+http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=48
+#EXTINF:-1,FiLSPOR 2
+http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=49
+#EXTINF:-1,FiLSPOR 3
+http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=50
+#EXTINF:-1,FiLSPOR 4
+http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=51
+#EXTINF:-1,FiLSPOR 5
+http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=52
+#EXTINF:-1,FiLSPOR 6
+http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=53
+#EXTINF:-1,FiLSPOR 7
+http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=54
 #EXTINF:-1,trt1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,trt2
