@@ -1,0 +1,109 @@
+#EXTM3U 
+#EXTINF:-1,trt1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,trt2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,trt belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,trt çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,trt müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,kanal d
+https://yayin8.canlitv.day/livetv/kanald.stream/playlist.m3u8
+#EXTINF:-1,atv
+https://yayin8.canlitv.day/livetv/atv.stream/playlist.m3u8
+#EXTINF:-1,star
+https://yayin8.canlitv.day/livetv/startv.stream/playlist.m3u8
+#EXTINF:-1,showtv
+https://yayin8.canlitv.day/livetv/showtv.stream/playlist.m3u8
+#EXTINF:-1,fox tv
+https://yayin8.canlitv.day/livetv/foxtv.stream/playlist.m3u8
+#EXTINF:-1,tv8
+https://yayin8.canlitv.day/livetv/tv8.stream/playlist.m3u8
+#EXTINF:-1,beayztv
+https://yayin8.canlitv.day/livetv/beyaztv.stream/playlist.m3u8
+#EXTINF:-1,tv100
+https://yayin8.canlitv.day/livetv/tv100.stream/playlist.m3u8
+#EXTINF:-1,tlc
+https://yayin8.canlitv.day/livetv/tlc.stream/playlist.m3u8
+#EXTINF:-1,teve2
+https://yayin8.canlitv.day/livetv/teve2.stream/playlist.m3u8
+#EXTINF:-1,cnn türk
+https://yayin8.canlitv.day/livetv/cnnturk.stream/playlist.m3u8
+#EXTINF:-1,ntv
+https://yayin8.canlitv.day/livetv/ntv.stream/playlist.m3u8
+#EXTINF:-1,haber türk
+https://yayin8.canlitv.day/livetv/haberturk.stream/playlist.m3u8
+#EXTINF:-1,haber global
+https://yayin8.canlitv.day/livetv/haberglobal.stream/playlist.m3u8
+#EXTINF:-1,ahaber
+https://yayin8.canlitv.day/livetv/ahaber.stream/playlist.m3u8
+#EXTINF:-1,bengutürk
+https://yayin8.canlitv.day/livetv/benguturk.stream/playlist.m3u8
+#EXTINF:-1,tele1
+https://yayin8.canlitv.day/livetv/tele1.stream/playlist.m3u8
+#EXTINF:-1,tgrthaber
+https://yayin8.canlitv.day/livetv/tgrthaber.stream/playlist.m3u8
+#EXTINF:-1,ulusal kanal
+https://yayin8.canlitv.day/livetv/ulusalkanal.stream/playlist.m3u8
+#EXTINF:-1,halk tv
+https://yayin8.canlitv.day/livetv/halktv.stream/playlist.m3u8
+#EXTINF:-1,flash tv
+https://yayin8.canlitv.day/livetv/flashtv.stream/playlist.m3u8
+#EXTINF:-1,aspor
+https://yayin8.canlitv.day/livetv/aspor.stream/playlist.m3u8
+#EXTINF:-1,fb tv
+https://yayin8.canlitv.day/livetv/fbtv.stream/playlist.m3u8
+#EXTINF:-1,cem tv
+https://yayin8.canlitv.day/livetv/cemtv.stream/playlist.m3u8
+#EXTINF:-1,nr1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+#EXTINF:-1,nr1 türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e187779c76_1/playlist.m3u8
+#EXTINF:-1,nr1 aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1,nr1 damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1,nr1 dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1,power türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+#EXTINF:-1,tatlıses tv
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:-1,tempo tv
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1,tgrt belgesel
+https://yayin8.canlitv.day/livetv/tgrtbelgesel.stream/playlist.m3u8
+#EXTINF:-1,beinsport haber
+https://yayin8.canlitv.day/livetv/beinsporthaber.stream/playlist.m3u8
+#EXTINF:-1,fashion
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1,tv41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1,tva
+https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
+#EXTINF:-1,urfanatik tv
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:-1,aztv
+https://yayin8.canlitv.day/livetv/aztv.stream/playlist.m3u8
+#EXTINF:-1,cbc
+https://yayin8.canlitv.day/livetv/cbc.stream/playlist.m3u8
+#EXTINF:-1,medeniyet tv
+https://yayin8.canlitv.day/livetv/medeniyettv.stream/playlist.m3u8
+#EXTINF:-1,xezertv
+https://yayin8.canlitv.day/livetv/xezertv.stream/playlist.m3u8
+#EXTINF:-1,vuslat tv
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+#EXTINF:-1,mercan tv
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1,olaytürk
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1,sun rtv
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+#EXTINF:-1,tuvi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1,ton tv
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:-1,trakya türk
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
