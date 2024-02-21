@@ -1,18 +1,18 @@
 #EXTM3U 
 #EXTINF:-1,FiLSPOR 1
-http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=48
+https://live.filbox.com.tr/channel0001/index.m3u8
 #EXTINF:-1,FiLSPOR 2
-http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=49
+https://live.filbox.com.tr/channel0002/index.m3u8
 #EXTINF:-1,FiLSPOR 3
-http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=50
+https://live.filbox.com.tr/channel0003/index.m3u8
 #EXTINF:-1,FiLSPOR 4
-http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=51
+https://live.filbox.com.tr/channel0004/index.m3u8
 #EXTINF:-1,FiLSPOR 5
-http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=52
+https://live.filbox.com.tr/channel0005/index.m3u8
 #EXTINF:-1,FiLSPOR 6
-http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=53
+https://live.filbox.com.tr/channel0006/index.m3u8
 #EXTINF:-1,FiLSPOR 7
-http://cdnsmartweb.000webhostapp.com/FiLBOX.php?HLS=54
+https://live.filbox.com.tr/channel0007/index.m3u8
 #EXTINF:-1,trt1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,trt2
