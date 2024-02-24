@@ -1,0 +1,33 @@
+ULUSAL 👇👇
+#EXTM3U 
+#EXTINF:-1 channel-id="Atv" tvg-id=""ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/665px-Atv_logo_2010.svg.png" group-title="ulusal",Atv
+https://c.fulltvizle.com/aytv/index.m3u8
+
+#EXTINF:-1 channel-id="Kanald" tvg-id=""KanalD.tr" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="ulusal",kanal d
+https://c.fulltvizle.com/kanald/index.m3u8
+
+#EXTINF:-1 channel-id="Star" tvg-id=""Start.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png" group-title="ulusal",star
+https://c.fulltvizle.com/star/index.m3u8
+
+#EXTINF:-1 channel-id="Fox" tvg-id=""Fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png" group-title="ulusal",fox
+https://c.fulltvizle.com/fox/index.m3u8
+
+#EXTINF:-1 channel-id="Showtv" tvg-id=""ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="ulusal",showtv
+https://c.fulltvizle.com/show/index.m3u8
+
+#EXTINF:-1 channel-id="tv8" tvg-id=""TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="ulusal",tv8
+https://c.fulltvizle.com/kanal8/index.m3u8
+
+#EXTINF:-1 channel-id="tv85" tvg-id=""TV85.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png" group-title="ulusal",tv85
+https://c.fulltvizle.com/tv85/index.m3u8
+
+#EXTINF:-1 channel-id="trt1" tvg-id=""TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_1_logo_%282001-2005%29.svg/1280px-TRT_1_logo_%282001-2005%29.svg.png" group-title="ulusal",trt 1
+https://c.fulltvizle.com/trt1/index.m3u8
+
+#EXTINF:-1 channel-id="360" tvg-id=""360.tr" tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="ulusal",360
+https://c.fulltvizle.com/360/index.m3u8
+
+SPOR 👇👇
+#EXTM3U 
+#EXTINF:-1 channel-id="Cbc" tvg-id=""CBC.az" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="spor",cbc 
+https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
