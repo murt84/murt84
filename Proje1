@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 channel-id="Atv" tvg-id=""ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/665px-Atv_logo_2010.svg.png" group-title="ulusal",Atv
 https://c.fulltvizle.com/aytv/index.m3u8
-#EXTINF:-1 channel-id="Kanald" tvg-id=""KanalD.tr" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="ulusal",Atv
+#EXTINF:-1 channel-id="Kanald" tvg-id=""KanalD.tr" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="ulusal",kanal d
 https://c.fulltvizle.com/kanald/index.m3u8
 
 
