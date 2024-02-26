@@ -1,33 +1,161 @@
-ULUSAL 👇👇
 #EXTM3U 
 #EXTINF:-1 channel-id="Atv" tvg-id=""ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/665px-Atv_logo_2010.svg.png" group-title="ulusal",Atv
 https://c.fulltvizle.com/aytv/index.m3u8
+#EXTINF:-1 channel-id="Atv" tvg-id=""ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/665px-Atv_logo_2010.svg.png" group-title="ulusal",Atv | 2
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+#EXTINF:-1 channel-id="Atv" tvg-id=""ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/665px-Atv_logo_2010.svg.png" group-title="ulusal",Atv | 3
+http://trn10.tulix.tv/gt-atv-tv/index.m3u8
+#EXTINF:-1 channel-id="Atv" tvg-id=""ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/665px-Atv_logo_2010.svg.png" group-title="ulusal",Atv | 4
+https://yayin8.canlitv.day/livetv/atv.stream/playlist.m3u8
 
 #EXTINF:-1 channel-id="Kanald" tvg-id=""KanalD.tr" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="ulusal",kanal d
 https://c.fulltvizle.com/kanald/index.m3u8
+#EXTINF:-1 channel-id="Kanald" tvg-id=""KanalD.tr" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="ulusal",kanal d | 2
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 channel-id="Kanald" tvg-id=""KanalD.tr" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="ulusal",kanal d | 3
+https://c.fulltvizle.com/kanald/index.m3u8
+#EXTINF:-1 channel-id="Kanald" tvg-id=""KanalD.tr" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="ulusal",kanal d | 4
+http://trn10.tulix.tv/gt-kanald/index.m3u8
+#EXTINF:-1 channel-id="Kanald" tvg-id=""KanalD.tr" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="ulusal",kanal d | 5
+https://yayin8.canlitv.day/livetv/kanald.stream/playlist.m3u8
 
 #EXTINF:-1 channel-id="Star" tvg-id=""Start.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png" group-title="ulusal",star
 https://c.fulltvizle.com/star/index.m3u8
+#EXTINF:-1 channel-id="Star" tvg-id=""Start.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png" group-title="ulusal",star | 2
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 channel-id="Star" tvg-id=""Start.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png" group-title="ulusal",star | 3
+http://trn10.tulix.tv/gt-startv/index.m3u8
+#EXTINF:-1 channel-id="Star" tvg-id=""Start.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png" group-title="ulusal",star | 4
+http://hw1.jemtv.com/app/StarTV/playlist.m3u8
+#EXTINF:-1 channel-id="Star" tvg-id=""Start.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png" group-title="ulusal",star | 5
+https://yayin8.canlitv.day/livetv/startv.stream/playlist.m3u8
 
 #EXTINF:-1 channel-id="Fox" tvg-id=""Fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png" group-title="ulusal",fox
 https://c.fulltvizle.com/fox/index.m3u8
+#EXTINF:-1 channel-id="Fox" tvg-id=""Fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png" group-title="ulusal",fox | 2
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
+#EXTINF:-1 channel-id="Fox" tvg-id=""Fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png" group-title="ulusal",fox | 3
+https://trn10.tulix.tv/gt-foxturktv/index.m3u8
+#EXTINF:-1 channel-id="Fox" tvg-id=""Fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png" group-title="ulusal",fox | 4
+http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
+#EXTINF:-1 channel-id="Fox" tvg-id=""Fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png" group-title="ulusal",fox | 5
+https://yayin8.canlitv.day/livetv/foxtv.stream/playlist.m3u8
 
 #EXTINF:-1 channel-id="Showtv" tvg-id=""ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="ulusal",showtv
 https://c.fulltvizle.com/show/index.m3u8
+#EXTINF:-1 channel-id="Showtv" tvg-id=""ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="ulusal",showtv | 2
+http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
+#EXTINF:-1 channel-id="Showtv" tvg-id=""ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="ulusal",showtv | 3
+https://trn10.tulix.tv/gt-show-tv/index.m3u8
+#EXTINF:-1 channel-id="Showtv" tvg-id=""ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="ulusal",showtv | 4
+https://yayin8.canlitv.day/livetv/showtv.stream/playlist.m3u8
 
 #EXTINF:-1 channel-id="tv8" tvg-id=""TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="ulusal",tv8
 https://c.fulltvizle.com/kanal8/index.m3u8
+#EXTINF:-1 channel-id="tv8" tvg-id=""TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="ulusal",tv8 | 2
+https://trn10.tulix.tv/gt-tv8tv/index.m3u8
+#EXTINF:-1 channel-id="tv8" tvg-id=""TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="ulusal",tv8 | 3
+http://hw1.jemtv.com/app/tv8/playlist.m3u8
+#EXTINF:-1 channel-id="tv8" tvg-id=""TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="ulusal",tv8 | 4
+https://yayin8.canlitv.day/livetv/tv8.stream/playlist.m3u8
 
 #EXTINF:-1 channel-id="tv85" tvg-id=""TV85.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png" group-title="ulusal",tv85
 https://c.fulltvizle.com/tv85/index.m3u8
+#EXTINF:-1 channel-id="tv85" tvg-id=""TV85.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png" group-title="ulusal",tv85 | 2
+http://hw1.jemtv.com/app/tv85/playlist.m3u8
+#EXTINF:-1 channel-id="tv85" tvg-id=""TV85.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png" group-title="ulusal",tv85 | 3
+https://trn10.tulix.tv/gt-tv8_5/index.m3u8
+#EXTINF:-1 channel-id="tv85" tvg-id=""TV85.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png" group-title="ulusal",tv85 | 4
+https://yayin8.canlitv.day/livetv/tv8-5.stream/playlist.m3u8
 
 #EXTINF:-1 channel-id="trt1" tvg-id=""TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_1_logo_%282001-2005%29.svg/1280px-TRT_1_logo_%282001-2005%29.svg.png" group-title="ulusal",trt 1
 https://c.fulltvizle.com/trt1/index.m3u8
+#EXTINF:-1 channel-id="trt1" tvg-id=""TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_1_logo_%282001-2005%29.svg/1280px-TRT_1_logo_%282001-2005%29.svg.png" group-title="ulusal",trt 1 | 2
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+#EXTINF:-1 channel-id="trt1" tvg-id=""TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_1_logo_%282001-2005%29.svg/1280px-TRT_1_logo_%282001-2005%29.svg.png" group-title="ulusal",trt 1 | 3
+http://hw1.jemtv.com/app/trt1/playlist.m3u8
+#EXTINF:-1 channel-id="trt1" tvg-id=""TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_1_logo_%282001-2005%29.svg/1280px-TRT_1_logo_%282001-2005%29.svg.png" group-title="ulusal",trt 1 | 4
+http://trn10.tulix.tv/gt-trt1/index.m3u8
+#EXTINF:-1 channel-id="trt1" tvg-id=""TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_1_logo_%282001-2005%29.svg/1280px-TRT_1_logo_%282001-2005%29.svg.png" group-title="ulusal",trt 1 | 5
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+#EXTINF:-1 channel-id="trt1" tvg-id=""TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_1_logo_%282001-2005%29.svg/1280px-TRT_1_logo_%282001-2005%29.svg.png" group-title="ulusal",trt 1 | 6
+https://yayin8.canlitv.day/livetv/trt1.stream/playlist.m3u8
+
+#EXTINF:-1 channel-id="trt2" tvg-id=""TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_2_logo_%282001-2005%29.svg/640px-TRT_2_logo_%282001-2005%29.svg.png" group-title="ulusal",trt 2
+https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
+#EXTINF:-1 channel-id="trt2" tvg-id=""TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_2_logo_%282001-2005%29.svg/640px-TRT_2_logo_%282001-2005%29.svg.png" group-title="ulusal",trt 2 | 2
+https://trn10.tulix.tv/gt-trt2/index.m3u8
+#EXTINF:-1 channel-id="trt2" tvg-id=""TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/TRT_2_logo_%282001-2005%29.svg/640px-TRT_2_logo_%282001-2005%29.svg.png" group-title="ulusal",trt 2 | 3
+http://hw1.jemtv.com/app/trt2/playlist.m3u8
 
 #EXTINF:-1 channel-id="360" tvg-id=""360.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="ulusal",360
 https://c.fulltvizle.com/360/index.m3u8
+#EXTINF:-1 channel-id="360" tvg-id=""360.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="ulusal",360 | 2
+http://hw1.jemtv.com/app/360tv/playlist.m3u8
+#EXTINF:-1 channel-id="360" tvg-id=""360.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="ulusal",360 | 3
+https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8
+#EXTINF:-1 channel-id="360" tvg-id=""360.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="ulusal",360 | 4
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-SPOR 👇👇
-#EXTM3U 
+
+#EXTINF:-1 channel-id="beinsporhaber" tvg-id=""beINSPORTSHABER.tr" tvg-logo="https://image.fanatik.com.tr/i/fanatik/75/1200x695/628241ec45d2a051587c9db2.jpg" group-title="spor",bein sport haber
+https://ythls.armelin.one/video/OypUpUTYAHI.m3u8
+
+#EXTINF:-1 channel-id="ntvspor" tvg-id=""ntvspor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/NTV_Spor_logo_%282008-2018%29.png" group-title="spor",ntv spor
+http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
+
+ #EXTINF:-1 channel-id="galatasaraytv" tvg-id=""GALATASARAYTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png" group-title="spor",gs spor
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+
+
+#EXTINF:-1 channel-id="idman" tvg-id=""IDMAN.az" tvg-logo="http://ginikoturkish.com/channels/logo/idman-tv-epg-.png" group-title="spor",idman
+https://trn10.tulix.tv/gt-idmantv/index.m3u8
+ 
 #EXTINF:-1 channel-id="Cbc" tvg-id=""CBC.az" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="spor",cbc 
 https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
+ 
+#EXTINF:-1 channel-id="eurosport1" tvg-id=""Eurosport.tr" tvg-logo="https://mobiili.fi/wp-content/uploads/2018/01/eurosport-800x420.jpg" group-title="spor",eurosport1 
+https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
+
+#EXTINF:-1 channel-id="eurosport2" tvg-id=""Eurosport2.tr" tvg-logo="https://mobiili.fi/wp-content/uploads/2018/01/eurosport-800x420.jpg" group-title="spor",eurosport2
+https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
+
+#EXTINF:-1 channel-id="trtspor" tvg-id=""TRTSPOR.tr" tvg-logo="https://m3u-editor.com/storage/channel-logos/01bface0-b569-11ee-b282-5b97f1af13ac/6149621/1068836870.png" group-title="spor",trt spor
+http://hw1.jemtv.com/app/trtspor/playlist.m3u8
+#EXTINF:-1 channel-id="trtspor" tvg-id=""TRTSPOR.tr" tvg-logo="https://m3u-editor.com/storage/channel-logos/01bface0-b569-11ee-b282-5b97f1af13ac/6149621/1068836870.png" group-title="spor",trt spor | 2
+https://trn10.tulix.tv/gt-trtspor1/index.m3u8
+
+#EXTINF:-1 channel-id="trtspor2" tvg-id=""TRTSpor2.tr" tvg-logo="https://m3u-editor.com/storage/channel-logos/01bface0-b569-11ee-b282-5b97f1af13ac/6149621/1068836870.png" group-title="spor",trt spor 2
+http://hw1.jemtv.com/app/trtspor2/playlist.m3u8
+#EXTINF:-1 channel-id="trtspor2" tvg-id=""TRTSpor2.tr" tvg-logo="https://m3u-editor.com/storage/channel-logos/01bface0-b569-11ee-b282-5b97f1af13ac/6149621/1068836870.png" group-title="spor",trt spor 2 | 2
+https://trn10.tulix.tv/gt-trtspor2/index.m3u8
+
+#EXTINF:-1 channel-id="aspor" tvg-id=""ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="spor",aspor
+http://hw1.jemtv.com/app/ASporHD/playlist.m3u8
+#EXTINF:-1 channel-id="aspor" tvg-id=""ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="spor",aspor | 2
+https://trn10.tulix.tv/gt-aspor/index.m3u8
+#EXTINF:-1 channel-id="aspor" tvg-id=""ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="spor",aspor | 3
+https://c.fulltvizle.com/aspor/index.m3u8
+
+
+#EXTINF:-1 channel-id="discoveryid" tvg-id=""DiscoveryScience.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="belgesel",discovery id
+https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
+
+#EXTINF:-1 channel-id="discoverychannel" tvg-id=""DisneyChannel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="belgesel",discovery
+https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
+
+#EXTINF:-1 channel-id="trtbelgesel" tvg-id=""TRTBelgeselHD.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Trt_belgesel.png/revision/latest?cb=20121222012309" group-title="belgesel",trt belgesel
+https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
+
+#EXTINF:-1 channel-id="Tlc" tvg-id=""TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png" group-title="belgesel",tlc
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
+
+#EXTINF:-1 channel-id="Dmax" tvg-id=""DMAX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="belgesel",dmax
+https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
+
+#EXTINF:-1 channel-id="natgeowild" tvg-id=""NatGeoWild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="belgesel",nat geo wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0 
+https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
+
+#EXTINF:-1 channel-id="natgeo" tvg-id=""NatGeoHD.tr" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="belgesel",nat geo
+https://edge02.odtv.az/o3/natgeo/playlist.m3u8
