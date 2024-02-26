@@ -104,9 +104,11 @@ https://ythls.armelin.one/video/OypUpUTYAHI.m3u8
 #EXTINF:-1 channel-id="ntvspor" tvg-id=""ntvspor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/NTV_Spor_logo_%282008-2018%29.png" group-title="spor",ntv spor
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
 
- #EXTINF:-1 channel-id="galatasaraytv" tvg-id=""GALATASARAYTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png" group-title="spor",gs spor
+#EXTINF:-1 channel-id="galatasaraytv" tvg-id=""GALATASARAYTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png" group-title="spor",gs spor
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 
+#EXTINF:-1 channel-id="fvtv" tvg-id=""FBTV.tr" tvg-logo="https://whatthelogo.com/storage/logos/fenerbahce-tv-229180.png" group-title="spor",fb tv
+https://gineu8.bozztv.com/gin-36bay2/gin-fbtv1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channel-id="idman" tvg-id=""IDMAN.az" tvg-logo="http://ginikoturkish.com/channels/logo/idman-tv-epg-.png" group-title="spor",idman
 https://trn10.tulix.tv/gt-idmantv/index.m3u8
