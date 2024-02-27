@@ -161,3 +161,12 @@ https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 
 #EXTINF:-1 channel-id="natgeo" tvg-id=""NatGeoHD.tr" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="belgesel",nat geo
 https://edge02.odtv.az/o3/natgeo/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 channel-id="ntv" tvg-id=""NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="haber",ntv
+http://api.ntv.com.tr/rss/LiveStream
