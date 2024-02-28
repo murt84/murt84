@@ -371,7 +371,8 @@ http://sultansmart.site/Lamro.php?HLS=3735
 http://sultansmart.site/Lamro.php?HLS=4982 
 #EXTINF:-1,Discovery
 http://sultansmart.site/Lamro.php?HLS=3319 
-#EXTINF:-1,Discovery HD http://sultansmart.site/Lamro.php?HLS=3200 
+#EXTINF:-1,Discovery HD
+http://sultansmart.site/Lamro.php?HLS=3200 
 #EXTINF:-1,Discovery Science HD
 http://sultansmart.site/Lamro.php?HLS=3182 
 #EXTINF:-1,DTX HD
