@@ -5,8 +5,8 @@ https://www.oha.to/play/662074059/index.m3u8
 https://www.oha.to/play/3317489883/index.m3u8 
 #EXTINF:-1" tvg-name="A HABER", A HABER 
 https://www.oha.to/play/918101759/index.m3u8 
-#EXTINF:-1" tvg-name="BEIN MOVIES PREMIERE 2", 
-BEIN MOVIES PREMIERE 2 https://www.oha.to/play/117007047/index.m3u8 
+#EXTINF:-1" tvg-name="BEIN MOVIES PREMIERE 2", BEIN MOVIES PREMIERE 2 
+https://www.oha.to/play/117007047/index.m3u8 
 #EXTINF:-1" tvg-name="BEIN SPORTS 4K FEED (4096X2160)", BEIN SPORTS 4K FEED (4096X2160) 
 https://www.oha.to/play/248348677/index.m3u8 
 #EXTINF:-1" tvg-name="BEIN SPORTS 1 +", BEIN SPORTS 1 + 
@@ -31,7 +31,8 @@ https://www.oha.to/play/910076670/index.m3u8
 https://www.oha.to/play/3273197943/index.m3u8 
 #EXTINF:-1" tvg-name="MOVIESMART CLASSIC", MOVIESMART CLASSIC 
 https://www.oha.to/play/2104856524/index.m3u8 
-#EXTINF:-1" tvg-name="FILMBOX", FILMBOX https://www.oha.to/play/3541588802/index.m3u8 
+#EXTINF:-1" tvg-name="FILMBOX", FILMBOX 
+https://www.oha.to/play/3541588802/index.m3u8 
 #EXTINF:-1" tvg-name="NBA TV FHD", NBA TV FHD 
 https://www.oha.to/play/989549535/index.m3u8 
 #EXTINF:-1" tvg-name="BEIN SPORTS 4K FEED(3084X2160)", BEIN SPORTS 4K FEED(3084X2160) 
