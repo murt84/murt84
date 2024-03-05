@@ -397,3 +397,35 @@ http://45.11.56.147:8808/stream?id=144
 http://45.11.56.147:8808/stream?id=137
 #EXTINF:-1,MC Y2K
 http://45.11.56.147:8808/stream?id=145
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | DANCE
+https://11streamt11.akamaized.net/FTX8_MC_DANCE/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | HIP HOP  RB
+https://11streamt11.akamaized.net/FTX1_MC_HIP_HOP_AND_RANDB/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | HIT LIST
+https://11streamt11.akamaized.net/FTX1_MC_HIT_LIST/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | METAL
+https://11streamt11.akamaized.net/FTX1_MC_METAL/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | MEXICANA
+https://11streamt11.akamaized.net/FTX8_MC_MEXICANA/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC |  COUNTRY
+https://11streamt11.akamaized.net/FTX1_MC_POP_AND_COUNTRY/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | POP HITS
+https://11streamt11.akamaized.net/FTX1_MC_POP_HITS/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | POP LATINO
+https://11streamt11.akamaized.net/FTX8_MC_POP_LATINO/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | RB  SOUL
+https://11streamt11.akamaized.net/FTX1_MC_RANDB_AND_SOUL/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | RAP
+https://11streamt11.akamaized.net/FTX1_MC_RAP/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | RAP 2K
+https://11streamt11.akamaized.net/FTX1_MC_RAP_2K/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | ROCK
+https://11streamt11.akamaized.net/FTX1_MC_ROCK/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | TEEN BEATS
+https://11streamt11.akamaized.net/FTX1_MC_TEEN_BEATS/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | THROWBACK JAMS
+https://11streamt11.akamaized.net/FTX1_MC_THROWBACK_JAMS/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | TROPICALES
+https://11streamt11.akamaized.net/FTX1_MC_TROPICALES/index.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",MC | Y2K
+https://11streamt11.akamaized.net/FTX1_MC_Y2K/index.mpd
