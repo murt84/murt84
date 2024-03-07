@@ -1,0 +1,203 @@
+#EXTM3U 
+#EXTINF:0,FlyNet Tv id=1
+http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=2
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=3
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=4
+http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=5
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=6
+http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=7
+http://stream.flynetwifi.com:1935/live/mobile-007/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=8
+http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=9
+http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=10
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=11
+http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=12
+http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=13
+http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=14
+http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=15
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=16
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=17
+http://stream.flynetwifi.com:1935/live/mobile-017/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=21
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=26
+http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=27
+http://stream.flynetwifi.com:1935/live/mobile-027/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=28
+http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=29
+http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=31
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=32
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=33
+http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=34
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=35
+http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=36
+http://stream.flynetwifi.com:1935/live/mobile-036/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=27
+http://stream.flynetwifi.com:1935/live/mobile-037/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=39
+http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=40
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=41
+http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=44
+http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=45
+http://stream.flynetwifi.com:1935/live/mobile-045/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=46
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=47
+http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=48
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=49
+http://stream.flynetwifi.com:1935/live/mobile-049/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=50
+http://stream.flynetwifi.com:1935/live/mobile-050/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=55
+http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=57
+http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=58
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=59
+http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=6p
+http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=61
+http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=62
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=63
+http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=64
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=65
+http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=66
+http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=67
+http://stream.flynetwifi.com:1935/live/mobile-067/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=68
+http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=69
+http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=71
+http://stream.flynetwifi.com:1935/live/mobile-071/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=72
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=74
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=79
+http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=82
+http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=91
+http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=94
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=97
+http://stream.flynetwifi.com:1935/live/mobile-097/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=98
+http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=99
+http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=100
+http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=104
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=107
+http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=108
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=109
+http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=110
+http://stream.flynetwifi.com:1935/live/mobile-110/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=111
+http://stream.flynetwifi.com:1935/live/mobile-111/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=112
+http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=113
+http://stream.flynetwifi.com:1935/live/mobile-113/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=114
+http://stream.flynetwifi.com:1935/live/mobile-114/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=115
+http://stream.flynetwifi.com:1935/live/mobile-115/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=116
+http://stream.flynetwifi.com:1935/live/mobile-116/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=117
+http://stream.flynetwifi.com:1935/live/mobile-117/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=118
+http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=119
+http://stream.flynetwifi.com:1935/live/mobile-119/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=120
+http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=121
+http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=123
+http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=124
+http://stream.flynetwifi.com:1935/live/mobile-124/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=125
+Xhttp://stream.flynetwifi.com:1935/live/mobile-125/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=128
+http://stream.flynetwifi.com:1935/live/mobile-128/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=129
+http://stream.flynetwifi.com:1935/live/mobile-129/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=130
+http://stream.flynetwifi.com:1935/live/mobile-130/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=131
+http://stream.flynetwifi.com:1935/live/mobile-131/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=132
+http://stream.flynetwifi.com:1935/live/mobile-132/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=135
+http://stream.flynetwifi.com:1935/live/mobile-135/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=140
+http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=141
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=147
+http://stream.flynetwifi.com:1935/live/mobile-147/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=148
+http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=149
+http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=150
+http://stream.flynetwifi.com:1935/live/mobile-150/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=152
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=153
+http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=154
+http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=156
+http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=157
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:0,FlyNet Tv id=158
+http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
