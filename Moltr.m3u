@@ -1,415 +1,415 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",=TR= SUPER LIG =TR=
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57792&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57792&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",=TR= TR BELGESEL =TR=
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57735&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57735&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",=TR= TR DINI KANALLAR =TR=
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57784&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57784&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",=TR= TR HABER =TR=
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57626&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57626&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",=TR= TR MUZIK =TR=
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57764&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57764&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",=TR= TR SPOR =TR=
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57712&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57712&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",=TR=TURK KANALLARI=TR=
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57533&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57533&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS `4 (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369562&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369562&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369553&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369553&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 1 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369555&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369555&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369554&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369554&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369556&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369556&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369558&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369558&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 2 HD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369557&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369557&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 3 (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369559&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369559&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 3 FHD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369561&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369561&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 3 HD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369560&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369560&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369564&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369564&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR|  EXXEN SPORTS 4 HD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369563&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=369563&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| 360 TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57577&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57577&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| 38 Kent TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57596&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57596&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| 5
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57572&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57572&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="AHaber.tr" group-title="|RU|--RUSLAND--|RU|",TR| A HABER
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57630&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57630&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="AHaber.tr" group-title="|RU|--RUSLAND--|RU|",TR| A HABER HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57631&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57631&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ASpor.tr" group-title="|RU|--RUSLAND--|RU|",TR| A SPOR
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57718&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57718&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ASpor.tr" group-title="|RU|--RUSLAND--|RU|",TR| A SPOR HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57720&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57720&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| A SPORT HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57719&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57719&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| A2 TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57546&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57546&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| AFYON TURK TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57619&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57619&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| AKIT
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57650&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57650&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| ANADOLU DERNEK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57624&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57624&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="AnimalPlanet.tr" group-title="|RU|--RUSLAND--|RU|",TR| ANIMAL PLANET
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57738&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57738&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| ANIMAL PLANET HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57742&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57742&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ATV.tr" group-title="|RU|--RUSLAND--|RU|",TR| ATV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57542&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57542&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ATV.tr" group-title="|RU|--RUSLAND--|RU|",TR| ATV AVRUPA
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57545&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57545&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ATV.tr" group-title="|RU|--RUSLAND--|RU|",TR| ATV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57543&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57543&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="BabyTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| BABY TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57755&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57755&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="IZTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| BEIN IZ HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57663&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57663&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN MOVIES ACTION 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57665&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57665&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN MOVIES ACTION HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57666&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57666&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN MOVIES ACTION HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57676&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57676&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN MOVIES FAMILY HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57667&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57667&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN MOVIES PREMIER HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57669&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57669&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN MOVIES STARS HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57671&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57671&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN MOVIES TURK HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57672&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57672&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN MOVIES YESILCAM HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57673&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57673&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SERIES COMEDY HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57675&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57675&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SERIES SCI-FI HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57679&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57679&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SERIES VICE HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57681&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57681&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="LIGTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT 1 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57794&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57794&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="LIGTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT 1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57797&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57797&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="LIGTV2.tr" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT 2 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57800&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57800&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="LIGTV2.tr" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57801&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57801&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="LIGTV3.tr" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT 3 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57803&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57803&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="LIGTV3.tr" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57804&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57804&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT 4 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57806&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57806&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT 4 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57808&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57808&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT HABER
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57793&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57793&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT MAXX 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57733&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57733&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BEIN SPORT MAXX 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57734&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57734&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BENGU TURK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57576&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57576&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| BEYAZ TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57578&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57578&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="BJKTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| BJK TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57713&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57713&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BOX OFFICE 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57703&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57703&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BOX OFFICE 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57704&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57704&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BOX OFFICE 3
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57705&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57705&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BOX OFFICE 4
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57706&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57706&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BOX OFFICE 5
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57707&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57707&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BOX OFFICE 6
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57708&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57708&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BOX OFFICE 7
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57709&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57709&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BOX OFFICE 8
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57710&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57710&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| BOX OFFICE 9
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57711&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57711&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| CAN TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57603&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57603&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="CartoonNetwork.tr" group-title="|RU|--RUSLAND--|RU|",TR| CARTOON NETWORK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57753&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57753&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| CAY TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57592&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57592&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| CINESTAR YESILCAM
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57682&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57682&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="CNNTURK.tr" group-title="|RU|--RUSLAND--|RU|",TR| CNN TURK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57636&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57636&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="CNNTURK.tr" group-title="|RU|--RUSLAND--|RU|",TR| CNN TÜRK HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57637&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57637&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| COCUK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57751&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57751&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| DAMAR TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57778&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57778&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="Discovery.tr" group-title="|RU|--RUSLAND--|RU|",TR| DISCOVERY CHANNEL
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57743&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57743&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| DISCOVERY IDX
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57744&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57744&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| DISCOVERY IDX HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57745&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57745&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="DiscoveryScience.tr" group-title="|RU|--RUSLAND--|RU|",TR| DISCOVERY SCIENCE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57746&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57746&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="DisneyChannel.tr" group-title="|RU|--RUSLAND--|RU|",TR| DISNEY CHANNEL
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57756&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57756&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="DisneyJunior.tr" group-title="|RU|--RUSLAND--|RU|",TR| DISNEY JUNIOR
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57757&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57757&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| DMAX
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57586&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57586&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| DMAX HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57587&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57587&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| DOST TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57788&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57788&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="DreamTurk.tr" group-title="|RU|--RUSLAND--|RU|",TR| DREAM TURK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57767&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57767&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="DreamTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| DREAM TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57768&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57768&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| DSMART MOVIE SMART GOLD HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57688&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57688&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| DSMART MOVIESMART CLASSIC HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57695&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57695&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| EURO D
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57564&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57564&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| EURO STAR
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57557&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57557&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| FENERBAHCE TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57714&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57714&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| FINEST TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57780&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57780&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| FOX CRIME
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57659&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57659&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="FoxCrime.tr" group-title="|RU|--RUSLAND--|RU|",TR| FOX CRIME HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57660&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57660&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| FOX LIFE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57661&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57661&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="FoxLife.tr" group-title="|RU|--RUSLAND--|RU|",TR| FOX LIFE HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57662&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57662&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="Fox.tr" group-title="|RU|--RUSLAND--|RU|",TR| FOX TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57558&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57558&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="Fox.tr" group-title="|RU|--RUSLAND--|RU|",TR| FOX TV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57559&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57559&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| FX
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57657&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57657&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="FX.tr" group-title="|RU|--RUSLAND--|RU|",TR| FX HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57658&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57658&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| GONCA TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57759&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57759&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| GS TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57715&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57715&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| HABER 24
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57641&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57641&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| HABER 61
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57648&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57648&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| HABER GLOBAL HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57647&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57647&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="HABERTURK.tr" group-title="|RU|--RUSLAND--|RU|",TR| HABERTURK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57633&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57633&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| HABERTURK HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57634&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57634&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="HalkTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| HALK TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57653&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57653&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="History.tr" group-title="|RU|--RUSLAND--|RU|",TR| HISTORY
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57748&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57748&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| ISHTAR TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57625&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57625&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| KACKAR
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57593&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57593&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| KANAL 3
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57585&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57585&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="Kanal7.tr" group-title="|RU|--RUSLAND--|RU|",TR| KANAL 7
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57565&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57565&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="Kanal7.tr" group-title="|RU|--RUSLAND--|RU|",TR| KANAL 7 AVRUPA
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57568&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57568&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="Kanal7.tr" group-title="|RU|--RUSLAND--|RU|",TR| KANAL 7 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57566&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57566&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| KANAL AVRUPA HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57581&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57581&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="KanalD.tr" group-title="|RU|--RUSLAND--|RU|",TR| KANAL D
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57561&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57561&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="KanalD.tr" group-title="|RU|--RUSLAND--|RU|",TR| KANAL D HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57562&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57562&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| KEMAL SUNAL TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57655&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57655&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="KralPop.tr" group-title="|RU|--RUSLAND--|RU|",TR| KRAL
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57773&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57773&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| KRAL HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57774&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57774&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="KralPop.tr" group-title="|RU|--RUSLAND--|RU|",TR| KRAL POP
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57775&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57775&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| KRAL WORLD TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57776&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57776&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| KRT TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57595&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57595&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| KUDUS TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57791&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57791&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| MAVI KARADENIZ TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57594&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57594&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| MEKKE TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57786&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57786&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="MeltemTv.tr" group-title="|RU|--RUSLAND--|RU|",TR| MELTEM TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57785&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57785&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="MinikaCocuk.tr" group-title="|RU|--RUSLAND--|RU|",TR| MINIKA COCUK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57760&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57760&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="MinikaGo.tr" group-title="|RU|--RUSLAND--|RU|",TR| MINIKA GO
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57762&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57762&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| MOVIE SMART CLASSIC
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57697&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57697&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| MOVIE SMART GOLD HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57698&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57698&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="NATGEOGRAPHIC.tr" group-title="|RU|--RUSLAND--|RU|",TR| NAT GEO
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57741&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57741&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="NatGeoWild.tr" group-title="|RU|--RUSLAND--|RU|",TR| NAT GEO WILD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57739&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57739&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| NICK JR
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57763&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57763&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="Nickelodeon.tr" group-title="|RU|--RUSLAND--|RU|",TR| NICKELODEON
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57754&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57754&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| NR 1 TV TURK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57772&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57772&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| NR1 DAMAR
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57779&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57779&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="NTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| NTV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57639&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57639&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="NTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| NTV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57638&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57638&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| ON 4
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57608&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57608&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="PowerTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| POWER HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57766&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57766&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| POWER TURK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57765&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57765&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="SSport.tr" group-title="|RU|--RUSLAND--|RU|",TR| S SPORT HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57721&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57721&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SEMERKANT TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57789&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57789&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SHOW MAX
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57553&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57553&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SHOW MAX
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57552&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57552&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ShowTurk.tr" group-title="|RU|--RUSLAND--|RU|",TR| SHOW TURK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57551&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57551&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ShowTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| SHOW TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57548&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57548&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ShowTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| SHOW TV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57549&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57549&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SINEMA TURK HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57701&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57701&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SINEMA TV 1001 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57699&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57699&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SINEMA TV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57700&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57700&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SINEMA TV YERLi HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57702&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57702&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SMART SPORT 1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57809&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57809&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SMART SPORT 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57810&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57810&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SSPORT HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57723&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57723&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="StarHD.tr" group-title="|RU|--RUSLAND--|RU|",TR| STAR TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57554&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57554&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="StarHD.tr" group-title="|RU|--RUSLAND--|RU|",TR| STAR TV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57555&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57555&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SUROYO TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=56816&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=56816&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| SURYOYO SAT
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=56817&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=56817&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TBMM TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57642&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57642&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TELE 1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57649&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57649&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TEVE 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57583&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57583&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TV2.tr" group-title="|RU|--RUSLAND--|RU|",TR| TEVE 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57584&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57584&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TGRT AVRUPA
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57582&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57582&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="|RU|--RUSLAND--|RU|",TR| TGRT BELGESEL
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57749&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57749&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="|RU|--RUSLAND--|RU|",TR| TGRT HABER
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57643&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57643&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="|RU|--RUSLAND--|RU|",TR| TIVIBU SPOR 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57724&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57724&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TIVIBU SPOR 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57725&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57725&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TIVIBU SPOR 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57726&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57726&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TIVIBU SPOR HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57727&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57727&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TLC TV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57589&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57589&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TMB.tr" group-title="|RU|--RUSLAND--|RU|",TR| TMB
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57770&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57770&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRT1.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57534&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57534&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRT1.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT 1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57535&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57535&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TRT 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57537&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57537&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TRT 4K
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57538&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57538&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT AVAZ
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57540&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57540&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT BELGESEL
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57737&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57737&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT BELGESEL HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57736&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57736&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT COCUK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57752&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57752&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT DIYANET
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57787&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57787&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRTHaber.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT HABER
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57627&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57627&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRTHaber.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT HABER HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57628&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57628&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRT3.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT SPOR
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57716&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57716&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRT3.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT SPOR HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57717&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57717&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRTturk.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT TURK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57539&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57539&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TRTWorldHD.tr" group-title="|RU|--RUSLAND--|RU|",TR| TRT WORLD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57541&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57541&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TV 100
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57606&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57606&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TV8.tr" group-title="|RU|--RUSLAND--|RU|",TR| TV 8
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57569&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57569&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TV8.tr" group-title="|RU|--RUSLAND--|RU|",TR| TV 8 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57570&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57570&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TV8.tr" group-title="|RU|--RUSLAND--|RU|",TR| TV 8 INT
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57574&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57574&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TV85.tr" group-title="|RU|--RUSLAND--|RU|",TR| TV 8.5
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57573&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57573&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="TVNet.tr" group-title="|RU|--RUSLAND--|RU|",TR| TV NET
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57652&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57652&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TV1 KAYSERI
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57597&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57597&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| TVT TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57588&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57588&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="UlkeTV.tr" group-title="|RU|--RUSLAND--|RU|",TR| ULKE TV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57645&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57645&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="UlusalKanal.tr" group-title="|RU|--RUSLAND--|RU|",TR| ULUSAL KANAL
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57651&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57651&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| VATAN TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57601&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57601&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| VIASAT HISTORY
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57750&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57750&extension=m3u8
 #EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="|RU|--RUSLAND--|RU|",TR| YOL TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57602&extension=m3u8
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BB:3A:05&stream=57602&extension=m3u8
