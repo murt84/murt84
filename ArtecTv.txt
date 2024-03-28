@@ -1,6 +1,6 @@
 #EXTM3U
-
-#EXTINF:-1,U CHILE TV https://stream.srv.artec.i.mtvreg.com/stream.m3u8?content-id=channel%3AUCHILETV&content-expiration=1712168760&user-id=1153790186&device-id=593036010&device-type=lgtv&signature-ip=153.92.0.27&stream-quality=60&stream-format=m3u8&player-capabilities=vast&drm-system=&lang=es&signature-expiration=1712168760&signature-hash=941e68f456a5605054b0e05f8b01922c12712db8bb97f2763b3589c78118819b 
+#EXTINF:-1 tvg-id="vesti" group-title="artec",U CHILE TV
+https://stream.srv.artec.i.mtvreg.com/stream.m3u8?content-id=channel%3AUCHILETV&content-expiration=1712168760&user-id=1153790186&device-id=593036010&device-type=lgtv&signature-ip=153.92.0.27&stream-quality=60&stream-format=m3u8&player-capabilities=vast&drm-system=&lang=es&signature-expiration=1712168760&signature-hash=941e68f456a5605054b0e05f8b01922c12712db8bb97f2763b3589c78118819b 
 
 #EXTINF:-1,TV+ https://stream.srv.artec.i.mtvreg.com/stream.m3u8?content-id=channel%3ATVMAS&content-expiration=1712168760&user-id=1153790186&device-id=593036010&device-type=lgtv&signature-ip=153.92.0.27&stream-quality=60&stream-format=m3u8&player-capabilities=vast&drm-system=&lang=es&signature-expiration=1712168760&signature-hash=09b261e4e7c29eee320a459182dcf3077040db85e35fde3924a30c999bf60855 
 
