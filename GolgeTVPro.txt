@@ -1,20 +1,5 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: https://laurakaren.serv00.net/GolgeTVPro.php
-Subject: 
-Date: Thu, 18 Apr 2024 20:15:35 +0300
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--Vvn9W4aH9AIJC6HHPWDaRuhPu5X7SJao2ljkxMe47k----"
-
-
-------MultipartBoundary--Vvn9W4aH9AIJC6HHPWDaRuhPu5X7SJao2ljkxMe47k----
-Content-Type: text/html
-Content-ID: <frame-82D816F25C8E9D0B9D84EDD1E8E4A0B6@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: https://laurakaren.serv00.net/GolgeTVPro.php
-
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTINF:-1 group-title='GolgeTV',"Url":"https://1.abs12122024.icu/panel/ohoworld/golge.ts?idx=andTQSsrQkMxa3YySWI4Qlh3aWR0L0IwVXhnY3dNaVBmWWlpc2JmQ1Z1OUhKN21ad05LVk1WUzB4L1NQeS9CdVRsZGNpYkt4QnNvbHJCUmR3NW5rN3c9PQ==&amp;t=MTcxMzQ3NDkzMQ=="Channel":"24 |H
+#EXTM3U
+#EXTINF:-1 group-title='GolgeTV',"Url":"https://1.abs12122024.icu/panel/ohoworld/golge.ts?idx=andTQSsrQkMxa3YySWI4Qlh3aWR0L0IwVXhnY3dNaVBmWWlpc2JmQ1Z1OUhKN21ad05LVk1WUzB4L1NQeS9CdVRsZGNpYkt4QnNvbHJCUmR3NW5rN3c9PQ==&amp;t=MTcxMzQ3NDkzMQ=="Channel":"24 |H
 https://1.abs12122024.icu/panel/ohoworld/golge.ts?idx=andTQSsrQkMxa3YySWI4Qlh3aWR0OWJWZ24zYjFoZVlyOVAwMzJ4citzV3RmRSs4T25obGo5SElVYVErcTdPT0UzS1dlWXZ5b1F6eFBqaHpQdkZHMFE9PQ==&amp;t=MTcxMzQ3NDkzMQ==
 #EXTINF:-1 group-title='GolgeTV',24 HABER HD+ SD |D
 https://1.abs12122024.icu/panel/ohoworld/golge.ts?idx=andTQSsrQkMxa3YySWI4Qlh3aWR0L0IwVXhnY3dNaVBmWWlpc2JmQ1Z1K0xKNXoraklGaHNrcmNHVlNFT0dKQUNMMzJHMjNvY25JemoyVE03R1FNQXc9PQ==&amp;t=MTcxMzQ3NDkzMQ==
