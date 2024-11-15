@@ -65,7 +65,7 @@ function generatenos()                //flags certain numbers in a one-dimension
 	<input type="text" name="max_number" size=2 value="49"><br><br> 
 	Numerot!:<br> 
 	<input type="text" name="numbers" size=40 maxlength=40 value=""><br> 
-	<input type="button" value="paina tästä ja onne peliin!" onclick="generatenos();"><br><br> 
+	<input type="button" value="paina tasta ja onne peliin!" onclick="generatenos();"><br><br> 
 </form> 
 </body> 
 </html> 
