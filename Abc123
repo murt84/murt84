@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Kayan Metin</title>
+    <style>
+        .marquee {
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            box-sizing: border-box;
+        }
+
+        .marquee span {
+            display: inline-block;
+            animation: scroll 10s linear infinite;
+        }
+
+        @keyframes scroll {
+            from {
+                transform: translateX(100%);
+            }
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="marquee">
+        <span>Merhaba, uygulamayı güle güle kullanın ve paylaş tuşuna tıklayıp çevrenizde sevdiklerizle paylaşın, iyi seyirler</span>
+
+
+
+<title>Bağlantı Listesi</title>
+</head>
+<body bgcolor="#add8e6">
+<body>
+<ul>
+
+<title>Zıplayan Başlık</title>
+  <style>
+    @keyframes jump {
+      0% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-20px);
+      }
+      100% {
+        transform: translateY(0);
+      }
+    }
+
+    h1 {
+      font-family: Arial, sans-serif;
+      font-size: 2em;
+      text-align: center;
+      animation: jump 0.8s ease-in-out infinite;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hızlı Tv#1👇</h1>
+
+<li><a href="http://hw1.jemtv.com/app/trt1/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt1</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/trt2/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt2</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/trtspor/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Spor</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/trtspor/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Spor 2</a></li>
+
+<li><a href="http://hw2.jemtv.com/app/trtarabic/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Arabic</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/trtbelgese/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Belgesel</a></li>
+
+<li><a href="http://hw2.jemtv.com/app/10064.stream/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Çocuk</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/trthaber/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Haber</a></li>
+
+<li><a href="http://hw2.jemtv.com/app/trtkurdi/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Kurdi</a></li>
+
+<li><a href="http://hw2.jemtv.com/app/10063.stream/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Müzik</a></li>
+
+<li><a href="http://hw2.jemtv.com/app/10062.stream/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Türk</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/ATVHD/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Atv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/StarTV/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Star</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Fox </a></li>
+
+<li><a href="http://hw1.jemtv.com/app/KanalD/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal D</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/ShowTV/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Show Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/Kanal7/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal 7</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/tv8/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv8</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/tv85/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv8bucuk</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/teve2/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Teve 2</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/a2hd/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A2</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/360tv/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">360</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/beyaz/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Beyaz Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/NTVTurkey/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ntv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/cnnturk/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Cnn Türk</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/haberturk/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Haber Türk</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/AHaber/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A Haber</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/anewshd/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A News</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/halktv/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Halk Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/ASporHD/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A Spor</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/akittv/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Akıt Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/AksuTV/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Aksu Tv</a></li>
+
+<li><a href="https://hw2.jemtv.com/app/aztv1/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Az Tv</a></li>
+
+<li><a href="https://hw2.jemtv.com/app/azad/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Azad Tv</a></li>
+
+<li><a href="https://hw2.jemtv.com/app/azeri/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Azeri</a></li>
+
+<li><a href="https://hw2.jemtv.com/app/ict/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ictimai</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/bloomberght/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bloomberg Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/brtv/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">BrTv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/Kayseri/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kayseri</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/Dmax/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Dmax</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/tlchd/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tlc</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/dosttv/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Dost Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/kanal23/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal 23</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/kanal26/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal 26</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/Kanalk33/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal 33</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/kanal58/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal 58</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/kanalB/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal B</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/krt/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Krt</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/LalegulTV/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Lalegül Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/medyahaber/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Medya Haber</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/NR1/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Nr1</a></li>
+
+<li><a href="http://hw2.jemtv.com/app/rehber/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Rehber Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/sportstv/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Sports Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/srtsivas/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Srt Sivas</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/taytv/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tay Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/tekrumeli/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tek Rumeli</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/tele1/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tele1</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/tempotv/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tempo Tv</a></li>
+
+
+
+<li><a href="http://hw1.jemtv.com/app/tv5/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv5</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/tv100/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv100</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/ulketv/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ülke Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/kanalurfa/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Urfa Tv</a></li>
+
+<li><a href="http://hw1.jemtv.com/app/vizyon58/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Vizyon 58</a></li>
+
+
+
+<title>Zıplayan Başlık</title>
+  <style>
+    @keyframes jump {
+      0% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-20px);
+      }
+      100% {
+        transform: translateY(0);
+      }
+    }
+
+    h1 {
+      font-family: Arial, sans-serif;
+      font-size: 2em;
+      text-align: center;
+      animation: jump 0.8s ease-in-out infinite;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hızlı Tv#2👇</h1>
+
+
+
+<li><a href="https://agrotv.blutv.com/blutv_agrotv/blutv_agrotv/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Agro Tv</a></li>
+
+<li><a href="https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Beyaz Tv</a></li>
+
+<li><a href="https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bloomberg</a></li>
+
+<li><a href="https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Cartoon Network</a></li>
+
+<li><a href="https://cnnint.blutv.com/blutv_cnnint/smil:cnnint.smil/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Cnn International</a></li>
+
+<li><a href="https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Discovery</a></li>
+
+<li><a href="https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Discovery Id</a></li>
+
+<li><a href="https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Dmax</a></li>
+
+<li><a href="https://ekoturkdvr.blutv.com/blutv_ekoturk_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Eko Türk</a></li>
+
+<li><a href="https://ertv.blutv.com/blutv_ertv2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Er Tv</a></li>
+
+<li><a href="https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Euro Sport1</a></li>
+
+<li><a href="https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Euro Sport2</a></li>
+
+<li><a href="https://flashtvdvr.blutv.com/blutv_flashtv_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Flash Tv</a></li>
+
+<li><a href="https://flashtvdvr.blutv.com/blutv_flashtv_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Flash Tv</a></li>
+
+<li><a href="https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Haber Global</a></li>
+
+<li><a href="https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Haber Türk</a></li>
+
+<li><a href="https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Halk Tv</a></li>
+
+<li><a href="https://kanalb.blutv.com/blutv_kanalb2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal B</a></li>
+
+<li><a href="https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal 7</a></li>
+
+<li><a href="https://kontv.blutv.com/blutv_kontv2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kon Tv</a></li>
+
+<li><a href="https://krtdvr.blutv.com/blutv_krt_live_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Krt Tv</a></li>
+
+<li><a href="https://nr1.blutv.com/blutv_n1/blutv_n1/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Nr1</a></li>
+
+<li><a href="https://nr1turk.blutv.com/blutv_n1turk/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Nr1 Türk</a></li>
+
+<li><a href="https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Sinema1</a></li>
+
+<li><a href="https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Sinema2</a></li>
+
+<li><a href="https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tlc Türkiye</a></li>
+
+<li><a href="https://tv4dvr.blutv.com/blutv_tv4_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv4</a></li>
+
+<li><a href="https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Sözcü</a></li>
+
+<li><a href="https://sportstv.blutv.com/blutv_sportstv2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Sports Tv</a></li>
+
+<li><a href="https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tele1</a></li>
+
+<li><a href="https://tgrthaberdvr.blutv.com/blutv_tgrthaber2_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tgrt Haber</a></li>
+
+<li><a href="https://tv100dvr.blutv.com/blutv_tv1002_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv100</a></li>
+
+<li><a href="https://ulketv.blutv.com/blutv_ulketv2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ülke Tv</a></li>
+
+<li><a href="https://vuslattv.blutv.com/blutv_vuslattv2/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Vuslat Tv</a></li>
+
+
+<li><a href="https://womantv.blutv.com/blutv_womantv/smil:blutv_womantv.smil/playlist.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Woman Tv</a></li>
+
+<li><a href="https://kanal24dvr.blutv.com/blutv_kanal24_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">24</a></li>
+
+<li><a href="https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">360</a></li>
+
+
+
+<title>Zıplayan Başlık</title>
+  <style>
+    @keyframes jump {
+      0% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-20px);
+      }
+      100% {
+        transform: translateY(0);
+      }
+    }
+
+    h1 {
+      font-family: Arial, sans-serif;
+      font-size: 2em;
+      text-align: center;
+      animation: jump 0.8s ease-in-out infinite;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hızlı Tv#3👇</h1>
+
+
+<li><a href="https://yayin2.canlitv.fun/livetv/ahaber.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A Haber</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/aspor.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A Spor</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/atv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Atv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/aztv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Az Tv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/beinsporthaber.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Spor Haber</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/benguturk.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Begü Türk</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/beyaztv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Beyaz Tv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/cartoon-network.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Cartoon Network</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/cbc.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">CBC</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/cbcsport.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Cbc Sport</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/cnnturk.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Cnn Türk</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/dmax.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Dmax</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/fbtv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Fb Tv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/flashtv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Flash Tv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/haberglobal.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Haber Global</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/halktv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Halk Tv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/haberturk.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Haber Türk</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/kanals.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal S</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/kanald.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal D</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/medeniyettv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Medeniyet Tv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/foxtv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Now Tv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/ntv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ntv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/showtv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Show Tv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/sozcutv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Sözcü Tv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/startv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Star</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/tele1.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tele1</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/teve2.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Teve2</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/tgrtbelgesel.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tgrt Belgesel</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/tgrthaber.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tgrt Haber</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/tivibuspor.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tivibu Spor</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/tlc.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tlc</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/trt1.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt1</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/trtspor.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Spor</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/tv5.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv5</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/tv8.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv8</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/tv8-5.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv8,5</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/tv100.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv100</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/xezertv.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Xezer Tv</a></li>
+
+<li><a href="https://yayin2.canlitv.fun/livetv/ulusalkanal.stream/master.m3u8#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ulusal Kanal</a></li>
+
+
+</ul>
+<h120>Tv Izleme Keyfi Burası Iyi Seyirler Arkadaşlar 👋</h120>
+</body>
+</html>
