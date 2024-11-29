@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Player with Playlist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .video-container {
+            width: 80%;
+            max-width: 800px;
+            text-align: center;
+        }
+        video {
+            width: 100%;
+            height: auto;
+            border: 2px solid #000;
+        }
+        .playlist {
+            list-style: none;
+            padding: 0;
+            margin-top: 10px;
+            max-height: 200px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            background-color: #fff;
+        }
+        .playlist li {
+            padding: 8px;
+            cursor: pointer;
+            background-color: #e6e6e6;
+            margin: 2px 0;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+        .playlist li:hover {
+            background-color: #ccc;
+        }
+        .playlist li.active {
+            background-color: #b3b3b3;
+        }
+    </style>
+</head>
+<body>
+<div class="video-container">
+    <!-- Video Player -->
+    <video id="videoPlayer" controls>
+        <source id="videoSource" src="video1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    
+    <!-- Playlist -->
+    <ul class="playlist" id="playlist">
+
+        <li class="active" data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwOTE0MDM5MTI1NTk2NWNlM2NiMDc=">exxen sport 1</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMjMyNzM1OThmM2VhODMyMTk1MTY=">s sport 1</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMDg2MDI5MjgxMjEzMDUyODg1Yjc=">best aksiyon</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1ODUzNTczMTc1NzQ1MTY1ODQ0YzY=">dinamik salon 1</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNTU1NTYzNzgyZjQyODBlNTdlYmE=">dinamik loca 1</li>    
+   
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NTg5MzYwNzRmNTAzOTIzMWNhNGU=">dinamik marvel</li>
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NzE2MDM0Mjc5YmQ1MTIzNDk2NDI=">sinema yerli 2</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkzNjkwODI3NDlmNmE4NmY4NTBjMQ==">s sport 2</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MzA3NDYxMDJmNGIxMWE2NGNmMTA=">bein box office 1</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMjAzNjM4NTAyN2EwNGI1ZTAwZjk=">bein box office 1 yedek</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzOTA1NzU5NDhmNzI4NmI0Y2JiNDc=">bein movies türk</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MzU1NzkwMjVhYzYyNjE0NjZjYWE=">bein movies türk yedek</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNTI0MjEwNTMwNDIwMzA5MGM1ZWI=">bein sport 1</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU5MzQ5Mzg2MDQxODk1MDY1YjExYg==">bein sport 1 yedek</li>
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY2MjE3OTYyMGNjNmI4NzBjMDY0NQ==">bein spor 1 yedek 2</li>
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE0NDcyNDE1MDZlNzNjZTY2NzM1NTU=">bein sport 2</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2OTQ2NjI0NzU2NTVmZmNiYTZiNDc=">bein sport 2 yedek</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NzIyMzI3NjhjZDJhZGJlOGM1MjY=">bein sport 4</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2NzEwNTg4OTI0NTkxMDNkZTc3YQ==">bein sport 4 yedek</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMTM0NjIzOTg0M2RkZWRlOGZhYmM=">bein sport 1 8k</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MDc5MzYyNDI4YjQ0MGNiYmMwYjI=">bein sport max 2</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg4NDc2NjA2ODEwOTZiMTNkNWM0Mg==">dinamik bilimkurgu</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NjQxMDg1MTA5NGViYWExYmYxNTM=">dinamik komedi</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQzMjkxMzI4NjE1M2Q3M2Q2YTliMw==">dinamik korku</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MTg3ODY1MDYyYWJkZDE0MjllNWI=">dinamik loca 2</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMzgxMTU5NjJjZWQ4ZDQ4ZjUwMGI=">dinamik loca 3</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MDI5NjAxMWM3MDk4OTUxZTE3Mg==">dinamik salon 5</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NTAzODYwNjJkMzA4OTc1MjM1Mjg=">docubox</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMzM2ODcyMTc1OGEwOWQ3ZjNmODY=">eno türk 1</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNjgxNTYwMjc0ZDQwMzlmMjQ2MTg=">eno vizyon 4</li>
+
+        <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzOTIwMTM0NzNkYTU2OTliYzE1Yw==">fix sinema yerli</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NjIxNjk5MzYwMGNkMjUzOTg1ZTk=">sine vizyon 1</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzNzMyNzUyNWI0MWZjNDFjZTBkOQ==">sine vizyon türk</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NjM5MzE1MjAyZTdhNmJlNTZiNmY=">spor smart</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5OTgxNjgxMjI3ZTRlZTA5YmE1ODQ=">24</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ3MzMwMDU3MzIwOGE5M2Q2ODc0OQ==">360</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNjQ5NTQ4OTYxMjA5YjM0YmY1ZjU=">a haber</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NzExMzc1Mzk0OTZlNTIzZmZiOGU=">a spor</li>
+
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1MTAxMDc2MTgyMGZmOGM1NDMxYjM=">boomerang</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNzgxODU4OThlMjk5ZmE3Yzg3YjU=">cartoon network</li>
+
+ <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMDM0NTQwNjhjMzZlMDIwZTk2NQ==">da vinci</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY0OTIyODcyMmJiN2FkY2Q3ZDAzYg==">disney jr.</li>
+
+ <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MDkxMjkxODk1N2VjYWRlZjdkZmU=">duck tv</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwOTI2Njc5NTlmNDVlMmIzYTkwZDA=">kanal 7</li>
+
+ <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU0NTU0ODEzM2U1NmRjYzI2ZDk1OA==">nba tv</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNDY5OTM4MTEwY2MzMDZkZGJiOWI=">sinema tv aksiyon</li>
+
+ <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NTA1MDcwODM3YTk2ZjlkOTI4ZWQ=">trt spor yıldız</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NzQ0Mjk2MmEwOTFkYzJhNmNiYQ==">tv4</li>
+
+ <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMTAxNjEzNTVlZDhiODllNmY4MTE=">animal planet</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxOTU5MTAzNTEzNmZlNWVhZDNlMTM=">atv eu</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMjg0OTY4NTY2ODdiMmZhMGIyMjI=">bbc earth</li>
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2OTIzMzcyNDE1N2RiOTE3MTI5MmQ=">bein1 sd</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MTkyMjkzNDY3YTcwMjA3OGEzMjA=">bein1 sd 2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5MTAxMjk3MDIyMmY3ZTQxYzJmMWQ=">bein box office 2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk1MDM5NDY1NmNiYjczMTk0NjljNA==">brin gurme</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NzM0NzgxMzE4Y2I0ZDEzZGFmMzE=">bein movies action</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNDEyNDU2MDdjOWM0NmFiOGM4ODA=">bein movies action 2</li>   
+
+ <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0ODUxOTkxNTI0YzFjOWMyYjVmNTA=">bein movies family</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk0Mjk4NzIyNDQwN2E2NmFhYzFmZg==">bein movies premiere</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNDQwNjkwOTM5NDIyNGJkOTc4MGQ=">bein movies premiere 2</li>   
+
+ <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5NjM3NDg3ODRhNzkyOTY1MWQ5MGU=">bein movies stars</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxOTA5MjIyOTgzNzcwZWYwYmIxM2M=">bein series 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMjU1MjMyNjI0NWYwMDk3ZTFhM2I=">bein series vice</li>   
+
+ <li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4NDA0NzU2NTNjMDM3Nzg3ZjYwYzE=">bein sports 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMzMwNjY0MzMzY2FhODFhZjYwZjQ=">bein sports 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0Mjg5ODQ3MDM0NGYyODhmNGUyMWQ=">bein sports 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NzYyMTY4OTdhZjEzZTdmYzIwZjY=">bein sports 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwMDExMzM5NGM1NGQ1MDg4MjVjOQ==">bein sports 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MDM0MjUwMzE4NzNhNDMwMGQxZTQ=">bein sports 1 h265</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MDk0NjYxOTEzNjRiMjRkOWU2OGQ=">bein sports 2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4NTE1MzkxNDNiYjI0MThlNTc4YzQ=">bein sport 2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MzY3MzA2MjdlMzcwYTkxYThjM2Y=">bein sports 1 uydu</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzE3NTc2MThmMjJiY2FjY2ZlOTI=">bein sports 5</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMDAzMTU2MDEyYjkzOTg5OTIwODk=">bein sports 5</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ5OTQ4NTQ5NzRkZjA5MTY5ZWE1MA==">brin sports 1 720</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwNzE0NzQ3NDMyMzIyNzQ3ZTlhZmI=">bein max 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMTcyOTUxMjcwMmI5NzY5MTc5NDM=">bein max 2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5Njc1MTYzMDU0YmNlNDBkYTMzMjY=">best imbd</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NzE2MjU5OTEyYjY2NGVjMzkxNzE=">dinamik kemal sunal</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg1ODEwOTgzMGQ3MGMwMTUyMjkxOQ==">dinamik salon 10</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwODc0MjUyNDM5ZTc1OGQ4YmRmZmQ=">dinamik salon 2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MDk3MjI3NjJkYjA0NzliNzJlNWU=">dinamik şener şen</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNjk5MzA5NDhhOTU4ZjBhMTEyZQ==">dinamik türk</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwNzk5OTU5MDEwY2YwNDNlMmUzMmY=">discovery channel</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk3MjczMDAzMjIzNWI1MWUxNGQ5OA==">disvovery id</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc5MTYxNjc1OGFkNmUyOTI5NTc3Mw==">dizi smart premium</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MTQ2NDM1MzY1OTQyYTAyOWVlM2Q=">dream aksiyon</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4ODk4MzU3NzYxYzAzMzE2ZDVhNDY=">dream loca 3</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3MTM5MDc5OTBmNTNmMGEyMzY0OWI=">dreamcnetflix</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYzMzc2ODE5NTYxZjlmMmZjZGIyYg==">eno aksiyon 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MTA2MTYxMWRhZWRmMjRlNTg4Mg==">eno aksiyon 3</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NTg2MzE0NjFjYmU1YjU4MGExNTk=">eurosport1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NDIwMTgyNTIyMjU1MTRhOWIwMWM=">exxen sports1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MTQ5MjUzNzE4MTQwYTRlYTJkOWE=">exxen spor1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzNzcwNDYxNDYwNzkyOThmY2ZjYmI=">exxdn spor2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NzMwMzcwNTQwZDc3MjNlMjhiNDQ=">exxen spor2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxNjI2MDkyMTE0OGMxMmViZTAzZjA=">exxen spor4</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyMTY5ODU4MDA3MWQyOGY0MGU0Mzc=">fix sinema netflix</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNzgyMjIxNzJhYWEzOGU1M2QzYjY=">love nature</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxODkzNDY2NzA5Nzk0NWYwNTg0MQ==">marvel studios</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MDg1MTk5MDY5MzU1NWNjNjJlNTA=">minika go</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzExMjc4MTI5OTNkMWMxMmM2MzkyNGQ=">minika çocuk</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MTQ0OTI2MjhhMjI2ODQ1OTQ2YjY=">nat geo</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3MTgzMzYyOTUxODRjMWYzMTE3YWE=">s sports</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyMzQ2MDQ4ODA2YTFhNWM0MTM3YzE=">s sports2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5NDM2NTEwMzAyZGRlYjRhZjVmYzY=">s sports2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NTk3NTY3OTFiZjVhNDMzMjBhNzQ=">s sports1 maç saati</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMTQxODM1NjYwMTdlYTNlMGE5N2M=">s sports2 maç saati</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMzc5NjIwNjIwOGE5MDAwNjM0OTQ=">smart sport</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NjU5MTQ3NjMyYTA2NzgzNGZjODk=">tabii 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMDc3MDg1MjI5ZmQ4Y2M4Y2M2NmY=">tabii 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMDc3MDg1MjI5ZmQ4Y2M4Y2M2NmY=">tabii 1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTQ5MjQwNTA0YTNiMDU0ZTEyN2U=">tivibu3</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMDcwNjI3MDQ1YzNjMDI5ZTFiMDg=">tivibu4</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg2NTQxMDk1MWE5NDU1NGQ4MTc5NQ==">360</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMTkwNTUyNzczYTVjZmIwNDQ0ODY=">a2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMjUyNjEyODY5NDMyN2QyNDBjOWY=">atv</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzgwNTY4OTg3Mzc2M2RhMmE4Nzk4MA==">beyaztv</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNTY3Njg2NDc0YTU5NzJlNzBhNWE=">cnn türk</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQwMTc3MzQ1OTIzNmEzMzlkZjZmMTE=">discovety channel</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg2OTkzNzM1MTEyMTdjNGI1YTU2Nw==">dmax</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY3ODI2MTY5MzRhYmNjYjUwMWJkZA==">epic drama</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwNzg4NjI5MzcxN2VkZDQ2MTY1NGY=">eurosport1</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMTcyMjc5NjI1NDAwZDQxZTJiYmU=">eurosport2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5NDQ2OTUyNjg4YTI5OGIxMTk4ZQ==">exxen tv</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1NjE0OTUzMTkwNWM0OGY4Yzk4OWM=">fx hd</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNzgzNTUzMjUzNmFlOGViZjBlNTE=">nat geo</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMjQxNjYxNjJmODM5MWE3Y2E2Mw==">nat geo wild</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk4ODY5MTM3NDI3YTY4ZGRjOWQ5OA==">nicktoons</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NzgxOTc1OTNkODliZWE0MDhjN2E=">now tv</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNzY2NDM4NTY3ZGJmOGI5NDYzMjQ=">sirema 1002</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMwMDA1OTQ3NjMyNGE1N2QwZDRjN2I=">sinema aile 2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY5ODQ5NTgxMWIyZThjMWMyMjMxNA==">sinema aile</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NDA3MTE1ODA4YjNkYzA5M2E2YzQ=">sirema aksiyon</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ0MDc3NDk0OWZlNTJhMmM5NjEzNg==">sinema komedi</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3NjEzODUxNjZlN2MyMTVmODQzMjQ=">sinema 1001</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5NTA2MDUyNGQ1ZTE4ZTdiY2ZmZA==">sinema tv2</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI3ODA4MzAwMzMwY2YwNWI3NWZmYzg=">sinematv</li>   
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4OTcxNTk0NzMxMjcxM2VlYzkxNGM=">sinema yerli</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg3OTU4ODk2MDA2NmZkNGVjY2E5Mw==">show tv</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk2MDU3ODMxMmJmMzE3YzZiNjJjMQ==">sözcü</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNTk2MDQ3MWUzNzRiNGM2ODQ4">sözcü</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxNTk2MDQ3MWUzNzRiNGM2ODQ4">spor smart</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0MjkyOTg3OThhZGRkNDBjOTU3Yzg=">sports tv</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxOTI5NzEyOTM1NTU5MzZhOGI3Yzc=">star</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MTc1MDI2MzEzNWQxMDI1YTExZTk=">teve2</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5MDcxNTQ3MDQ0YThjOTA5ODU2MmU=">tgrt haber</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NjIxOTkyNTgyMjJkOGNkODFkYzE=">trt1</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4ODQzMTkwMzNkNzUyZTY4NTQ0MmQ=">trt2</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxODc0MDM1MTI3YTg1YWIwM2NiN2E=">trt3</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5OTA0MTAzNTI0YTBjNmFiYmJlOTQ=">trt avaz</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzc4Njk3MzY1NmJmOGVlYTEyY2MxNA==">trt belgesel</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNjI5Njk5MzhhMGE4MDM3MDZhMTM=">trt spor</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNjM4MjcyMjNiZmI5Y2UyMTJhMzU=">bein1 feed</li> 
+
+<li data-video="https://uzerlerseni1.serv00.net/xrot/getnew3u/1.m3u8/?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MzA3NDYxMDJmNGIxMWE2NGNmMTA=">bein box office 1</li> 
+
+
+    </ul>
+</div>
+
+<script>
+    const videoPlayer = document.getElementById('videoPlayer');
+    const videoSource = document.getElementById('videoSource');
+    const playlist = document.getElementById('playlist');
+    const playlistItems = document.querySelectorAll('.playlist li');
+
+    // Function to play the selected video
+    function playVideo(videoFile) {
+        videoSource.src = videoFile;
+        videoPlayer.load(); // Reload the video
+        videoPlayer.play();
+    }
+
+    // Function to highlight the active playlist item
+    function setActiveItem(item) {
+        playlistItems.forEach(li => li.classList.remove('active'));
+        item.classList.add('active');
+    }
+
+    // Event listener for playlist click
+    playlist.addEventListener('click', function(e) {
+        if (e.target.tagName === 'LI') {
+            const videoFile = e.target.getAttribute('data-video');
+            playVideo(videoFile);
+            setActiveItem(e.target);
+        }
+    });
+
+    // Event listener for when the video ends to play the next video
+    videoPlayer.addEventListener('ended', function() {
+        const currentActiveItem = document.querySelector('.playlist li.active');
+        const nextItem = currentActiveItem.nextElementSibling || playlistItems[0]; // Loop to the first video
+        nextItem.click(); // Simulate click on next video
+    });
+
+</script>
+</body>
+</html>
+
