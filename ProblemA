@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Kayan Metin</title>
+    <style>
+        .marquee {
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            box-sizing: border-box;
+        }
+
+        .marquee span {
+            display: inline-block;
+            animation: scroll 10s linear infinite;
+        }
+
+        @keyframes scroll {
+            from {
+                transform: translateX(100%);
+            }
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="marquee">
+        <span>Merhabalar, uygulamayı güle güle kullanın ve paylaş tuşuna tıklayıp çevrenizde paylaşın</span>
+
+
+<title>Bağlantı Listesi</title>
+</head>
+<body bgcolor="#add8e6">
+<body>
+<h1>Limitsiz Izle</h1>
+<ul>
+
+<h2>vlc player yüklü olması lazım!</h2>
+
+<li><a href="rtmp://5.182.229.90:1935//6743#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Box Office 3 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6744#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Box Office 1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6745#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Box Office 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6814#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Seres 3 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6812#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Sinema Aksiyon (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6753#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv4 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6758#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Mavi Karadeniz (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6759#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Line Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6761#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ko Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6762#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Genç Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6763#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kardelen Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6766#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal Avrupa (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6768#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Er Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6771#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Deha Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6772#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Çiftçi Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6774#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Brt3 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6775#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Brt2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6776#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Brt1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6777#Intent;package=com.vlc.player;scheme=http;end" target="_blank">As Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6780#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Akıt Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6781#Intent;package=com.vlc.player;scheme=http;end" target="_blank">BeinSport 1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6782#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Türk Karadeniz (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6783#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ada Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6784#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Vatan Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6785#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Uçan Kuş (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6786#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kayseri Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6787#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Yaban Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6790#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Lalegül Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6791#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv2000 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6792#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Meltem Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6793#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Dost Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6794#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Diyanet (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6796#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tgrt Eu (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6797#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Show Türk (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6799#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Türk (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6799#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Avaz (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6802#Intent;package=com.vlc.player;scheme=http;end" target="_blank">DizSmart Premium (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6803#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Fox Crime (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6804#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Gurme (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6805#Intent;package=com.vlc.player;scheme=http;end" target="_blank">FX HD (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6806#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Sinema Tv Aile (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6807#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Movie Smart Türk (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6811#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Movie Smart Classic (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6812#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Movie Smart Action (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6813#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Series Vice (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6814#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Series Sci-Fi (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6816#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tivibu Sport 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6817#Intent;package=com.vlc.player;scheme=http;end" target="_blank">BeinSport1 yedek (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6818#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Sport 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6819#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Sport 2 yedek (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6820#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Sport 3 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6821#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Sport 3 yedek (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6822#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Sport 4 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6823#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Sport 4 yedek (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6824#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Sport Max1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6825#Intent;package=com.vlc.player;scheme=http;end" target="_blank">S Sport 1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6828#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Sports Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6829#Intent;package=com.vlc.player;scheme=http;end" target="_blank">EuroSport 1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6830#Intent;package=com.vlc.player;scheme=http;end" target="_blank">EuroSport 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6832#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A Sport (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6837#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tjk (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6838#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Nba Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6840#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Idman (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6841#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Çocuk (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6842#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Disney Jr. (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6845#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Baby Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6846#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Cartoon Network (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6847#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Nick Jr. (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6848#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Nickledeon (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6849#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Minika Çocuk (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6850#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Boomerang (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6851#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Minika Go (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6852#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Belgesel (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6853#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kitchen Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6854#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bbc Earth (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6855#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bbc Earth yedek (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6856#Intent;package=com.vlc.player;scheme=http;end" target="_blank">History Channel (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6857#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Da Vinci (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6858#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Animal Planet (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6860#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tgrt Belgesel (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6861#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Discovery Channel (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6863#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Discovery Sciense (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6864#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Love Nature (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6866#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Nat Geo Wild (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6867#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Nat Geo (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6868#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Yaban Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6869#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Müzik (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6870#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Müzik 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6872#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Talıses (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6873#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Dream Türk (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6874#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Nr1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6876#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Movies Action 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6877#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Movies Action (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6878#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Movies Family (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6879#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Movies Premiere 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6880#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Movies Premiere (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6881#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Series Comedy (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6882#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Series Drama (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6883#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt 1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6884#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6885#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Atv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6886#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Atv #2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6888#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Atv Avrupa (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6889#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Show Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6890#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Show Max (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6891#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal D (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6892#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Euro D (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6893#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Star Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6894#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Euro Star (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6895#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv8 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6896#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv8 #2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6897#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv8 Int (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6898#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv8,5 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6899#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv8,5 #2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6900#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Fox (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6901#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Fox #2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6902#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Fox #3 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6903#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal 7 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6904#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Kanal 7 #2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6905#Intent;package=com.vlc.player;scheme=http;end" target="_blank">kanal 7 Eu (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6906#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Beyaz Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6908#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6909#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A Para (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6910#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Teve2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6911#Intent;package=com.vlc.player;scheme=http;end" target="_blank">360 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6912#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Dmax (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6913#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Dmax #2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6914#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tlc (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6916#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Eba IlkOkul (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6917#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Eba IlkOkul #2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6918#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Eba Lise (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6919#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Eba Lise #2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6920#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Eba OrtaOkul (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6921#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Trt Haber (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6923#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A Haber (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6924#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ntv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6925#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ntv #2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6926#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Cnn Türk (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6927#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Haber Türk (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6928#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Global Haber (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6928#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv100 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6930#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tele1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6931#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ulusal Kanal (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6932#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tgrt Haber (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6933#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tgrt Haber #2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6934#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Ülke Tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6936#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Tv Net (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6937#Intent;package=com.vlc.player;scheme=http;end" target="_blank">A Haber (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//6939#Intent;package=com.vlc.player;scheme=http;end" target="_blank">Bein Sport Haber (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7225#Intent;package=com.vlc.player;scheme=http;end" target="_blank">nhl (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7226#Intent;package=com.vlc.player;scheme=http;end" target="_blank">nba (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7228#Intent;package=com.vlc.player;scheme=http;end" target="_blank">1 de (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7230#Intent;package=com.vlc.player;scheme=http;end" target="_blank">rtl passion de (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7231#Intent;package=com.vlc.player;scheme=http;end" target="_blank">romance tv (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7233#Intent;package=com.vlc.player;scheme=http;end" target="_blank">alpha tv (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7234#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky de (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7235#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky 2 de (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7237#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky 2 de (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7238#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky 3 de (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7239#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky 4 de (matchtime) (vlcplayer seç)</a></li>
+
+
+
+
+
+
+
+
+
+
+<li><a href="rtmp://5.182.229.90:1935//7240#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports(matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7241#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports(matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7244#Intent;package=com.vlc.player;scheme=http;end" target="_blank">rus sinema (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7245#Intent;package=com.vlc.player;scheme=http;end" target="_blank">rus sinema 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7246#Intent;package=com.vlc.player;scheme=http;end" target="_blank">museum tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7247#Intent;package=com.vlc.player;scheme=http;end" target="_blank">rus sinema (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7248#Intent;package=com.vlc.player;scheme=http;end" target="_blank">rus kino (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7249#Intent;package=com.vlc.player;scheme=http;end" target="_blank">rus sinema.. (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7263#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7264#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7265#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 3 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7266#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 4 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7268#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 6 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7269#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sk sport 1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7270#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sk sport 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7271#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sk sport 3 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7272#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sk sport 4 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7273#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sk sport 5 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7274#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sk sport 6 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7275#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sk sport 7 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7276#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sk sport 8 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7277#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sk golf (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7278#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sk fight (vlcplayer seç)</a></li>
+
+
+<li><a href="rtmp://5.182.229.90:1935//7280#Intent;package=com.vlc.player;scheme=http;end" target="_blank">tvp sport (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7225#Intent;package=com.vlc.player;scheme=http;end" target="_blank">nhl (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7226#Intent;package=com.vlc.player;scheme=http;end" target="_blank">nba (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7228#Intent;package=com.vlc.player;scheme=http;end" target="_blank">1 de (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7230#Intent;package=com.vlc.player;scheme=http;end" target="_blank">rtl passion de (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7231#Intent;package=com.vlc.player;scheme=http;end" target="_blank">romance tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7233#Intent;package=com.vlc.player;scheme=http;end" target="_blank">alpha tv (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7234#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky de (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7235#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky 2 de (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7237#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky 2 de (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7238#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky 3 de (matchtime) (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7329#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7330#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7331#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 3 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7332#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 4 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7333#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 5 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7334#Intent;package=com.vlc.player;scheme=http;end" target="_blank">arena sport 6 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7335#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports premiere league (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7336#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports football (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7337#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports main event (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7338#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports ? (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7339#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports mix (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7340#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports nfl (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7341#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports racing (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7342#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports f1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7343#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports cricket (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7344#Intent;package=com.vlc.player;scheme=http;end" target="_blank">sky sports golf (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7059#Intent;package=com.vlc.player;scheme=http;end" target="_blank">prima sport 1 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7060#Intent;package=com.vlc.player;scheme=http;end" target="_blank">prima sport 2 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7063#Intent;package=com.vlc.player;scheme=http;end" target="_blank">dazn 4 (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7064#Intent;package=com.vlc.player;scheme=http;end" target="_blank">dazn ? (vlcplayer seç)</a></li>
+
+<li><a href="rtmp://5.182.229.90:1935//7065#Intent;package=com.vlc.player;scheme=http;end" target="_blank">action (vlcplayer seç)</a></li>
+
+
+
+
+
+
+
+
+
+</ul>
+<title>Kayan Metin</title>
+    <style>
+        .marquee {
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            box-sizing: border-box;
+        }
+
+        .marquee span {
+            display: inline-block;
+            animation: scroll 15s linear infinite;
+        }
+
+        @keyframes scroll {
+            from {
+                transform: translateX(100%);
+            }
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="marquee">
+        <span>Kanal tıkladınız ama açılmıyorsa vlc player önbelleğini temizleyin veya verisini sıfırlayın, bu işlemden sonra vlc player tekrar açılacaktır. Iyi seyirler arkadaşlar!</span>
+</body>
+</html>
