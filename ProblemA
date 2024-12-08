@@ -1,1 +1,65 @@
-123456799
+
+<?php
+$Live = $_GET['ID'];
+$ch = curl_init('https://www.freeshot.live/live-tv/'.$Live.'');
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_ENCODING, false);
+curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+'charset: UTF-8',
+'X-Requested-With: XMLHttpRequest',
+'Content-Type: application/x-www-form-urlencoded; charset=UTF-8',
+'User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)',
+'Host: www.freeshot.live',
+'Referer: https://www.freeshot.live/',
+'Connection: Keep-Alive',
+'Accept-Encoding: gzip',
+));
+$site = curl_exec($ch);
+curl_close ($ch);
+preg_match('#iframe src="(.*?)"#',$site,$icerik);
+$Url = $icerik[1];
+
+$ch1 = curl_init(''.$Url.'');
+curl_setopt($ch1, CURLOPT_SSL_VERIFYHOST, false);
+curl_setopt($ch1, CURLOPT_SSL_VERIFYPEER, false);
+curl_setopt($ch1, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch1, CURLOPT_ENCODING, false);
+curl_setopt($ch1, CURLOPT_HTTPHEADER, array(
+'charset: UTF-8',
+'X-Requested-With: XMLHttpRequest',
+'Content-Type: application/x-www-form-urlencoded; charset=UTF-8',
+'User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)',
+'Host: www.freeshot.live',
+'Referer: https://www.freeshot.live/',
+'Connection: Keep-Alive',
+'Accept-Encoding: gzip',
+));
+$site1 = curl_exec($ch1);
+curl_close ($ch1);
+preg_match('#iframe src="(.*?)"#',$site1,$icerik);
+$IDX = $icerik[1];
+
+$ch2 = curl_init('https:'.$IDX.'');
+curl_setopt($ch2, CURLOPT_SSL_VERIFYHOST, false);
+curl_setopt($ch2, CURLOPT_SSL_VERIFYPEER, false);
+curl_setopt($ch2, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch2, CURLOPT_ENCODING, false);
+curl_setopt($ch2, CURLOPT_HTTPHEADER, array(
+'charset: UTF-8',
+'X-Requested-With: XMLHttpRequest',
+'Content-Type: application/x-www-form-urlencoded; charset=UTF-8',
+'User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I005DA Build/PI)',
+'Host: popcdn.day',
+'Referer: https://www.freeshot.live/',
+'Connection: Keep-Alive',
+'Accept-Encoding: gzip',
+));
+$site2 = curl_exec($ch2);
+curl_close ($ch2);
+$site2 = str_replace('embed.html','index.fmp4.m3u8',$site2);
+preg_match('#allowfullscreen width="100%" height="100%" scrolling="no" frameborder="0" src="(.*?)"#',$site2,$icerik);
+$Link = $icerik[1];
+header ("Location: $Link");
+?>
