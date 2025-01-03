@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M3U Playlist</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body bgcolor="#add8e6">
+<body>
+    <h1>Türkiye Tv</h1>
+    <video id="video" width="100%" height="360" controls></video>
+    <select id="streamSelect">
+        
+<option value="http://89.187.191.41/Kanal-7-HD-TR/video.m3u8">kanal7</option>
+
+<option value="http://89.187.191.41/TV8-HD-TR/video.m3u8">tv8</option>
+
+<option value="http://89.187.191.41/ATV-HD-TR/video.m3u8">atv</option>
+
+<option value="http://89.187.191.41/A2-HD-TR/video.m3u8">a2</option>
+
+<option value="http://89.187.191.41/Kanal-D-HD-TR/video.m3u8">kanal d</option>
+
+<option value="http://89.187.191.41/TRT-1-HD-TR/video.m3u8">trt1</option>
+
+<option value="https://trn03.tulix.tv/gt-foxturktv/index.m3u8">fox</option>
+
+<option value="https://trn03.tulix.tv/gt-show-tv/index.m3u8">showtv</option>
+
+<option value="https://trn03.tulix.tv/gt-startv/index.m3u8">stat</option>
+
+<option value="https://trn03.tulix.tv/gt-sky360/index.m3u8">360</option>
+
+<option value="https://trn03.tulix.tv/gt-ahaber/index.m3u8">ahaber</option>
+
+<option value="https://trn03.tulix.tv/gt-anews/index.m3u8">anews</option>
+
+<option value="https://trn03.tulix.tv/gt-aspor/index.m3u8">aspor</option>
+
+<option value="https://trn03.tulix.tv/gt-atvavrupa/index.m3u8">atv eu</option>
+
+<option value="https://trn03.tulix.tv/gt-atv-tv/index.m3u8">atv yedek</option>
+
+<option value="https://trn03.tulix.tv/gt-beinsportshaber/index.m3u8">bein sport haber</option>
+
+<option value="https://trn03.tulix.tv/gt-benguturk/index.m3u8">bengü türk</option>
+
+<option value="https://trn03.tulix.tv/gt-beyaztv/index.m3u8">beyaz tv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8">cnn türk</option>
+
+<option value="https://trn03.tulix.tv/gt-dmax/index.m3u8">dmax</option>
+
+<option value="https://trn03.tulix.tv/gt-dreamturk/index.m3u8">dream türk</option>
+
+<option value="https://trn03.tulix.tv/gt-fbtv/index.m3u8">fb tv</option>
+
+<option value="https://trn03.tulix.tv/gt-haberglobal/index.m3u8">haber global</option>
+
+<option value="https://trn03.tulix.tv/gt-haberturk/index.m3u8">haber türk</option>
+
+<option value="https://trn03.tulix.tv/gt-halktv/index.m3u8">halk tv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8">idman tv</option>
+
+<option value="https://trn03.tulix.tv/gt-ntvtv/index.m3u8">ntv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-showtvturk/tracks-v1a1/mono.m3u8">show türk</option>
+
+<option value="https://trn03.tulix.tv/gt-sozcutv/index.m3u8">sözcü tv</option>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</select>
+
+    <script>
+        var video = document.getElementById('video');
+        var streamSelect = document.getElementById('streamSelect');
+        
+        streamSelect.addEventListener('change', function() {
+            var selectedStream = streamSelect.value;
+            loadStream(selectedStream);
+        });
+
+        function loadStream(url) {
+            if (Hls.isSupported()) {
+                var hls = new Hls();
+                hls.loadSource(url);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                    video.play();
+                });
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = url;
+                video.addEventListener('canplay', function () {
+                    video.play();
+                });
+            }
+        }
+
+        // Load default stream on page load
+        loadStream(streamSelect.value);
+    </script>
+
+
+<title>Flashing Text Example</title>
+    <style>
+        @keyframes flash {
+            0% { opacity: 1; }
+            50% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+
+        .flashing-text {
+            font-size: 1em;
+            
+            color: brown;
+            animation: flash 1s infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="flashing-text">
+        👆Kanal Seçin👆
+    </div>
+</body>
+
+<h3>👇2 Adet Süper Android Uygulaması👇</h1>
+
+</ul>
+<title>Kayan Metin</title>
+    <style>
+        .marquee {
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            box-sizing: border-box;
+        }
+
+        .marquee span {
+            display: inline-block;
+            animation: scroll 15s linear infinite;
+        }
+
+        @keyframes scroll {
+            from {
+                transform: translateX(100%);
+            }
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="marquee">
+        <span>https://pixeldrain.com/u/hkEG9JcL</span>
+
+</ul>
+<title>Kayan Metin</title>
+    <style>
+        .marquee {
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            box-sizing: border-box;
+        }
+
+        .marquee span {
+            display: inline-block;
+            animation: scroll 15s linear infinite;
+        }
+
+        @keyframes scroll {
+            from {
+                transform: translateX(100%);
+            }
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="marquee">
+
+<span>https://pixeldrain.com/u/m6jqxQwx</span>
+
+
+
+
+
+</body>
+</html>
