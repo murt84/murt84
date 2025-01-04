@@ -1,0 +1,283 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M3U Playlist</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body bgcolor="#add8e6">
+<body>
+    <h1>Türkiye Tv</h1>
+    <video id="video" width="100%" height="360" controls></video>
+    <select id="streamSelect">
+        
+<option value="http://89.187.191.41/Kanal-7-HD-TR/video.m3u8">kanal7</option>
+
+<option value="http://89.187.191.41/TV8-HD-TR/video.m3u8">tv8</option>
+
+<option value="http://89.187.191.41/ATV-HD-TR/video.m3u8">atv</option>
+
+<option value="http://89.187.191.41/A2-HD-TR/video.m3u8">a2</option>
+
+<option value="http://89.187.191.41/Kanal-D-HD-TR/video.m3u8">kanal d</option>
+
+<option value="http://89.187.191.41/TRT-1-HD-TR/video.m3u8">trt1</option>
+
+<option value="https://trn03.tulix.tv/gt-foxturktv/index.m3u8">fox</option>
+
+<option value="https://trn03.tulix.tv/gt-show-tv/index.m3u8">showtv</option>
+
+<option value="https://trn03.tulix.tv/gt-startv/index.m3u8">star</option>
+
+<option value="https://trn03.tulix.tv/gt-sky360/index.m3u8">360</option>
+
+<option value="https://trn03.tulix.tv/gt-ahaber/index.m3u8">ahaber</option>
+
+<option value="https://trn03.tulix.tv/gt-anews/index.m3u8">anews</option>
+
+<option value="https://trn03.tulix.tv/gt-aspor/index.m3u8">aspor</option>
+
+<option value="https://trn03.tulix.tv/gt-atvavrupa/index.m3u8">atv eu</option>
+
+<option value="https://trn03.tulix.tv/gt-atv-tv/index.m3u8">atv yedek</option>
+
+<option value="https://trn03.tulix.tv/gt-beinsportshaber/index.m3u8">bein sport haber</option>
+
+<option value="https://trn03.tulix.tv/gt-benguturk/index.m3u8">bengü türk</option>
+
+<option value="https://trn03.tulix.tv/gt-beyaztv/index.m3u8">beyaz tv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8">cnn türk</option>
+
+<option value="https://trn03.tulix.tv/gt-dmax/index.m3u8">dmax</option>
+
+<option value="https://trn03.tulix.tv/gt-dreamturk/index.m3u8">dream türk</option>
+
+<option value="https://trn03.tulix.tv/gt-fbtv/index.m3u8">fb tv</option>
+
+<option value="https://trn03.tulix.tv/gt-haberglobal/index.m3u8">haber global</option>
+
+<option value="https://trn03.tulix.tv/gt-haberturk/index.m3u8">haber türk</option>
+
+<option value="https://trn03.tulix.tv/gt-halktv/index.m3u8">halk tv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8">idman tv</option>
+
+<option value="https://trn03.tulix.tv/gt-ntvtv/index.m3u8">ntv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-showtvturk/tracks-v1a1/mono.m3u8">show türk</option>
+
+<option value="https://trn03.tulix.tv/gt-sozcutv/index.m3u8">sözcü tv</option>
+
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8">a2</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-ahaber/playlist.m3u8">ahaber</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-altastv/tracks-v1a1/mono.m3u8">atlastv</option>
+
+<option value="https://trn03.tulix.tv/gt-arb-tv1/index.m3u8">arbtv</option>
+
+<option value="https://trn03.tulix.tv/gt-arb24-tv1/index.m3u8">arb24</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8">aspor</option>
+
+<option value="https://tgn.bozztv.com/trn03/gt-atv-tv/tracks-v1a1/mono.m3u8">atv</option>
+
+<option value="https://trn03.tulix.tv/gt-atv-tv/index.m3u8">atv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8">atv eu</option>
+
+
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8">bein spor haber</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-beyaztv/tracks-v1a1/mono.m3u8">beyaz tv</option>
+
+<option value="https://trn03.tulix.tv/gt-brt1/index.m3u8">brt1</option>
+
+<option value="https://trn03.tulix.tv/gt-brt2/index.m3u8">brt2</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-cbctvaz/tracks-v1a1/mono.m3u8">cbc tv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-eurod/tracks-v1a1/mono.m3u8">euro d</option>
+
+<option value="https://tgn.bozztv.com/trn03/gt-eurostar/tracks-v1a1/mono.m3u8">euro star</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-flashtv/tracks-v1a1/mono.m3u8">flash tv</option>
+
+<option value="https://tgn.bozztv.com/trn03/gt-foxturktv/tracks-v1a1/mono.m3u8">fox tv</option>
+
+<option value="https://bozztv.com/36bay3/gt-haberglobal/tracks-v1a1/mono.m3u8">haber global</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-haberturk/tracks-v1a1/mono.m3u8">haber türk</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-halktv/tracks-v1a1/mono.m3u8">halk tv</option>
+
+<option value="https://trn03.tulix.tv/gt-ictimai/index.m3u8">ictimai</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-kanal7/tracks-v1a1/mono.m3u8">kanal 7</option>
+
+<option value="https://trn03.tulix.tv/gt-kanal7/index.m3u8">kanal 7</option>
+
+<option value="https://trn03.tulix.tv/gt-kanalavrupa/index.m3u8">kanal avrupa</option>
+
+<option value="https://trn03.tulix.tv/gt-kepeztv-azer/index.m3u8">kepez tv</option>
+
+<option value="https://tgn.bozztv.com/36bay3/gt-kibriskrttv/tracks-v1a1/mono.m3u8">kıbrıs krt</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-kralpop/tracks-v1a1/mono.m3u8">kral pop</option>
+
+<option value="https://trn03.tulix.tv/gt-medeniyyet/index.m3u8">medeniyyet</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-powerhd/tracks-v1a1/mono.m3u8">power hd</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-powerturk/tracks-v1a1/mono.m3u8">power türk</option>
+
+<option value="https://trn03.tulix.tv/gt-realtv/index.m3u8">real az</option>
+
+<option value="https://trn03.tulix.tv/gin-saudiquran/index.m3u8">mekke tv</option>
+
+<option value="https://tgn.bozztv.com/trn03/gt-show-tv/tracks-v1a1/mono.m3u8">show tv</option>
+
+<option value="https://trn03.tulix.tv/gt-spacetv/index.m3u8">space tv</option>
+
+<option value="https://trn03.tulix.tv/gt-startv/index.m3u8">star</option>
+
+<option value="https://trn03.tulix.tv/gt-startv-azer/index.m3u8">star az</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-tele1/tracks-v1a1/mono.m3u8">tele1</option>
+
+
+
+
+
+
+
+
+
+
+
+</select>
+
+    <script>
+        var video = document.getElementById('video');
+        var streamSelect = document.getElementById('streamSelect');
+        
+        streamSelect.addEventListener('change', function() {
+            var selectedStream = streamSelect.value;
+            loadStream(selectedStream);
+        });
+
+        function loadStream(url) {
+            if (Hls.isSupported()) {
+                var hls = new Hls();
+                hls.loadSource(url);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                    video.play();
+                });
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = url;
+                video.addEventListener('canplay', function () {
+                    video.play();
+                });
+            }
+        }
+
+        // Load default stream on page load
+        loadStream(streamSelect.value);
+    </script>
+
+
+<title>Flashing Text Example</title>
+    <style>
+        @keyframes flash {
+            0% { opacity: 1; }
+            50% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+
+        .flashing-text {
+            font-size: 1em;
+            
+            color: brown;
+            animation: flash 1s infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="flashing-text">
+        👆Kanal Seçin👆
+    </div>
+</body>
+
+<h1>👇2 Adet Süper Android Uygulaması👇</h1>
+
+</ul>
+<title>Kayan Metin</title>
+    <style>
+        .marquee {
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            box-sizing: border-box;
+        }
+
+        .marquee span {
+            display: inline-block;
+            animation: scroll 15s linear infinite;
+        }
+
+        @keyframes scroll {
+            from {
+                transform: translateX(100%);
+            }
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="marquee">
+        <span>https://pixeldrain.com/u/hkEG9JcL</span>
+
+</ul>
+<title>Kayan Metin</title>
+    <style>
+        .marquee {
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            box-sizing: border-box;
+        }
+
+        .marquee span {
+            display: inline-block;
+            animation: scroll 15s linear infinite;
+        }
+
+        @keyframes scroll {
+            from {
+                transform: translateX(100%);
+            }
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="marquee">
+
+<span>https://pixeldrain.com/u/m6jqxQwx</span>
+
+
+
+
+
+</body>
+</html>
