@@ -276,7 +276,6 @@
         loadStream(streamSelect.value);
     </script>
 
-
 <title>Flashing Text Example</title>
     <style>
         @keyframes flash {
@@ -327,8 +326,7 @@
 </head>
 <body>
     <div class="marquee">
-        <span>By: Murar! Saa Jakaa Eteenpäin!</span>
-
+        <span>By: Murat! Saa Jakaa Eteenpäin!</span>
 
 </body>
 </html>
