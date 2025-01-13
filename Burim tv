@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="#add8e6">
 <body>
-    <h1>Burim Tv</h1>
+    <h1>V.I.P. TV</h1>
     <video id="video" width="100%" height="360" controls></video>
     <select id="streamSelect">
 
@@ -367,7 +367,7 @@
 </head>
 <body>
     <div class="marquee">
-        <span>By: Murat! Saa Jakaa Eteenpäin!</span>
+        <span>Premium Tv Channels Whatsapp +358469666719</span>
 
 </body>
 </html>
