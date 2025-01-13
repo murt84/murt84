@@ -2,9 +2,6 @@
         <img src="https://ozbeceriksizler.com/images/mobile/vbulletin-logo.png" alt="Clik To Get Premium" width="160" height="70">
     </a>
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,8 +16,6 @@
     <video id="video" width="100%" height="260" controls></video>
     <select id="streamSelect">
 
-
-        
 <option value="http://89.187.191.41/Kanal-7-HD-TR/video.m3u8">kanal7</option>
 
 <option value="http://89.187.191.41/TV8-HD-TR/video.m3u8">tv8</option>
@@ -1129,9 +1124,6 @@
 <body>
     <div class="marquee">
         <span>2× Süper Uygulama ==> A)Hakiki Tv https://pixeldrain.com/u/hkEG9JcL B)Scm Media https://pixeldrain.com/u/m6jqxQwx</span>
-
-
-
 
 </body>
 </html>
