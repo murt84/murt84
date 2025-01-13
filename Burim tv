@@ -2,7 +2,6 @@
         <img src="https://ozbeceriksizler.com/images/mobile/vbulletin-logo.png" alt="Clik To Get Premium" width="160" height="70">
     </a>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1044,8 +1043,6 @@
 
 <option value="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8">aspor tnet</option>
 
-
-
 </select>
 
     <script>
@@ -1076,7 +1073,6 @@
         // Load default stream on page load
         loadStream(streamSelect.value);
     </script>
-
 
 <title>Flashing Text Example</title>
     <style>
