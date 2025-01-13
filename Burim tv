@@ -21,31 +21,31 @@
 
 <option value="https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8">mtv uutiset</option>
 
-<option value="https://live-fi.tvkaista.net/mtv3/live.m3u8">mtv3</option>
+<option value="https://live-fi.tvkaista.net/mtv3/live.m3u8?src=opengraph">mtv3</option>
 
-<option value="https://live-fi.tvkaista.net/nelonen/live.m3u8">nelonen</option>
+<option value="https://live-fi.tvkaista.net/nelonen/live.m3u8?src=opengraph">nelonen</option>
 
-<option value="https://live-fi.tvkaista.net/tv5/live.m3u8">vitonen</option>
+<option value="https://live-fi.tvkaista.net/tv5/live.m3u8?src=opengraph">vitonen</option>
 
-<option value="https://live-fi.tvkaista.net/kutonen/live.m3u8">kutonen</option>
+<option value="https://live-fi.tvkaista.net/kutonen/live.m3u8?src=opengraph">kutonen</option>
 
 <option value="https://live-fi.tvkaista.net/tlc/live.m3u8?src=opengraph">tlc</option>
 
-<option value="https://live-fi.tvkaista.net/sub/live.m3u8">sub</option>
+<option value="https://live-fi.tvkaista.net/sub/live.m3u8?src=opengraph">sub</option>
 
-<option value="https://live-fi.tvkaista.net/ava/live.m3u8">ava</option>
+<option value="https://live-fi.tvkaista.net/ava/live.m3u8?src=opengraph">ava</option>
 
-<option value="https://live-fi.tvkaista.net/liv/live.m3u8">liv</option>
+<option value="https://live-fi.tvkaista.net/liv/live.m3u8?src=opengraph">liv</option>
 
-<option value="https://live-fi.tvkaista.net/hero/live.m3u8">hero</option>
+<option value="https://live-fi.tvkaista.net/hero/live.m3u8?src=opengraph">hero</option>
 
-<option value="https://live-fi.tvkaista.net/jim/live.m3u8">jim</option>
+<option value="https://live-fi.tvkaista.net/jim/live.m3u8?src=opengraph">jim</option>
 
-<option value="https://live-fi.tvkaista.net/star-channel/live.m3u8">star</option>
+<option value="https://live-fi.tvkaista.net/star-channel/live.m3u8?src=opengraph">star</option>
 
-<option value="https://live-fi.tvkaista.net/frii/live.m3u8">frii</option>
+<option value="https://live-fi.tvkaista.net/frii/live.m3u8?src=opengraph">frii</option>
 
-<option value="https://live-fi.tvkaista.net/national-geographic/live.m3u8">nat geo</option>
+<option value="https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=opengraph">nat geo</option>
 
 
 
