@@ -26,21 +26,23 @@
 
 <option value="https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8">mtv uutiset</option>
 
-<option value="https://live-fi.tvkaista.net/mtv3/live.m3u8?src=opengraph">mtv3</option>
+<option value="https://proxy1.maxicaster.com/proxy/Ibc040rx3u5/mtv3/prog_index.m3u8?proxy_stream=rtmp-primary-hd">mtv3</option>
 
-<option value="https://live-fi.tvkaista.net/nelonen/live.m3u8?src=opengraph">nelonen</option>
+<option value="https://live-fi.tvkaista.net/nelonen/live.m3u8">nelonen</option>
 
-<option value="https://live-fi.tvkaista.net/tv5/live.m3u8?src=opengraph">vitonen</option>
+<option value="https://proxy1.maxicaster.com/proxy/Ibc040rx3u5/tv5/prog_index.m3u8">vitonen</option>
 
-<option value="https://live-fi.tvkaista.net/kutonen/live.m3u8?src=opengraph">kutonen</option>
+<option value="https://proxy1.maxicaster.com/proxy/Ibc040rx3u5/kutonen/prog_index.m3u8?proxy_stream=rtmp-primary-hd">kutonen</option>
 
-<option value="https://live-fi.tvkaista.net/tlc/live.m3u8?src=opengraph">tlc</option>
+<option value="https://proxy1.maxicaster.com/proxy/Ibc040rx3u5/fox/prog_index.m3u8?proxy_stream=rtmp-primary-hd">fox</option>
 
-<option value="https://live-fi.tvkaista.net/sub/live.m3u8?src=opengraph">sub</option>
+<option value="https://proxy1.maxicaster.com/proxy/Ibc040rx3u5/tlc/prog_index.m3u8">tlc</option>
 
-<option value="https://live-fi.tvkaista.net/ava/live.m3u8?src=opengraph">ava</option>
+<option value="https://proxy1.maxicaster.com/proxy/Ibc040rx3u5/sub/prog_index.m3u8">sub</option>
 
-<option value="https://live-fi.tvkaista.net/liv/live.m3u8?src=opengraph">liv</option>
+<option value="https://proxy1.maxicaster.com/proxy/Ibc040rx3u5/ava/prog_index.m3u8">ava</option>
+
+<option value="https://live-fi.tvkaista.net/liv/live.m3u8">liv</option>
 
 <option value="https://live-fi.tvkaista.net/hero/live.m3u8?src=opengraph">hero</option>
 
@@ -48,9 +50,9 @@
 
 <option value="https://live-fi.tvkaista.net/star-channel/live.m3u8?src=opengraph">star</option>
 
-<option value="https://live-fi.tvkaista.net/frii/live.m3u8?src=opengraph">frii</option>
+<option value="https://proxy1.maxicaster.com/proxy/Ibc040rx3u5/frii/prog_index.m3u8?proxy_stream=rtmp-primary-hd">frii</option>
 
-<option value="https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=opengraph">nat geo</option>
+<option value="https://proxy1.maxicaster.com/proxy/Ibc040rx3u5/natgeo/prog_index.m3u8?proxy_stream=rtmp-primary-hd">nat geo</option>
 
 
 
