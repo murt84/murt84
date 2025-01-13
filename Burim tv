@@ -47,6 +47,1037 @@
 
 <option value="https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=opengraph">nat geo</option>
 
+<option value="http://89.187.191.41/Kanal-7-HD-TR/video.m3u8">kanal7</option>
+
+<option value="http://89.187.191.41/TV8-HD-TR/video.m3u8">tv8</option>
+
+<option value="http://89.187.191.41/ATV-HD-TR/video.m3u8">atv</option>
+
+<option value="http://89.187.191.41/A2-HD-TR/video.m3u8">a2</option>
+
+<option value="http://89.187.191.41/Kanal-D-HD-TR/video.m3u8">kanal d</option>
+
+<option value="http://89.187.191.41/TRT-1-HD-TR/video.m3u8">trt1</option>
+
+<option value="https://trn03.tulix.tv/gt-foxturktv/index.m3u8">fox</option>
+
+<option value="https://trn03.tulix.tv/gt-show-tv/index.m3u8">showtv</option>
+
+<option value="https://trn03.tulix.tv/gt-startv/index.m3u8">star</option>
+
+<option value="https://trn03.tulix.tv/gt-sky360/index.m3u8">360</option>
+
+<option value="https://trn03.tulix.tv/gt-ahaber/index.m3u8">ahaber</option>
+
+<option value="https://trn03.tulix.tv/gt-anews/index.m3u8">anews</option>
+
+<option value="https://trn03.tulix.tv/gt-aspor/index.m3u8">aspor</option>
+
+<option value="https://trn03.tulix.tv/gt-atvavrupa/index.m3u8">atv eu</option>
+
+<option value="https://trn03.tulix.tv/gt-atv-tv/index.m3u8">atv yedek</option>
+
+<option value="https://trn03.tulix.tv/gt-beinsportshaber/index.m3u8">bein sport haber</option>
+
+<option value="https://trn03.tulix.tv/gt-benguturk/index.m3u8">bengü türk</option>
+
+<option value="https://trn03.tulix.tv/gt-beyaztv/index.m3u8">beyaz tv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8">cnn türk</option>
+
+<option value="https://trn03.tulix.tv/gt-dmax/index.m3u8">dmax</option>
+
+<option value="https://trn03.tulix.tv/gt-dreamturk/index.m3u8">dream türk</option>
+
+<option value="https://trn03.tulix.tv/gt-fbtv/index.m3u8">fb tv</option>
+
+<option value="https://trn03.tulix.tv/gt-haberglobal/index.m3u8">haber global</option>
+
+<option value="https://trn03.tulix.tv/gt-haberturk/index.m3u8">haber türk</option>
+
+<option value="https://trn03.tulix.tv/gt-halktv/index.m3u8">halk tv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8">idman tv</option>
+
+<option value="https://trn03.tulix.tv/gt-ntvtv/index.m3u8">ntv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-showtvturk/tracks-v1a1/mono.m3u8">show türk</option>
+
+<option value="https://trn03.tulix.tv/gt-sozcutv/index.m3u8">sözcü tv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-atva2/tracks-v1a1/mono.m3u8">a2</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-ahaber/playlist.m3u8">ahaber</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-altastv/tracks-v1a1/mono.m3u8">atlastv</option>
+
+<option value="https://trn03.tulix.tv/gt-arb-tv1/index.m3u8">arbtv</option>
+
+<option value="https://trn03.tulix.tv/gt-arb24-tv1/index.m3u8">arb24</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8">aspor</option>
+
+<option value="https://tgn.bozztv.com/trn03/gt-atv-tv/tracks-v1a1/mono.m3u8">atv</option>
+
+<option value="https://trn03.tulix.tv/gt-atv-tv/index.m3u8">atv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8">atv eu</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8">bein spor haber</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-beyaztv/tracks-v1a1/mono.m3u8">beyaz tv</option>
+
+<option value="https://trn03.tulix.tv/gt-brt1/index.m3u8">brt1</option>
+
+<option value="https://trn03.tulix.tv/gt-brt2/index.m3u8">brt2</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-cbctvaz/tracks-v1a1/mono.m3u8">cbc tv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-eurod/tracks-v1a1/mono.m3u8">euro d</option>
+
+<option value="https://tgn.bozztv.com/trn03/gt-eurostar/tracks-v1a1/mono.m3u8">euro star</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-flashtv/tracks-v1a1/mono.m3u8">flash tv</option>
+
+<option value="https://tgn.bozztv.com/trn03/gt-foxturktv/tracks-v1a1/mono.m3u8">fox tv</option>
+
+<option value="https://bozztv.com/36bay3/gt-haberglobal/tracks-v1a1/mono.m3u8">haber global</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-haberturk/tracks-v1a1/mono.m3u8">haber türk</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-halktv/tracks-v1a1/mono.m3u8">halk tv</option>
+
+<option value="https://trn03.tulix.tv/gt-ictimai/index.m3u8">ictimai</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-kanal7/tracks-v1a1/mono.m3u8">kanal 7</option>
+
+<option value="https://trn03.tulix.tv/gt-kanal7/index.m3u8">kanal 7</option>
+
+<option value="https://trn03.tulix.tv/gt-kanalavrupa/index.m3u8">kanal avrupa</option>
+
+<option value="https://trn03.tulix.tv/gt-kepeztv-azer/index.m3u8">kepez tv</option>
+
+<option value="https://tgn.bozztv.com/36bay3/gt-kibriskrttv/tracks-v1a1/mono.m3u8">kıbrıs krt</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-kralpop/tracks-v1a1/mono.m3u8">kral pop</option>
+
+<option value="https://trn03.tulix.tv/gt-medeniyyet/index.m3u8">medeniyyet</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-powerhd/tracks-v1a1/mono.m3u8">power hd</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-powerturk/tracks-v1a1/mono.m3u8">power türk</option>
+
+<option value="https://trn03.tulix.tv/gt-realtv/index.m3u8">real az</option>
+
+<option value="https://trn03.tulix.tv/gin-saudiquran/index.m3u8">mekke tv</option>
+
+<option value="https://tgn.bozztv.com/trn03/gt-show-tv/tracks-v1a1/mono.m3u8">show tv</option>
+
+<option value="https://trn03.tulix.tv/gt-spacetv/index.m3u8">space tv</option>
+
+<option value="https://trn03.tulix.tv/gt-startv/index.m3u8">star</option>
+
+<option value="https://trn03.tulix.tv/gt-startv-azer/index.m3u8">star az</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-tele1/tracks-v1a1/mono.m3u8">tele1</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-tv2tv/tracks-v1a1/mono.m3u8">teve2</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8">tgrt belgesel</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8">tgrt eu</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-tgrthaber/tracks-v1a1/mono.m3u8">tgrt haber</option>
+
+<option value="https://trn03.tulix.tv/gt-tivi6/index.m3u8">tivi6</option>
+
+<option value="https://trn03.tulix.tv/gt-tlc/index.m3u8">tlc</option>
+
+<option value="https://tgn.bozztv.com/trn03/gt-tlc/tracks-v1a1/mono.m3u8">tlc</option>
+
+<option value="https://trn03.tulix.tv/gt-tmb-azer/index.m3u8">tmb az</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8">trt1</option>
+
+<option value="https://trn03.tulix.tv/gt-trt1eu/index.m3u8">trt1</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-trtarapca/tracks-v1a1/mono.m3u8">trt arapça</option>
+
+<option value="https://trn03.tulix.tv/gt-trtavaz/index.m3u8">trt avaz</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-trtbelgesel/tracks-v1a1/mono.m3u8">trt belgesel</option>
+
+<option value="https://trn03.tulix.tv/gt-trtcocuk/index.m3u8">trt çocuk</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-trthaber/tracks-v1a1/mono.m3u8">trt haber</option>
+
+<option value="https://trn03.tulix.tv/gt-trthaber/index.m3u8">trt haber</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-trtkurdi/tracks-v1a1/mono.m3u8">trt kurdi</option>
+
+<option value="https://trn03.tulix.tv/gt-trtmusic/index.m3u8">trt müzik</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8">trt spor</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8">trt spor 2</option>
+
+<option value="https://trn03.tulix.tv/gt-trtspor2/index.m3u8">trt spor 2</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-trtspor3/tracks-v1a1/mono.m3u8">trt spor 3</option>
+
+<option value="https://trn03.tulix.tv/gt-trtspor1/index.m3u8">trt spo</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-trtturk/tracks-v1a1/mono.m3u8">trt türk</option>
+
+<option value="https://trn03.tulix.tv/gt-trtturk/index.m3u8">trt türk</option>
+
+<option value="https://trn03.tulix.tv/gt-trtworld/index.m3u8">trt world</option>
+
+<option value="https://trn03.tulix.tv/gt-tv4/index.m3u8">tivi4</option>
+
+<option value="https://tgn.bozztv.com/36bay4/gt-tv8tv-3/tracks-v1a1/mono.m3u8">tv8</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8">tv8 int</option>
+
+<option value="https://trn03.tulix.tv/gt-tv8int/index.m3u8">tv8 int</option>
+
+<option value="https://trn03.tulix.tv/gt-tv8-tv/index.m3u8">tv8</option>
+
+<option value="https://trn03.tulix.tv/gt-tv100/index.m3u8">tv100</option>
+
+<option value="https://trn03.tulix.tv/gt-tvnet/index.m3u8">tvnet</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gt-ulketv/tracks-v1a1/mono.m3u8">ülke tv</option>
+
+<option value="https://trn03.tulix.tv/gt-zexer-xeber/index.m3u8">xeber</option>
+
+<option value="https://trn03.tulix.tv/gt-yoltv/index.m3u8">yol tv</option>
+
+<option value="https://tgn.bozztv.com/dvrfl05/gin-sky360/tracks-v1a1/mono.m3u8">360</option>
+
+<option value="https://trn03.tulix.tv/gt-sky360/index.m3u8">360</option>
+
+<option value="https://agrotv.blutv.com/blutv_agrotv/blutv_agrotv/playlist.m3u8">agro tv</option>
+
+
+<option value="https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8">eurosport1</option>
+
+<option value="http://116.202.238.88/ATV_TR/index.m3u8">atv</option>
+
+<option value="http://116.202.238.88/BEYAZTV_TR/index.m3u8">beyaz tv</option>
+
+<option value="http://116.202.238.88/CNNTURK_TR/index.m3u8">cnn türk</option>
+
+<option value="http://116.202.238.88/FLASHTV_TR/index.m3u8">flash tv</option>
+
+<option value="http://116.202.238.88/FOXTV_TR/index.m3u8">fox tv</option>
+
+<option value="http://116.202.238.88/HALKTV_TR/index.m3u8">halk tv</option>
+
+<option value="http://116.202.238.88/KANALD_TR/index.m3u8">kanal d</option>
+
+<option value="http://116.202.238.88/NTV_TR/index.m3u8">ntv</option>
+
+<option value="http://116.202.238.88/SHOWTV_TR/index.m3u8">show tv</option>
+
+<option value="http://116.202.238.88/STARTV_TR/index.m3u8">star</option>
+
+<option value="http://116.202.238.88/TRT1_TR/index.m3u8">trt1</option>
+
+<option value="http://116.202.238.88/TV8_TR/index.m3u8">tv8</option>
+
+<option value="http://116.202.238.88/TV8_TR/index.m3u8">tv8,5</option>
+
+<option value="http://50.7.144.122:1935/livetv/ahaber.stream/sec-f5-v1-a1.m3u8">ahaber</option>
+
+<option value="http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8">aspor</option>
+
+<option value="http://50.7.144.122:1935/livetv/atv.stream/sec-f5-v1-a1.m3u8">atv</option>
+
+<option value="http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8">cbc sport</option>
+
+<option value="http://50.7.144.122:1935/livetv/benguturk.stream/sec-f5-v1-a1.m3u8">bengü türk</option>
+
+<option value="http://50.7.144.122:1935/livetv/beyaztv.stream/sec-f5-v1-a1.m3u8">beyaz tv</option>
+
+<option value="http://50.7.144.122:1935/livetv/beinsporthaber.stream/sec-f5-v1-a1.m3u8">bein sport haber</option>
+
+<option value="http://50.7.144.122:1935/livetv/cnnturk.stream/sec-f5-v1-a1.m3u8">cnn türk</option>
+
+<option value="http://50.7.144.122:1935/livetv/dmax.stream/sec-f5-v1-a1.m3u8">dmax</option>
+
+<option value="http://50.7.144.122:1935/livetv/fbtv.stream/sec-f5-v1-a1.m3u8">fb tv</option>
+
+<option value="http://50.7.144.122:1935/livetv/flashtv.stream/sec-f5-v1-a1.m3u8">flash tv</option>
+
+<option value="http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8">fox</option>
+
+<option value="http://50.7.144.122:1935/livetv/haberglobal.stream/sec-f5-v1-a1.m3u8">haber global</option>
+
+<option value="http://50.7.144.122:1935/livetv/haberturk.stream/sec-f5-v1-a1.m3u8">haber türk</option>
+
+<option value="http://50.7.144.122:1935/livetv/halktv.stream/sec-f5-v1-a1.m3u8">halk tv</option>
+
+<option value="http://50.7.144.122:1935/livetv/kanald.stream/sec-f5-v1-a1.m3u8">kanal d</option>
+
+<option value="http://50.7.144.122:1935/livetv/ntv.stream/sec-f5-v1-a1.m3u8">ntv</option>
+
+<option value="http://50.7.144.122:1935/livetv/showtv.stream/sec-f5-v1-a1.m3u8">show tv</option>
+
+<option value="http://50.7.144.122:1935/livetv/startv.stream/sec-f5-v1-a1.m3u8">star</option>
+
+<option value="http://50.7.144.122:1935/livetv/teve2.stream/sec-f5-v1-a1.m3u8">teve2</option>
+
+<option value="http://50.7.144.122:1935/livetv/tgrtbelgesel.stream/sec-f5-v1-a1.m3u8">tgrt belgesel</option>
+
+<option value="http://50.7.144.122:1935/livetv/tgrthaber.stream/sec-f5-v1-a1.m3u8">tgrt haber</option>
+
+<option value="http://50.7.144.122:1935/livetv/tivibuspor.stream/sec-f5-v1-a1.m3u8">tivibu spor</option>
+
+<option value="http://50.7.144.122:1935/livetv/tlc.stream/sec-f5-v1-a1.m3u8">tlc</option>
+
+<option value="http://50.7.144.122:1935/livetv/trt1.stream/sec-f5-v1-a1.m3u8">trt1</option>
+
+<option value="http://50.7.144.122:1935/livetv/trtspor.stream/sec-f5-v1-a1.m3u8">trt spor</option>
+
+<option value="http://50.7.144.122:1935/livetv/tv5.stream/sec-f5-v1-a1.m3u8">tv5</option>
+
+<option value="http://50.7.144.122:1935/livetv/tv8.stream/sec-f5-v1-a1.m3u8">tv8</option>
+
+<option value="http://50.7.144.122:1935/livetv/tv8-5.stream/sec-f5-v1-a1.m3u8">tv8,5</option>
+
+<option value="http://50.7.144.122:1935/livetv/tv100.stream/sec-f5-v1-a1.m3u8">tv100</option>
+
+<option value="http://50.7.144.122:1935/livetv/ulusalkanal.stream/sec-f5-v1-a1.m3u8">ulusal kanal</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/ahaber.stream/master.m3u8">ahaber</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/aspor.stream/master.m3u8">aspor</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/atv.stream/master.m3u8">atv</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/aztv.stream/master.m3u8">az tv</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/beinsporthaber.stream/master.m3u8">bein sport haber</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/benguturk.stream/master.m3u8">begü türk</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/beyaztv.stream/master.m3u8">beyaz tv</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/cartoon-network.stream/master.m3u8">cartoon network</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/cbc.stream/master.m3u8">cbc</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/cbcsport.stream/master.m3u8">cbc sport</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/cnnturk.stream/master.m3u8">cnn türk</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/dmax.stream/master.m3u8">dmax</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/fbtv.stream/master.m3u8">fb tv</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/flashtv.stream/master.m3u8">flash tv</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/haberglobal.stream/master.m3u8">haber global</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/haberturk.stream/master.m3u8">haber türk</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/halktv.stream/master.m3u8">halk tv</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/kanals.stream/master.m3u8">kanal s</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/kanald.stream/master.m3u8">kanal d</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/medeniyettv.stream/master.m3u8">medenniyet</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/foxtv.stream/master.m3u8">fox</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/ntv.stream/master.m3u8">ntv</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/showtv.stream/master.m3u8">show tv</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/sozcutv.stream/master.m3u8">sözcü tv</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/startv.stream/master.m3u8">star</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/tele1.stream/master.m3u8">tele1</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/teve2.stream/master.m3u8">teve2</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/tgrtbelgesel.stream/master.m3u8">tgrt belgesel</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/tgrthaber.stream/master.m3u8">tgrt haber</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/tivibuspor.stream/master.m3u8">tivibu spor</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/tlc.stream/master.m3u8">tlc</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/trt1.stream/master.m3u8">trt1</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/trtspor.stream/master.m3u8">trt spor</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/tv5.stream/master.m3u8">tv5</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/tv8.stream/master.m3u8">tv8</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/tv8-5.stream/master.m3u8">tv8,5</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/tv100.stream/master.m3u8">tv100</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/ulusalkanal.stream/master.m3u8">ulusal kanal</option>
+
+<option value="https://yayin2.canlitv.fun/livetv/xezertv.stream/master.m3u8">xzever tv</option>
+
+
+
+<option value="https://c.fulltvizle.com/ahaber/index.m3u8">ahaber</option>
+
+<option value="https://c.fulltvizle.com/aspor/index.m3u8">aspor</option>
+
+<option value="https://c.fulltvizle.com/a2/index.m3u8">a2</option>
+
+<option value="https://c.fulltvizle.com/aytv/index.m3u8">atv</option>
+
+<option value="https://c.fulltvizle.com/beinhaber/index.m3u8">bein sport haber</option>
+
+<option value="https://c.fulltvizle.com/beyaz/index.m3u8">beyaz tv</option>
+
+<option value="https://c.fulltvizle.com/cnn/index.m3u8">cnn türk</option>
+
+<option value="https://c.fulltvizle.com/flash/index.m3u8">flash tv</option>
+
+<option value="https://c.fulltvizle.com/fox/index.m3u8">fox tv</option>
+
+<option value="https://c.fulltvizle.com/haberturk/index.m3u8">haber türk</option>
+
+<option value="https://c.fulltvizle.com/halk/index.m3u8">halk tv</option>
+
+<option value="https://c.fulltvizle.com/kanal7/index.m3u8">kanal 7</option>
+
+<option value="https://c.fulltvizle.com/kanalb/index.m3u8">kanal b</option>
+
+<option value="https://c.fulltvizle.com/kanald/index.m3u8">kanal d</option>
+
+<option value="https://c.fulltvizle.com/ntv/index.m3u8">ntv</option>
+
+<option value="https://c.fulltvizle.com/show/index.m3u8">show tv</option>
+
+<option value="https://c.fulltvizle.com/star/index.m3u8">star</option>
+
+<option value="https://c.fulltvizle.com/tele1/index.m3u">tele1</option>
+
+<option value="https://c.fulltvizle.com/teve2/index.m3u8">teve2</option>
+
+<option value="https://c.fulltvizle.com/trt1/index.m3u8">trt 1</option>
+
+<option value="https://c.fulltvizle.com/trtspor/index.m3u8">trt spor</option>
+
+<option value="https://c.fulltvizle.com/kanal8/index.m3u8">tv8</option>
+
+<option value="https://c.fulltvizle.com/tv85/index.m3u8">tv8,5</option>
+
+<option value="https://c.fulltvizle.com/ulke/index.m3u8">ülke tv</option>
+
+<option value="https://c.fulltvizle.com/kanal24/index.m3u8">24</option>
+
+<option value="https://c.fulltvizle.com/360/index.m3u8">360</option>
+
+<option value="https://helga.iptv2022.com/aksu_tv/index.m3u8">aksu tv</option>
+
+<option value="https://helga.iptv2022.com/beyaz_tv/index.m3u8">beyaz tv</option>
+
+<option value="https://helga.iptv2022.com/bir_tv/index.m3u8">bir tv</option>
+
+<option value="https://helga.iptv2022.com/cnn_turk/index.m3u8">cnn türk</option>
+
+<option value="https://helga.iptv2022.com/haber_global/index.m3u8">haber global</option>
+
+<option value="https://helga.iptv2022.com/haber_turk/index.m3u8">haber türk</option>
+
+<option value="https://helga.iptv2022.com/kanal_d/index.m3u8">kanal d</option>
+
+<option value="https://helga.iptv2022.com/kanal_v/index.m3u8">kanal v</option>
+
+<option value="https://helga.iptv2022.com/OlayTurk_TV/index.m3u8">olay türk</option>
+
+<option value="https://helga.iptv2022.com/show_turk/index.m3u8">show türk</option>
+
+<option value="https://helga.iptv2022.com/tempo_tv/index.m3u8">tempo tv</option>
+
+<option value="https://helga.iptv2022.com/teve_2/index.m3u8">teve2</option>
+
+<option value="https://helga.iptv2022.com/tivi_6/index.m3u8">tivi6</option>
+
+<option value="https://helga.iptv2022.com/trt_1/index.m3u8">trt 1</option>
+
+<option value="https://helga.iptv2022.com/trt_belgesel/index.m3u8">trt belgesel</option>
+
+<option value="https://helga.iptv2022.com/trt_cocuk/index.m3u8">trt çocuk</option>
+
+<option value="https://helga.iptv2022.com/trt_haber/index.m3u8">trt haber</option>
+
+<option value="https://helga.iptv2022.com/trt_muzik/index.m3u8">trt müzik</option>
+
+<option value="https://helga.iptv2022.com/trt_spor/index.m3u8">trt spor</option>
+
+<option value="https://helga.iptv2022.com/tv_100/index.m3u8">tv100</option>
+
+<option value="https://akittv-live.ercdn.net/akittv/akittv.m3u8">akıt tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8">aksu tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8">anadolu tv</option>
+
+<option value="https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8">arabesk tv</option>
+
+<option value="https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8">aras tv</option>
+
+<option value="https://tvsms.club/tvz.php?kanal=arma&file=.m3u8">arma tv</option>
+
+<option value="https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8">a viva tv</option>
+
+<option value="https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8">bengü türk</option>
+
+<option value="https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8">beyaz tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8">bir tv</option>
+
+<option value="https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8">bloomberg</option>
+
+<option value="http://139.162.182.79/live/test/index.m3u8">briç ve satranç</option>
+
+<option value="https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8">brt1</option>
+
+<option value="https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist.m3u8">brt2</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8">brtv</option>
+
+<option value="https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8">bursa line</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8">bursa on6</option>
+
+<option value="https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8">çay tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8">çiftçi tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8">cine1</option>
+
+<option value="https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8">cinr5</option>
+
+<option value="https://koprulu1.global.ssl.fastly.net/ythls?kanal_id=UCV6zcRug6Hqp1UX_FdyUeBg.m3u8">cnn youtube</option>
+
+<option value="https://tvsms.club/tv.php?kanal=damar&file=.m3u8">damar tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8">deha tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8">deniz postası</option>
+
+<option value="https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8">derin tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8">dim tv</option>
+
+<option value="https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8">diyanet tv</option>
+
+<option value="https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8">dizi tv(sahte)</option>
+
+<option value="https://dogus-live.daioncdn.net/dmax/dmax.m3u8">dmax</option>
+
+<option value="https://tvsms.club/tvz.php?kanal=dost&file=.m3u8">dost tv müzik</option>
+
+<option value="https://dost.stream.emsal.im/tv/live.m3u8">dost tv</option>
+
+<option value="https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8">dream türk</option>
+
+<option value="https://tv170.radyotelekom.com.tr:21764/edessatv/edessatv/chunklist.m3u8">edessa tv</option>
+
+<option value="https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8">edirne tv</option>
+
+<option value="https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8">ekol tv</option>
+
+<option value="https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8">ercis tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8">erci yes tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8">er tv</option>
+
+<option value="https://yayin30.haber100.com/live/sehirekrani/chunklist_w1128481069.m3u8">esenler şehir ekranı</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8">es tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8">etv kayseri</option>
+
+<option value="https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8">etv manisa</option>
+
+<option value="https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8">euro d</option>
+
+<option value="http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8">euro star</option>
+
+<option value="https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8">ezo tv</option>
+
+<option value="https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8">fb tv</option>
+
+<option value="https://media.finest.tv/hls/live.m3u8">finest tv</option>
+
+<option value="https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8">flash tv</option>
+
+<option value="https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8">fortuna tv</option>
+
+<option value="https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8">frt tv</option>
+
+<option value="https://tvsms.club/tv.php?kanal=genctv&file=.m3u8">genç tv</option>
+
+<option value="https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8">gonca tv</option>
+
+<option value="http://164.132.23.92:22372/gopsentv/gopsentv/sec-f5-v1-a1.m3u8">gopsen tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8">gaziantep</option>
+
+<option value="https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8">güneydoğu tv</option>
+
+<option value="https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8">güney tv</option>
+
+<option value="http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8">gurbet24</option>
+
+<option value="http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8">gzc spor</option>
+
+<option value="https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8">haber global</option>
+
+<option value="https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8">haber türk</option>
+
+<option value="https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8">haber 61</option>
+
+<option value="https://live.ishiacloud.com/hls/37166b77-128d-425c-91bf-8195071c217d_720p.m3u8">haditv 7</option>
+
+<option value="https://koprulu1.global.ssl.fastly.net/ythls?kanal_id=UCf_ResXZzE-o18zACUEmyvQ.m3u8">halktv yt</option>
+
+<option value="https://vod02.cdn.web.tv/cn/ov/cnovvu97lqw_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8">hrt akdeniz</option>
+
+<option value="https://ciner-live.ercdn.net/htspor/htspor.m3u8">ht spor</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8">hunatv tv</option>
+
+<option value="https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8">içel tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8">ikra tv</option>
+
+<option value="https://592f1881b3d5f.streamlock.net:1443/santraltv_294/santraltv_294/playlist.m3u8">ilk tv</option>
+
+<option value="https://i41.ozelip.com:3269/hybrid/play.m3u8">isviçre tv</option>
+
+<option value="https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8">izmir time</option>
+
+<option value="https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8">kabe</option>
+
+<option value="https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8">kanal 7</option>
+
+<option value="https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8">kanal 7 eu</option>
+
+<option value="https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8">kanal d</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8">kanal 3</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8">kanal 12</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8">kanal 15</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8">kanal 23</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8">kanal 26</option>
+
+<option value="https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8">kanal g</option>
+
+<option value="https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8">kanal 32</option>
+
+<option value="https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8">kanal 34</option>
+
+<option value="https://kanal53.ozelip.com:3448/hybrid/play.m3u8">kanal 53</option>
+
+<option value="https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8">kanal 56</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8">kanal 58</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8">kanal 68</option>
+
+<option value="http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum">kanal ada</option>
+
+<option value="https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8">kanal avrupa</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8">kanal fırat</option>
+
+<option value="https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8">kanal on4</option>
+
+<option value="https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8">kanal s</option>
+
+<option value="https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist.m3u8">kanal t</option>
+
+<option value="https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8">kanal urfa</option>
+
+<option value="https://waw1.artiyerelmedya.net/kanalv/bant1/chunks.m3u8">kanal v</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8">kanal z</option>
+
+<option value="https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8">kardelen tv</option>
+
+<option value="https://yayin30.haber100.com/live/kardestv/chunklist.m3u8">kardeş tv</option>
+
+<option value="http://51.91.118.139:8080/live/kastamonutv/kastamonutv/3385.m3u8">kastamonu tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8">kay tv</option>
+
+<option value="https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/chunklist_w248136165.m3u8">kıbrıs genç tv</option>
+
+<option value="https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8">kocaeli tv</option>
+
+<option value="https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8">kral pop</option>
+
+<option value="https://yayin30.haber100.com/live/kudustv/chunklist.m3u8">kudus tv</option>
+
+<option value="https://kuzeykibris.tv/m3u8/kktv.m3u8">kuzey kıbrıs tv</option>
+
+<option value="https://lbl.netmedya.net/hls/lalegultv.m3u8">lalegül</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8">life tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8">mavi karadeniz</option>
+
+<option value="https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8">mc eu</option>
+
+<option value="https://sbc-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8">medine canlı</option>
+
+<option value="https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8">meltem tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8">mercan tv</option>
+
+<option value="https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum">metropol tv</option>
+
+<option value="https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8">milyon tv</option>
+
+<option value="https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8">muğla türk</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_noratv/noratv/chunks.m3u8">nora tv</option>
+
+<option value="https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8">nr1</option>
+
+<option value="https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8">nr1 aşk</option>
+
+<option value="https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8">nr1 damar</option>
+
+<option value="https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8">nr1 dance</option>
+
+<option value="https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8">nr1 türk</option>
+
+<option value="https://dogus-live.daioncdn.net/ntv/playlist.m3u8">ntv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8">olay türk</option>
+
+<option value="https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8">ordu bel tv</option>
+
+<option value="https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8">pazarcık tv</option>
+
+<option value="https://listen.powerapp.com.tr/pturkakustik/akustik.smil/master.m3u8">power akustik</option>
+
+<option value="https://listen.powerapp.com.tr/dance/dance.smil/master.m3u8">power dance</option>
+
+<option value="https://listen.powerapp.com.tr/plove/love.smil/master.m3u8">power love</option>
+
+<option value="https://listen.powerapp.com.tr/pturkslow/slow.smil/master.m3u8">power slow</option>
+
+<option value="https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/master.m3u8">power taptaze</option>
+
+<option value="https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/master.m3u8">power türk</option>
+
+<option value="https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/master.m3u8">powet türk tv</option>
+
+<option value="https://livetv.powerapp.com.tr/powerTV/powerhd.smil/master.m3u8">power tv</option>
+
+<option value="https://canlitest.stratejibilisim.com.tr/live/smil:frontrange.smil/playlist.m3u8">rehber tv</option>
+
+<option value="https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8">semerkand tv</option>
+
+<option value="https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8">serhat tv</option>
+
+<option value="https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8">show max</option>
+
+<option value="https://ciner-live.daioncdn.net/showtv/showtv.m3u8">show tv</option>
+
+<option value="https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklis.m3u8">sim tv</option>
+
+<option value="https://tvsms.club/tv.php?kanal=silatv&file=.m3u8">sıla tv</option>
+
+<option value="https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/playlist.m3u8">sky haber</option>
+
+<option value="https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8">sports tv</option>
+
+<option value="https://dogus-live.daioncdn.net/startv/startv.m3u8">star</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8">sun tv</option>
+
+<option value="http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8">süper türk</option>
+
+<option value="http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8">süper türk max</option>
+
+<option value="https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8">tatım tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8">tatlıses</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8">tempo tv</option>
+
+<option value="https://demiroren-live.daioncdn.net/teve2/teve2.m3u8">teve2</option>
+
+<option value="https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8">tget belgesel</option>
+
+<option value="https://canli.tgrteu.com/tgrteu.m3u8">tgrt eu</option>
+
+<option value="https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8">tgrt haber</option>
+
+<option value="https://canli.tgrthaber.com/tgrt.m3u8">tgrt haber</option>
+
+<option value="https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8">türk haber</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8">tivi6</option>
+
+<option value="https://dogus-live.daioncdn.net/tlc/tlc.m3u8">tlc</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8">ton tv</option>
+
+<option value="https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8">top pop</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8">tarkya türk</option>
+
+<option value="https://tv-trt1.medya.trt.com.tr/master.m3u8">trt 1</option>
+
+<option value="https://tv-trt2.medya.trt.com.tr/master.m3u8">trt 2</option>
+
+<option value="https://tv-trtarabi.medya.trt.com.tr/master.m3u8">trt arabi</option>
+
+<option value="https://tv-trtavaz.medya.trt.com.tr/master.m3u8">trt avaz</option>
+
+<option value="https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8">trt belgesel</option>
+
+<option value="https://tv-trtcocuk.medya.trt.com.tr/master.m3u8">trt çocuk</option>
+
+<option value="https://tv-e-okul01.medya.trt.com.tr/master.m3u8">trt eba1</option>
+
+<option value="https://tv-e-okul02.medya.trt.com.tr/master.m3u8">trt eba2</option>
+
+<option value="https://tv-e-okul03.medya.trt.com.tr/master.m3u8">trt eba3</option>
+
+<option value="https://tv-e-okul04.medya.trt.com.tr/master.m3u8">trt eba4</option>
+
+<option value="https://tv-trthaber.medya.trt.com.tr/master.m3u8">trt haber</option>
+
+<option value="https://tv-trtkurdi.medya.trt.com.tr/master.m3u8">trt kurdi</option>
+
+<option value="https://tv-trtmuzik.medya.trt.com.tr/master.m3u8">trt müzik</option>
+
+<option value="https://tv-trtspor1.medya.trt.com.tr/master.m3u8">trt spor 1</option>
+
+<option value="https://tv-trtspor2.medya.trt.com.tr/master.m3u8">trt spor 2</option>
+
+<option value="https://tv-trtturk.medya.trt.com.tr/master.m3u8">trt türk</option>
+
+<option value="https://tv-trtworld.medya.trt.com.tr/master.m3u8">trt world</option>
+
+<option value="https://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8">türk klinikleri</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_tv3/tv3/playlist.m3u8">tv3</option>
+
+<option value="https://turkmedya-live.ercdn.net/tv4/tv4.m3u8">tv4</option>
+
+<option value="https://tv8-live.daioncdn.net/tv8/tv8.m3u8">tv8</option>
+
+<option value="https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3">tv8,5</option>
+
+<option value="https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8">tv25</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8">tv41</option>
+
+<option value="https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8">tv48</option>
+
+<option value="https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8">tv52</option>
+
+<option value="http://tv170.radyotelekom.com.tr:1935/haber/haber/index.m3u8">tv170</option>
+
+<option value="https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/chunklist.m3u8">tv2020</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8">tv a</option>
+
+<option value="https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8">tv net</option>
+
+<option value="https://canlitvulusal.xyz/live/tvnet/index.m3u8">tv net</option>
+
+<option value="https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8">ülke tv</option>
+
+<option value="https://ruhatv.ozelip.com:3483/stream/play.m3u8">ruha tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8">urfanatik</option>
+
+<option value="https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8">van gölü</option>
+
+<option value="http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8">viyana</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8">vuslat tv</option>
+
+<option value="https://s01.webcaster.cloud/wmtv/live_1080p.m3u8">woman tv</option>
+
+<option value="https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8">world türk</option>
+
+<option value="http://stream.tvcdn.net/belgesel/yaban-tv.m3u8">yaban tv</option>
+
+<option value="https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8">zeyno tv</option>
+
+<option value="https://turkmedya-live.ercdn.net/tv24/tv24.m3u8">24</option>
+
+<option value="https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8">24</option>
+
+<option value="https://turkmedya-live.ercdn.net/tv360/tv360.m3u8">360</option>
+
+<option value="http://66.160.192.241/foxturk/index.m3u8">fox tv</option>
+
+<option value="http://66.160.192.241/showtv/index.m3u8">show tv</option>
+
+<option value="http://66.160.192.241/startvturk/index.m3u8">star</option>
+
+<option value="http://66.160.192.241/trtcocuk/index.m3u8">trt çocuk</option>
+
+<option value="http://66.160.192.241/trtmuzik/index.m3u8">trt müzik</option>
+
+<option value="http://66.160.192.241/trt1tv/index.m3u8">trt türk</option>
+
+<option value="http://api.ntv.com.tr/rss/LiveStream">ntv</option>
+
+<option value="http://95.67.12.82:9098">love nature (test)</option>
+
+<option value="https://yt.ariev.workers.dev/ch/UClWewRX7n_IY3mBbxmttR5Q.m3u8">gzt youtube</option>
+
+<option value="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8">aspor</option>
+
+<option value="https://helga.iptv2022.com/trt_spor/tracks-v4a1/mono.m3u8">trt spor</option>
+
+<option value="https://it-cdn-1.varsportscdn1.lol/601/index.m3u8">bein 1</option>
+
+<option value="https://it-cdn-1.varsportscdn1.lol/602/index.m3u8">bein 2</option>
+
+<option value="https://it-cdn-1.varsportscdn1.lol/603/index.m3u8">bein 3</option>
+
+<option value="https://it-cdn-1.varsportscdn1.lol/604/index.m3u8">bein 4</option>
+
+<option value="https://it-cdn-1.varsportscdn1.lol/605/index.m3u8">bein 5</option>
+
+<option value="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8">show max</option>
+
+<option value="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv.m3u8">ntv</option>
+
+<option value="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc.m3u8">tlc</option>
+
+<option value="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax.m3u8">dmax</option>
+
+<option value="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/kralpoptv/kralpoptv.m3u8">kral pop</option>
+
+<option value="https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8">sirius sat tv</option>
+
+<option value="https://x.canlitvapp.com/dmax/index.m3u8">dmax</option>
+
+<option value="https://x.canlitvapp.com/tlc/index.m3u8">tlc</option>
+
+<option value="https://x.canlitvapp.com/a2/index.m3u8">a2</option>
+
+<option value="https://x.canlitvapp.com/star/index.m3u8">star</option>
+
+<option value="https://x.canlitvapp.com/fox/index.m3u8">fox</option>
+
+<option value="https://x.canlitvapp.com/kanald/index.m3u8">kanald</option>
+
+<option value="https://x.canlitvapp.com/kanal8/index.m3u8">tv8</option>
+
+<option value="https://x.canlitvapp.com/kanal7/index.m3u8">kanal7</option>
+
+<option value="https://x.canlitvapp.com/cnn/index.m3u8">cnn</option>
+
+<option value="https://x.canlitvapp.com/show/index.m3u8">showtv</option>
+
+<option value="https://x.canlitvapp.com/trt1/index.m3u8">trt1</option>
+
+<option value="https://x.canlitvapp.com/aytv/index.m3u8">atv</option>
+
+<option value="https://x.canlitvapp.com/aspor/index.m3u8">aspor</option>
+
+<option value="https://x.canlitvapp.com/ahaber/index.m3u8">ahaber</option>
+
+<option value="https://helga.iptv2022.com/sh/AlanyaTV/tracks-v1a1/mono.m3u8">alanya tv</option>
+
+<option value="https://helga.iptv2022.com/sh/Engelsiz_TV/tracks-v1a1/mono.m3u8">kanal ege</option>
+
+<option value="https://helga.iptv2022.com/sh/TokatsuperTV/tracks-v1a1/mono.m3u8">tokat süper</option>
+
+<option value="https://helga.iptv2022.com/sh/AfroTurk/tracks-v1a1/mono.m3u8">afro türk</option>
+
+<option value="https://helga.iptv2022.com/sh/koy_tv/tracks-v2a1/mono.m3u8">köy tv</option>
+
+<option value="https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8">belem türk</option>
+
+<option value="https://helga.iptv2022.com/sh/NTR_ENG/tracks-v1a1/mono.m3u8">afro türk</option>
+
+<option value="https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist.m3u8">kanal s</option>
+
+<option value="https://tvturkiyem.ozelip.com:3534/stream/play.m3u8">siteler</option>
+
+<option value="https://skyhabertv.ozelip.com:3100/hybrid/play.m3u8">sky haber</option>
+
+<option value="https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8">SDM music world</option>
+
+<option value="https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8">SDM çizgifilm</option>
+
+<option value="https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8">SDM belgesel</option>
+
+<option value="https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8">SDM tv sinema</option>
+
+<option value="https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8">Kanal B</option>
+
+<option value="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8">atv tnet</option>
+
+<option value="https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8">kanal d tnet</option>
+
+<option value="https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8">teve2 tnet</option>
+
+<option value="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv.m3u8">star tnet</option>
+
+<option value="https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8">now tnet</option>
+
+<option value="https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8">kanal7 tnet</option>
+
+<option value="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8">habertürk tnet</option>
+
+<option value="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8">showtv tnet</option>
+
+<option value="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8">tv8 tnet</option>
+
+<option value="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8">tv8,5 tnet</option>
+
+<option value="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8">minikaçocuk tnet</option>
+
+<option value="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8">minikago tnet</option>
+
+<option value="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8">a2 tnet</option>
+
+<option value="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv.m3u8">ntv tnet</option>
+
+<option value="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc.m3u8">tlc tnet</option>
+
+<option value="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax.m3u8">dmax tnet</option>
+
+<option value="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/kralpoptv/kralpoptv.m3u8">kralpop tnet</option>
+
+<option value="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8">showmax tnet</option>
+
+<option value="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8">aspor tnet</option>
+
+
+
+
+
+
+
 <option value="https://ie.sonyrepairs.com/aplanet/index.m3u8">Animal Planet</option>
 
 <option value="https://ie.sonyrepairs.com/b4u/index.m3u8">B4U</option>
