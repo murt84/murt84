@@ -29,7 +29,7 @@
 
 <option value="https://live-fi.tvkaista.net/kutonen/live.m3u8">kutonen</option>
 
-<option value="https://live-fi.tvkaista.net/tlc/live.m3u8">tlc</option>
+<option value="https://live-fi.tvkaista.net/tlc/live.m3u8?src=opengraph">tlc</option>
 
 <option value="https://live-fi.tvkaista.net/sub/live.m3u8">sub</option>
 
