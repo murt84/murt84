@@ -11,6 +11,43 @@
     <h1>Burim Tv</h1>
     <video id="video" width="100%" height="360" controls></video>
     <select id="streamSelect">
+
+
+<option value="https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8">yle1</option>
+
+<option value="https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8">yle2</option>
+
+<option value="https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8">yleteema</option>
+
+<option value="https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8">mtv uutiset</option>
+
+<option value="https://live-fi.tvkaista.net/mtv3/live.m3u8">mtv3</option>
+
+<option value="https://live-fi.tvkaista.net/nelonen/live.m3u8">nelonen</option>
+
+<option value="https://live-fi.tvkaista.net/tv5/live.m3u8">vitonen</option>
+
+<option value="https://live-fi.tvkaista.net/kutonen/live.m3u8">kutonen</option>
+
+<option value="https://live-fi.tvkaista.net/tlc/live.m3u8">tlc</option>
+
+<option value="https://live-fi.tvkaista.net/sub/live.m3u8">sub</option>
+
+<option value="https://live-fi.tvkaista.net/ava/live.m3u8">ava</option>
+
+<option value="https://live-fi.tvkaista.net/liv/live.m3u8">liv</option>
+
+<option value="https://live-fi.tvkaista.net/hero/live.m3u8">hero</option>
+
+<option value="https://live-fi.tvkaista.net/jim/live.m3u8">jim</option>
+
+<option value="https://live-fi.tvkaista.net/star-channel/live.m3u8">star</option>
+
+
+
+
+
+
         
 <option value="https://eu5cdn.overotm.com/abr_srv693/tiptv/playlist.m3u8">tip tv</option>
 
