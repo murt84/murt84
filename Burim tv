@@ -1,3 +1,7 @@
+ <a href="https://wa.link/6omscp">
+        <button>Contact Now And Get Premium</button>
+    </a>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,15 +10,6 @@
     <title>M3U Playlist</title>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
-<body>
-
-    <!-- Button acting as a link -->
-    <a href="https://wa.link/6omscp">
-        <button>Contact Now And Get Premium</button>
-    </a>
-
-</body>
-
 <body bgcolor="#add8e6">
 <body>
     <h1>V.I.P. TV</h1>
