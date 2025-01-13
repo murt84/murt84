@@ -653,7 +653,7 @@
 </head>
 <body>
     <div class="flashing-text">
-        👆Valitse Kanava👆
+        👆Choose Channel👆
     </div>
 </body>
 
@@ -685,7 +685,50 @@
 </head>
 <body>
     <div class="marquee">
-        <span>Premium Tv Channels Whatsapp +358469666719</span>
+        <span>Premium Tv Channel's working.. SMARTTV | SMARTTPHONE | TABLET | PC | TV BOX</span>
+
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .button-3d {
+            padding: 15px 30px;
+            font-size: 18px;
+            text-align: center;
+            text-decoration: none;
+            color: white;
+            background-color: #007bff;
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0 4px #0056b3, 0 8px #0056b3, 0 12px #0056b3;
+            transition: all 0.3s ease;
+            transform: translateY(4px);
+        }
+        .button-3d:hover {
+            background-color: #0056b3;
+            box-shadow: 0 8px #003d7a, 0 12px #003d7a, 0 16px #003d7a;
+            transform: translateY(0);
+        }
+        .button-3d:active {
+            background-color: #003d7a;
+            box-shadow: 0 2px #003d7a, 0 4px #003d7a, 0 6px #003d7a;
+            transform: translateY(2px);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 3D Button as a link -->
+    <a href="https://api.whatsapp.com/send?phone=31649068429&text=Hello_I_Want_Test_Channels_Please.." class="button-3d" target="_blank">Contact Now</a>
+
+
+
 
 </body>
 </html>
