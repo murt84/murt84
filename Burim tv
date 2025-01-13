@@ -44,11 +44,9 @@
 
 <option value="https://live-fi.tvkaista.net/liv/live.m3u8">liv</option>
 
-<option value="https://live-fi.tvkaista.net/hero/live.m3u8?src=opengraph">hero</option>
+<option value="https://live-fi.tvkaista.net/hero/live.m3u8">hero</option>
 
-<option value="https://live-fi.tvkaista.net/jim/live.m3u8?src=opengraph">jim</option>
-
-<option value="https://live-fi.tvkaista.net/star-channel/live.m3u8?src=opengraph">star</option>
+<option value="https://live-fi.tvkaista.net/jim/live.m3u8">jim</option>
 
 <option value="https://proxy1.maxicaster.com/proxy/Ibc040rx3u5/frii/prog_index.m3u8?proxy_stream=rtmp-primary-hd">frii</option>
 
