@@ -1,0 +1,214 @@
+<h3>VIP TV</h3>
+
+</ul>
+<title>Kayan Metin</title>
+    <style>
+        .marquee {
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            box-sizing: border-box;
+        }
+
+        .marquee span {
+            display: inline-block;
+            animation: scroll 15s linear infinite;
+        }
+
+        @keyframes scroll {
+            from {
+                transform: translateX(100%);
+            }
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="marquee">
+        <span>Premium Tv Channel's working.. SMARTTV | SMARTTPHONE | TABLET | PC | TV BOX | LiveTv | Movie's | Serie's| Best Server's | 24/7 Whatsapp Support</span>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Player with Playlist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #7b6347;
+        }
+        .video-container {
+            width: 80%;
+            max-width: 800px;
+            text-align: center;
+        }
+        video {
+            width: 100%;
+            height: auto;
+            border: 2px solid #000;
+        }
+        .playlist {
+            list-style: none;
+            padding: 0;
+            margin-top: auto;
+            max-height: 200px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            background-color: #fff;
+        }
+        .playlist li {
+            padding: 8px;
+            cursor: pointer;
+            background-color: #e6e6e6;
+            margin: 2px 0;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+        .playlist li:hover {
+            background-color: #ccc;
+        }
+        .playlist li.active {
+            background-color: #b3b3b3;
+        }
+    </style>
+</head>
+<body>
+<div class="video-container">
+    <!-- Video Player -->
+    <video id="videoPlayer" controls>
+        <source id="videoSource" src="video1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    
+    <!-- Playlist -->
+    <ul class="playlist" id="playlist">
+
+<li class="active" data-video="https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1">bein sport1 inat</li>
+
+
+<li class="active" data-video="https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=atv">atv inat</li>
+
+<li class="active" data-video="https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=showtv">showtv inat</li>
+
+<li class="active" data-video="http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158">bein sport 1</li>
+
+<li class="active" data-video="https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8">yle1</li>
+
+<li class="active" data-video="https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8">yle2</li>
+
+<li class="active" data-video="https://live-fi.tvkaista.net/national-geographic/live.m3u8">nat geo fin</li>
+
+
+<li class="active" data-video="https://tv208.radyotelekom.com.tr:3817/hybrid/play.m3u8">max tv</li>
+
+<li class="active" data-video="https://tv208.radyotelekom.com.tr:3417/stream/play.m3u8">megatv şaban</li>
+
+<li class="active" data-video="https://tv208.radyotelekom.com.tr/p/3580/hybrid/play.m3u8">megatv cinema</li>
+
+<li class="active" data-video="https://tv208.radyotelekom.com.tr:3771/hybrid/play.m3u8">megatv senedli fimler</li>
+
+<li class="active" data-video="https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8">megatv müzik</li>
+
+<li class="active" data-video="https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8">megatv sirius</li>
+
+<li class="active" data-video="http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8">gzc spor</li>
+
+<li class="active" data-video="https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8">arabesk tv</li>
+
+<li class="active" data-video="https://tvsms.club/tv.php?kanal=damar&file=.m3u8">damar tv</li>
+
+<li class="active" data-video="https://tvsms.club/tvz.php?kanal=arma&file=.m3u8">arma tv</li>
+
+<li class="active" data-video="https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8">viva tv</li>
+
+<li class="active" data-video="https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8">dizi tv</li>
+
+<li class="active" data-video="https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8">ezo tv</li>
+
+<li class="active" data-video="https://tvsms.club/tv.php?kanal=genctv&file=.m3u8">genç tv</li>
+
+<li class="active" data-video="https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8">gonca tv</li>
+
+<li class="active" data-video="http://164.132.23.92:22372/gopsentv/gopsentv/sec-f5-v1-a1.m3u8">gopsen tv</li>
+
+<li class="active" data-video="https://ciner-live.ercdn.net/htspor/htspor.m3u8">ht spor</li>
+
+<li class="active" data-video="https://i41.ozelip.com:3269/hybrid/play.m3u8">isviçre tv</li>
+
+<li class="active" data-video="https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8">kabe canlı</li>
+
+<li class="active" data-video="http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum">kanal ada</li>
+
+
+
+<li class="active" data-video="https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8">meltem tv</li>
+
+<li class="active" data-video="https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8">pazarcık tv</li>
+
+<li class="active" data-video="https://yayin.rizeturk.com:3777/multi_web/play.m3u8">rize tv</li>
+
+<li class="active" data-video="https://tvsms.club/tv.php?kanal=silatv&file=.m3u8">sıla canlı</li>
+
+<li class="active" data-video="http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8">süper türk</li>
+
+<li class="active" data-video="http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8">süper türk max</li>
+
+<li class="active" data-video="https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8">boxing tv</li>
+
+<li class="active" data-video="https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8">kanald drama espana</li>
+
+    </ul>
+</div>
+
+<script>
+    const videoPlayer = document.getElementById('videoPlayer');
+    const videoSource = document.getElementById('videoSource');
+    const playlist = document.getElementById('playlist');
+    const playlistItems = document.querySelectorAll('.playlist li');
+
+    // Function to play the selected video
+    function playVideo(videoFile) {
+        videoSource.src = videoFile;
+        videoPlayer.load(); // Reload the video
+        videoPlayer.play();
+    }
+
+    // Function to highlight the active playlist item
+    function setActiveItem(item) {
+        playlistItems.forEach(li => li.classList.remove('active'));
+        item.classList.add('active');
+    }
+
+    // Event listener for playlist click
+    playlist.addEventListener('click', function(e) {
+        if (e.target.tagName === 'LI') {
+            const videoFile = e.target.getAttribute('data-video');
+            playVideo(videoFile);
+            setActiveItem(e.target);
+        }
+    });
+
+    // Event listener for when the video ends to play the next video
+    videoPlayer.addEventListener('ended', function() {
+        const currentActiveItem = document.querySelector('.playlist li.active');
+        const nextItem = currentActiveItem.nextElementSibling || playlistItems[0]; // Loop to the first video
+        nextItem.click(); // Simulate click on next video
+    });
+
+</script>
+</body>
+<a href="https://wa.link/6omscp" class="poster-link" target="_blank">
+        <img src="https://static.vecteezy.com/system/resources/previews/042/387/656/non_2x/whatsapp-popular-social-media-button-icon-instant-messenger-logo-of-whatsapp-free-png.png" alt="Clik To Get Premium" width="140" height="100">
+    </a>
+</html>
+
