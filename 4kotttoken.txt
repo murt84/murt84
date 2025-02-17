@@ -1,0 +1,1313 @@
+#EXTM3U
+#EXTINF:0 tvg-id="SkySelect1.de" group-title="DE- KINOWELT",DE: SKY SELECT 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4850
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="DE- KINOWELT",DE: SKY SELECT 2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4844
+#EXTINF:0 tvg-id="SkySelect3.de" group-title="DE- KINOWELT",DE: SKY SELECT 3 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4845
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="DE- KINOWELT",DE: SKY SELECT 4 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4848
+#EXTINF:0 tvg-id="SkySelect5.de" group-title="DE- KINOWELT",DE: SKY SELECT 5 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4846
+#EXTINF:0 tvg-id="SkySelect6.de" group-title="DE- KINOWELT",DE: SKY SELECT 6 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4849
+#EXTINF:0 tvg-id="SkySelect7.de" group-title="DE- KINOWELT",DE: SKY SELECT 7 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4843
+#EXTINF:0 tvg-id="SkySelect8.de" group-title="DE- KINOWELT",DE: SKY SELECT 8 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10264
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT ACTION 01 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47227
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT ACTION 02 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47228
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT KRIMI 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47229
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT SCIENCE FICTION 01 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47231
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT SCIENCE FICTION 02 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47232
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT THRILLER 01 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47233
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT THRILLER 02 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47234
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT DRAMA 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47235
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT DRAMA 2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47236
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT KOMÖDIE 01 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47237
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT KOMÖDIE 02 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47238
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT FAMILIE 01 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47239
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT FAMILIE 02 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47240
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT ANIMATION 01 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47241
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT ANIMATION 02 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47242
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT KRIEGS 01 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47243
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT KRIEGS 02 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47244
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT HORROR 01 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47245
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: SELECT HORROR 02 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47246
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: PopCorn Select 1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53700
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: PopCorn Select 2 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53701
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: PopCorn Select 3 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53702
+#EXTINF:0 tvg-id="ext" group-title="DE- KINOWELT",DE: PopCorn Select 4 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53703
+
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY ONE HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22633
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY ONE HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8702
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY 13th STREET HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22434
+#EXTINF:0 tvg-id="13thStreet.de" group-title="DE- EXTRA",DE: SKY 13th STREET HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1769
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY ATLANTIC HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22450
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="DE- EXTRA",DE: SKY ATLANTIC HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1768
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA ACTION HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22452
+#EXTINF:0 tvg-id="SkyAction.de" group-title="DE- EXTRA",DE: SKY CINEMA ACTION HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1766
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA PREMIEREN 24 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46900
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA PREMIEREN 24 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1764
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA PREMIEREN HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46901
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA PREMIEREN HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1760
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA KRIMI HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22458
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA KRIMI HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1756
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY REPLAY HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22438
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY REPLAY HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1746
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA FAMILY HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22454
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="DE- EXTRA",DE: SKY CINEMA FAMILY HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1761
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA SPECIAL HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46902
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA SPECIAL HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14209
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CRIME HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/49859
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CRIME HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/33940
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA COMEDY HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46904
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA COMEDY HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23735
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA CLASSICS HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46903
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA CLASSICS HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1762
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: WARNER FILM HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22465
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: WARNER FILM HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1752
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: WARNER COMEDY HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22464
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: WARNER COMEDY HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1753
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: WARNER SERIE HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22466
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: WARNER SERIE HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1751
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: UNIVERSAL TV HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22467
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: UNIVERSAL TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1750
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY SYFY HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22461
+#EXTINF:0 tvg-id="SciFi.de" group-title="DE- EXTRA",DE: SKY SYFY HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1754
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE- SKY KINOWELT HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1757
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CINEMA HIGHLIGHTS HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/38683
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY ROMANCE TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1755
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY HEIMATKANAL (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1758
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: AXN Deutschland
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53246
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: NITRO HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22444
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: NITRO HD+ (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1749
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE- NITRO (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1400
+#EXTINF:0 tvg-id="BonGusto.de" group-title="DE- EXTRA",DE: BON GUSTO HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85500
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY CLASSICA (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1730
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: SKY SHOWCASE FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85511
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV ANIMALS
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85586
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV ANIME
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85587
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV CRIME
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85591
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV DOCUMENTARIES
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85592
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV EXPLORE
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85594
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV FOOD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85597
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV HISTORY
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85598
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV HOME
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85599
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV INSIDE
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85601
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV KULTFILME
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85603
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV MOVIES
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85606
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV NATURE
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85607
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV PARANORMAL
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85608
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV RETRO TOONS
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85609
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV ROMANCE
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85610
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV SERIE
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85611
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: PLUTO TV SITCOMS
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85612
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: RTL+ LIVE 1 FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53344
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: RTL+ LIVE 2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53345
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: RTL+ LIVE 3 FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53346
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: RTL+ LIVE 4 FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53347
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: RTL+ LIVE 5 FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53348
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: RTL+ LIVE 6 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53349
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: RTL+ LIVE 7 FH+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53350
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: RTL+ LIVE 8 FH+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53351
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: RTL+ LIVE 9 FH+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53352
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: RTL+ LIVE 10 FH+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53353
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: AXN WHITE HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86532
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: AXN BLACK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86533
+#EXTINF:0 tvg-id="ext" group-title="DE- EXTRA",DE: ESPRESO HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86534
+
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: HISTORY HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22439
+#EXTINF:0 tvg-id="History.de" group-title="DE- DOKUMENTAR",DE: HISTORY HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1709
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: DISCOVERY HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22435
+#EXTINF:0 tvg-id="DiscoveryChannel.de" group-title="DE- DOKUMENTAR",DE: DISCOVERY HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1708
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: NAT GEO WILD HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22442
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="DE- DOKUMENTAR",DE: NAT GEO WILD HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1711
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: NAT GEO HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22443
+#EXTINF:0 tvg-id="NatGeo.de" group-title="DE- DOKUMENTAR",DE: NAT GEO HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1712
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="DE- DOKUMENTAR",DE: ANIMAL PLANET HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/84136
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: GEO TELEVISION HD+ (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53287
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: SPIEGEL GESCHICHTE HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22460
+#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="DE- DOKUMENTAR",DE: SPIEGEL GESCHICHTE HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1713
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: SKY DOCUMENTARIES HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/38682
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: SKY NATURE HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/38684
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: SPIEGEL TV WISSEN (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1715
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE- ARD ALPHA HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4851
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: DMAX HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22436
+#EXTINF:0 tvg-id="DMax.de" group-title="DE- DOKUMENTAR",DE: DMAX HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1716
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: TLC HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22463
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE- TLC HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1384
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE- KABEL EINS DOKU HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1387
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: WAIDWERK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/24474
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: CRIME+INVESTIGATION HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1748
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: BERGBLICK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86516
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: HGTV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86517
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: BONGUSTO HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86518
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: TRAVELXP HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86519
+#EXTINF:0 tvg-id="WeltDerWunder.de" group-title="DE- DOKUMENTAR",DE: WELT DER WUNDER HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1714
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE- DMAX (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1371
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE- N24 DOKU HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1380
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: ANIXE+ HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1747
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE- ANIXE SERIE HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1370
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE: CURIOSITY CHANNEL HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53354
+#EXTINF:0 tvg-id="ext" group-title="DE- DOKUMENTAR",DE- BIBEL TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23741
+
+#EXTINF:0 tvg-id="ext" group-title="DE- NACHRICHTEN",DE: WELT HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22469
+#EXTINF:0 tvg-id="ext" group-title="DE- NACHRICHTEN",DE: WELT HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1710
+#EXTINF:0 tvg-id="tagesschau24.de" group-title="DE- NACHRICHTEN",DE- TAGESSCHAU 24 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1413
+#EXTINF:0 tvg-id="ext" group-title="DE- NACHRICHTEN",DE- DAS ERSTE HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1412
+#EXTINF:0 tvg-id="ext" group-title="DE- NACHRICHTEN",DE- BILD HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1404
+#EXTINF:0 tvg-id="ext" group-title="DE- NACHRICHTEN",DE- ONE HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1405
+#EXTINF:0 tvg-id="ext" group-title="DE- NACHRICHTEN",DE- EURONEWS (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1379
+#EXTINF:0 tvg-id="ntv.de" group-title="DE- NACHRICHTEN",DE: N-TV HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22441
+#EXTINF:0 tvg-id="ntv.de" group-title="DE- NACHRICHTEN",DE: N-TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1735
+#EXTINF:0 tvg-id="ntv.de" group-title="DE- NACHRICHTEN",DE- N-TV (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1382
+#EXTINF:0 tvg-id="phoenix.de" group-title="DE- NACHRICHTEN",DE- PHOENIX HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1407
+
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: TELE 5 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22462
+#EXTINF:0 tvg-id="Tele5.de" group-title="DE- LIVE TV",DE: TELE 5 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8708
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- TELE 5 (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1383
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- ZDF HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1411
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- ZDF INFO HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1409
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- ZDF NEO HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1410
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- ARTE HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1408
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: VOX HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22468
+#EXTINF:0 tvg-id="Vox.de" group-title="DE- LIVE TV",DE: VOX HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1736
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- VOX (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1385
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: VOXuP HD (h265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53283
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: VOXuP HD+ (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53282
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- VOXUP (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1356
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: SIXX HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22449
+#EXTINF:0 tvg-id="Sixx.de" group-title="DE- LIVE TV",DE: SIXX HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1737
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- SIXX (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1386
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: KABEL EINS HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22440
+#EXTINF:0 tvg-id="Kabel.de" group-title="DE- LIVE TV",DE: KABEL EINS HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1745
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- KABEL EINS (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1388
+#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="DE- LIVE TV",DE: Kabel Eins Classics HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8707
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: PROSIEBEN HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/30899
+#EXTINF:0 tvg-id="Pro7.de" group-title="DE- LIVE TV",DE: PROSIEBEN HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1744
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: PRO7 MAXX HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/49860
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="DE- LIVE TV",DE: PRO7 MAXX HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1743
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- PROSIEBEN (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1390
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- Pro7 MAXX (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1389
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: SAT 1 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22448
+#EXTINF:0 tvg-id="Sat1.de" group-title="DE- LIVE TV",DE: SAT 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1739
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- SAT 1 (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1394
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: SAT 1 GOLD HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22447
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="DE- LIVE TV",DE: SAT 1 GOLD HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1738
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- SAT 1 GOLD (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1393
+#EXTINF:0 tvg-id="Sat1Comedy.de" group-title="DE- LIVE TV",DE: SAT 1 EMOTIONS
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14022
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: RTL HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22445
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: RTL HD+ (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1741
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- RTL (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1403
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: RTL 2 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22446
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: RTL 2 HD+ (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1740
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- RTL 2 (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1402
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: RTLup HD (h265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53281
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: RTLup HD+ (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53280
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- RTLup (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1401
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: RTL CRIME HD+ (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53284
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: RTL LIVING HD+ (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53285
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: RTL PASSION HD+ (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53286
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- SR FERNSEHEN HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1365
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- SWR BW HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1364
+#EXTINF:0 tvg-id="3sat.de" group-title="DE- LIVE TV",DE- 3 SAT HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1366
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- MDR HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4853
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- NDR HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8706
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- WDR HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1733
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- RBB Berlin HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4855
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- HR Fernsehen HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/4854
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- BR Fernsehen HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/34052
+#EXTINF:0 tvg-id="ServusHD.de" group-title="DE- LIVE TV",DE: SERVUS TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1734
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- K-TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/49958
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DEM: JUKEBOX (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1729
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DEM: MTV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1732
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DEM- MTV GERMANY (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1368
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DEM: DELUXE MUSIC HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1731
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DEM- FOLX MUSIC TELEVISION
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46896
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- MEI MUSI TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2349
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- Volksmusik TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/34049
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="DE- LIVE TV",DE: PROSIEBEN FUN HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53667
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DEM: MTV 00S
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/83662
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: SONY CHANNEL HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53668
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: SONY AXN FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85512
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: WEDO MOVIES FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85513
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DEM: MAGENTA MUSIK 1 FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85515
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DEM: MAGENTA MUSIK 2 FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85516
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: BALLERMAN TV FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85518
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: SCHLAGERPARADIES TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85519
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: ZWEI MUSIC TELEVISION FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85520
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: STINGRAY CLASSICA FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85521
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: STINGRAY ICONCERTS FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85522
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: STINGRAY DJAZZ FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85523
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: MARCO POLO TV FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85524
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE: OUTTV FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85526
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DEM- ONE MUSIC TELEVISION
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85517
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",TV INGOLSTADT HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/34046
+#EXTINF:0 tvg-id="ext" group-title="DE- LIVE TV",DE- Channel21 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23744
+
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE- COMEDY CENTRAL HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1376
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE- NICK COMEDY CENTRAL+1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46897
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE: Super RTL HD+ (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1726
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE- SUPER RTL (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1399
+#EXTINF:0 tvg-id="Boomerang.de" group-title="DE- KINDER",DE: BOOMERANG HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1720
+#EXTINF:0 tvg-id="disneychannel.de" group-title="DE- KINDER",DE: Disney Channel HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1723
+#EXTINF:0 tvg-id="disneychannel.de" group-title="DE- KINDER",DE- DISNEY CHANNEL (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1372
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE: NICK REWIND
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1728
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE- NICKELODEON (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1373
+#EXTINF:0 tvg-id="Junior.de" group-title="DE- KINDER",DE: SKY JUNIOR (HD)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1721
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE: NICK JR HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1727
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="DE- KINDER",DE: CARTOON NETWORK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1722
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE- TOGGO PLUS (RTL+)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1374
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE- KIKA HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1375
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE: FIX&FOXI HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53653
+#EXTINF:0 tvg-id="Nicktoons.de" group-title="DE- KINDER",DE: NICKTOONS HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/21157
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE: CARTOONITO HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86520
+#EXTINF:0 tvg-id="ext" group-title="DE- KINDER",DE: CRACTION HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86521
+#EXTINF:0 tvg-id="RiC.de" group-title="DE- KINDER",DE: RIC HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86522
+
+#EXTINF:0 tvg-id="SRF1.ch" group-title="CH- SWITZERLAND",CH: SRF 1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8747
+#EXTINF:0 tvg-id="ext" group-title="CH- SWITZERLAND",CH: SRF info HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8748
+#EXTINF:0 tvg-id="ext" group-title="CH- SWITZERLAND",CH: SRF zwei HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8746
+#EXTINF:0 tvg-id="ext" group-title="CH- SWITZERLAND",CH: RTS Deux HD (FR)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/7818
+#EXTINF:0 tvg-id="ext" group-title="CH- SWITZERLAND",CH: RTS Un HD (FR)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/7819
+#EXTINF:0 tvg-id="ext" group-title="CH- SWITZERLAND",CH: 3+ HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53518
+
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT NEWS HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1550
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT NEWS H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22459
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT TOP EVENT HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53648
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT TOP EVENT H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53663
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT TOP EVENT 2K-H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53664
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT TENNIS HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53649
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT PREMIER LEAGUE HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53650
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT GOLF HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53651
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT MIX HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53652
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1549
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN 1 H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17604
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN 1 2K-H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10236
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN 2 BAR HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1548
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN 2 Bar H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17605
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN 2 BAR 2K-H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10235
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: EUROSPORT 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1547
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17601
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: EUROSPORT 1 2K-H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10234
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: EUROSPORT 2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1546
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: EUROSPORT 2 H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17602
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: EUROSPORT 2 2K-H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10233
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT F1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23480
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT F1 H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23481
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 1 H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17606
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1541
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10867
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 3 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10868
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 4 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10869
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 5 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23736
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 6 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23737
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT AUSTRIA 7 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23738
+#EXTINF:0 tvg-id="sportdigital.de" group-title="DE - SPORT",DSP: SPORTDIGITAL HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1544
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: ORF SPORT+ HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1553
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP:  SPORT1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1377
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SPORT1 H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17607
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: ORF SPORT+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1552
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SPORT1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1542
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SPORTS1+ HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/34045
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MOTORVISION TV HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1543
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1540
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1539
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 3 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1538
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 4 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1537
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 5 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1536
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 6 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1535
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 7 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1534
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 8 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1533
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 9 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14312
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 10 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14311
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 2K-H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53665
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53662
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53647
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 1 2K-H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10237
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 1 H265
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17600
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1529
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1528
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 3 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1527
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 4 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1526
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 5 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1525
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 6 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1524
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 7 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1523
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 8 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1522
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 9 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1521
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 10 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1520
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1519
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 2 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1518
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 3 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1517
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 4 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1516
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 5 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1515
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 6 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1514
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 7 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1513
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 8 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1512
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 9 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1511
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 10 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1510
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1508
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 2 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1507
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 3 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1506
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 4 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1505
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 5 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1504
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 6 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1503
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 7 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1502
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 8 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1501
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 9 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1500
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: BUNDESLIGA 10 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1499
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 1
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53290
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 2
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53291
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 3
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53292
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 4
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53293
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 5
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53294
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 6
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53295
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 7
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53296
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 8
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53297
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 9
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53298
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 10
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53299
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 11
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53300
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 12
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53301
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 13
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53302
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 14
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53303
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 15
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53304
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 16
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53305
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DAZN Event 17
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53306
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Fussball 1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23726
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Fussball 2 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23727
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Fussball 3 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23728
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Fussball 4 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23729
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Fussball 5 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23730
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Fussball 6 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23731
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Fussball 7 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23732
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Fussball 8 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23733
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Eishockey 1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53307
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Eishockey 2 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53308
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Eishockey 3 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53309
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Eishockey 4 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53310
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Eishockey 5 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53669
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Eishockey 6 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53671
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Telekom Eishockey 7 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53672
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: 3. FUSSBALL-LIGA 2
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53337
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: 3. FUSSBALL-LIGA 3
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53338
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: 3. FUSSBALL-LIGA 4
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53339
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: 3. FUSSBALL-LIGA 5
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53340
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: 3. FUSSBALL-LIGA 6
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53341
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: 3. FUSSBALL-LIGA 7
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53342
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: 3. FUSSBALL-LIGA 8
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53343
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY Sport UHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53374
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: Auto Motor Sport HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/8710
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 4 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53314
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 5 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53315
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 6 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53316
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 7 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53317
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 8 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53318
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 9 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53319
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 10 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53320
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 11 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53321
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 12 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53322
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 13 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53323
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 14 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53324
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 15 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53325
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 16 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53326
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 17 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53327
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 18 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53328
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53311
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53312
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV 3 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53313
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: PRIME VID. SPORTSBAR HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/40735
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SKY SPORT 11 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85501
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SPORT1+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85504
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: ESPORTS FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85505
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: RED BULL TV FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85506
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: INPLUS TV FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85507
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: SERVUS TV MOTORSPORT FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85508
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MORE THAN SPORTS TV FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85509
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MS SPORT
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85510
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85528
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: MYTEAMTV INFO FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85529
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DYN MEDIA 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85530
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DYN MEDIA 2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85531
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DYN MEDIA 3 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85532
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DYN MEDIA 4 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85533
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DYN MEDIA 5 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85534
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DYN MEDIA 6 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85535
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DYN MEDIA 7 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85536
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DYN MEDIA 8 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85537
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DYN MEDIA 9 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85538
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DSP: DYN MEDIA 10 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85539
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DE: Telekom Basketball 1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53674
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DE: Telekom Basketball 2 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53675
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DE: Telekom Basketball 3 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53676
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DE: Telekom Basketball 4 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53677
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DE: Telekom Basketball 5 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53678
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DE: Telekom Basketball 6 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53679
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DE: Telekom Basketball 7 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53680
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DE: Telekom Basketball 8 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53681
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DE: Telekom Basketball 9 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53682
+#EXTINF:0 tvg-id="ext" group-title="DE - SPORT",DE: MYTEAMTV FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86536
+
+#EXTINF:0 tvg-id="ext" group-title="AT- AUSTRIA",AT: ORF 1
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2387
+#EXTINF:0 tvg-id="ORF1.at" group-title="AT- AUSTRIA",AT: ORF 1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2386
+#EXTINF:0 tvg-id="ext" group-title="AT- AUSTRIA",AT: ORF 2
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2385
+#EXTINF:0 tvg-id="ORF2.at" group-title="AT- AUSTRIA",AT: ORF 2 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2384
+#EXTINF:0 tvg-id="ext" group-title="AT- AUSTRIA",AT: ORF 3
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2383
+#EXTINF:0 tvg-id="ORF3.at" group-title="AT- AUSTRIA",AT: ORF 3 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2382
+#EXTINF:0 tvg-id="ATV.de" group-title="AT- AUSTRIA",AT: ATV HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2380
+#EXTINF:0 tvg-id="ext" group-title="AT- AUSTRIA",AT: ATV2
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2379
+#EXTINF:0 tvg-id="ext" group-title="AT- AUSTRIA",AT: PULS 4 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/7811
+#EXTINF:0 tvg-id="ext" group-title="AT- AUSTRIA",AT: PULS 24 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/49932
+#EXTINF:0 tvg-id="ext" group-title="AT- AUSTRIA",AT: SERVUS TV  HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2374
+#EXTINF:0 tvg-id="ext" group-title="AT- AUSTRIA",AT- DMAX
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/2365
+
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",News- TRT WORLD HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1482
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",News- A NEWS HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1481
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- CNN TÜRK HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22673
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- CNN TÜRK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1022
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- TRT HABER HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/23807
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- TRT HABER HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1026
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- HABERTÜRK HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22666
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- HABERTÜRK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1024
+#EXTINF:0 tvg-id="24.tr" group-title="TR- HABER",TRH- 24 HABER HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22661
+#EXTINF:0 tvg-id="24.tr" group-title="TR- HABER",TRH- 24 HABER HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1028
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- A HABER HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22663
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- A HABER HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1027
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- A PARA HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1030
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- TV 100 (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22670
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- TV 100 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1279
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- HABER GLOBAL HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22667
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- HABER GLOBAL HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1021
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- TV NET HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22697
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- TV NET HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1032
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- NTV HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22662
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- NTV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1025
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- AKIT TV HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22669
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- AKIT TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1033
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- ÜLKE TV HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22665
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- ÜLKE TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1031
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- HALK TV HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22675
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- HALK TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1019
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- KRT TV HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22668
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- KRT TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1020
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- TELE 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1018
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- FLASH HABER HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/53245
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- Sözcü TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/83104
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- Cadde TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/83105
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- BLOOMBERGHT HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1029
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- EKOTURK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10322
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- TGRT HABER HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1034
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- ULUSAL KANAL
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1023
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- ON4 HABER TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10871
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- LIDER HABER HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1261
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH- TURK HABER FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85499
+#EXTINF:0 tvg-id="ext" group-title="TR- HABER",TRH: TH TURKHABER HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/86525
+
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TARiH TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85585
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TRT 1 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22685
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TRT 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1200
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TRT 1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1199
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TRT 2 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22689
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TRT 2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1167
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TRT TÜRK HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22686
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TRT TÜRK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1170
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TRT AVAZ FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1169
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- ATV HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22684
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- ATV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1198
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- ATV HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1197
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- ATV EU
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1196
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- NOW (FOX) TV HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22681
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- NOW (FOX)  HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1187
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- NOW (FOX)  HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1186
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- KANAL D HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22679
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- KANAL D HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1195
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- KANAL D HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1194
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- KANAL D EU
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1193
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- STAR TV HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22680
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- STAR TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1192
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- STAR TV HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1191
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- STAR EU
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1190
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- SHOW TV HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22688
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- SHOW TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1189
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- SHOW TV HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1188
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- SHOW MAX HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1179
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- SHOW TÜRK HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1180
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TV8 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22683
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TV8 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1185
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TV8 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1184
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TV 8.5 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22682
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TV 8.5 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1182
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TV 8.5 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1181
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TV8 INT EU
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1183
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- BEYAZ TV HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22691
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- BEYAZ TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1172
+#EXTINF:0 tvg-id="360.tr" group-title="TR- ULUSAL",TR- 360 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22693
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- 360 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1151
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- Teve2 HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22692
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- Teve2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1175
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- A2 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22700
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- A2 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1171
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TV 4 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22696
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TV 4 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1159
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- KANAL 7 HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22690
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- KANAL 7 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1178
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- KANAL 7 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1177
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- KANAL 7 EU HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1176
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TGRT EU
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1150
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- CAN TV HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1174
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- KANAL AVRUPA
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1153
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- CEM TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1173
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- YOL TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1605
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TLC HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1166
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TEMPO TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10940
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TR- TVO
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14321
+#EXTINF:0 tvg-id="ext" group-title="TR- ULUSAL",TRM- YILDIZ EN
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/18057
+
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRH- KUDUS TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1036
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- TRT ARABIC HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1437
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- DIYANET TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1310
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- SEMERKAND TV HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1308
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- REHBER TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1303
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- DOST TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1301
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- KARDELEN TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14310
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- SUPER TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46976
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- FM TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14327
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- ES TV ESKISEHIR
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1306
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- BERAT TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10323
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- EDESSA TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17685
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- YASIN TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17808
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- DIYAR TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10873
+#EXTINF:0 tvg-id="ext" group-title="TR- DİNİ KANALLAR",TRD- GONCA TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/20851
+
+#EXTINF:0 tvg-id="ext" group-title="TR- BELGESEL",TRB- TRT BELGESEL HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22676
+#EXTINF:0 tvg-id="ext" group-title="TR- BELGESEL",TRB- TRT BELGESEL HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1235
+#EXTINF:0 tvg-id="ext" group-title="TR- BELGESEL",TRB: DMAX FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1234
+#EXTINF:0 tvg-id="ext" group-title="TR- BELGESEL",TRB- CIFTCI TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1240
+#EXTINF:0 tvg-id="ext" group-title="TR- BELGESEL",TRB: INSIGHT TV HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/20831
+
+#EXTINF:0 tvg-id="ext" group-title="TR- SPOR",TRS: BEINSPORTS HABER HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1606
+#EXTINF:0 tvg-id="ext" group-title="TR- SPOR",TRS- A SPOR HD+ (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22664
+#EXTINF:0 tvg-id="ext" group-title="TR- SPOR",TRS- A SPOR HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1222
+#EXTINF:0 tvg-id="ext" group-title="TR- SPOR",TRS- TRT SPOR 1 HD (H265)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/22671
+#EXTINF:0 tvg-id="ext" group-title="TR- SPOR",TRS- TRT SPOR 1 HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1225
+#EXTINF:0 tvg-id="ext" group-title="TR- SPOR",TRS- TRT SPOR YILDIZ HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/47247
+#EXTINF:0 tvg-id="ext" group-title="TR- SPOR",TRS- FB TV HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1227
+#EXTINF:0 tvg-id="ext" group-title="TR- SPOR",TRS: TJK TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14224
+#EXTINF:0 tvg-id="ext" group-title="TR- SPOR",TRS- TAY TV HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1228
+#EXTINF:0 tvg-id="ext" group-title="TR- SPOR",TRS- SPORTS TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1226
+
+#EXTINF:0 tvg-id="ext" group-title="TR- ÇOCUK",TRC- TRT ÇOCUK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1646
+#EXTINF:0 tvg-id="ext" group-title="TR- ÇOCUK",TRC- MİNİKA GO
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1635
+#EXTINF:0 tvg-id="ext" group-title="TR- ÇOCUK",TRC- MİNİKA ÇOCUK
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1636
+#EXTINF:0 tvg-id="ext" group-title="TR- ÇOCUK",TRC- CARTOON NETWORK FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1639
+#EXTINF:0 tvg-id="ext" group-title="TR- ÇOCUK",TRT EBA TV - ORTAOKUL
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/20840
+#EXTINF:0 tvg-id="ext" group-title="TR- ÇOCUK",TR- MOONBUG KIDS TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/85502
+#EXTINF:0 tvg-id="ext" group-title="TR- ÇOCUK",TRC: CARTOONITO TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/46935
+#EXTINF:0 tvg-id="ext" group-title="TR- ÇOCUK",TRC: DUCK TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1644
+
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- TRT MUZIK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1262
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- TMB TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1260
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- DREAM TURK HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1257
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- NR1 TURK
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1258
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- POWER TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1253
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- POWER TURK HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1259
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- TATLISES TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1255
+#EXTINF:0 tvg-id="24.tr" group-title="TR- MÜZİK",TRM- DREAM TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1251
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- SLOW KARADENİZ TV
+https://yayin.slowkaradeniztv.com:3390/multi_web/play_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- RİZE TÜRK TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/83778
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",Radyo- TRT TÜRKÜ CANLI
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/83776
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",Radyo - TRT NAGME CANLI
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/20844
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",Radyo - PAL DOGA CANLI
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/20845
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",Radyo - ARABESK CANLI
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/20846
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",Radyo - ANKARA HAVALARI
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/20847
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- NR1 TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1252
+#EXTINF:0 tvg-id="ext" group-title="TR- MÜZİK",TRM- MILYON TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/83779
+
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- TEK RUMELI TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/13208
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- TV 52 (ORDU)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14330
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KANAL V ANTALYA
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1236
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- YENI KOCAELI TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14309
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- TVDEN
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14320
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- BRTV B KRDNIZ
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14322
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- ER TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1287
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- VIZYON 58 TV SIVAS
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1282
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KANAL 3 ISPARTA
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1278
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KANAL 42  KONYA
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1293
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KANAL 43 KUTAHYA
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1276
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KANAL FIRAT ELAZIG
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1285
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KANAL T KIBRIS
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1264
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KANAL URFA
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1283
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- BRT 2 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1269
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- CAY TV RIZE
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1288
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KIBRIS ADA TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1267
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- HRT AKDENIZ TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1297
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KIBRIS DIYALOG TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1265
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KIBRIS GENC TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1263
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KIBRIS TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1268
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- BRT 1 HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1270
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- ORDU ALTAS TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17594
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- RUMELI TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/20852
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KON TV KONYA
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1294
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KOZA TV ADANA
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1275
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- PAMUKKALE TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1280
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- SIM TV KIBRIS
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1266
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- TV 1 KAYSERI
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1289
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- TV A ADANA
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1274
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- TV KAYSERI
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1290
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- AKSU TV (K.maras)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10882
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- GÜNEYDOGU TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10880
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KANAL 33 (Mersin)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10872
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- TON TV - Canakkale
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10942
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- TV 41 - Kocaeli
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/10941
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- A VUSLAT TV (Malatya)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/14211
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- KANAL 32 (ISPARTA)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17686
+#EXTINF:0 tvg-id="ext" group-title="TR- YEREL",TRY- MERCAN TV (ADIYAMAN)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/17807
+
+#EXTINF:0 tvg-id="ext" group-title="KR- KURDISCH",KR- KURDISTAN TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1337
+#EXTINF:0 tvg-id="ext" group-title="KR- KURDISCH",KR- KURDISTAN24 FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1339
+#EXTINF:0 tvg-id="ext" group-title="KR- KURDISCH",KR- ZAGROS TV HD+
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1329
+#EXTINF:0 tvg-id="ext" group-title="KR- KURDISCH",KR- Kurd Channel HD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/49933
+#EXTINF:0 tvg-id="ext" group-title="KR- KURDISCH",KR- GK TV
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1342
+#EXTINF:0 tvg-id="ext" group-title="KR- KURDISCH",KR- Kurdmax HD (Kur)
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1348
+#EXTINF:0 tvg-id="ext" group-title="KR- KURDISCH",KR- TRT KURDI FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1168
+#EXTINF:0 tvg-id="ext" group-title="KR- KURDISCH",KR- NRT1 FHD
+http://160.19.94.16:8080/Vip_serNeu/CkDQ2ZytjJhJ/1324
+
