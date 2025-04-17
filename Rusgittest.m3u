@@ -1,0 +1,284 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",01 Первый канал
+http://178.212.71.253:8000/play/1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",02 Россия 1
+http://178.212.71.253:8000/play/2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",03 Матч!
+http://178.212.71.253:8000/play/3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",04 НТВ
+http://178.212.71.253:8000/play/4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",05 5 Канал
+http://178.212.71.253:8000/play/5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",06 Культура
+http://178.212.71.253:8000/play/6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",07 Россия 24
+http://178.212.71.253:8000/play/7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",08 Карусель
+http://178.212.71.253:8000/play/8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",09 ОТР
+http://178.212.71.253:8000/play/9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",10 ТВЦ
+http://178.212.71.253:8000/play/10/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",11 РЕН ТВ
+http://178.212.71.253:8000/play/11/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",12 Спас
+http://178.212.71.253:8000/play/12/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",13 СТС
+http://178.212.71.253:8000/play/13/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",14 Домашний
+http://178.212.71.253:8000/play/14/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",15 ТВ3
+http://178.212.71.253:8000/play/15/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",16 Пятница
+http://178.212.71.253:8000/play/16/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",17 Звезда
+http://178.212.71.253:8000/play/17/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",18 Мир
+http://178.212.71.253:8000/play/18/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",19 ТНТ
+http://178.212.71.253:8000/play/19/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",20 Муз
+http://178.212.71.253:8000/play/20/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",22 Первый Крымский
+http://178.212.71.253:8000/play/22/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",23 Мир 24
+http://178.212.71.253:8000/play/23/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24 Милет
+http://178.212.71.253:8000/play/24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",25 Первый Крымский HD
+http://178.212.71.253:8000/play/25/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",26 Крым 24 HD
+http://178.212.71.253:8000/play/26/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",27 Ялта ТВ
+http://178.212.71.253:8000/play/27/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",28 Москва 24
+http://178.212.71.253:8000/play/28/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",29 ИКС
+http://178.212.71.253:8000/play/29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",31 Mezzo
+http://178.212.71.253:8000/play/31/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",32 Витрина
+http://178.212.71.253:8000/play/32/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",33 НТВ HD
+http://178.212.71.253:8000/play/33/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",34 Матч! HD
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",35 Ювелирочка
+http://178.212.71.253:8000/play/35/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",36 РБК
+http://178.212.71.253:8000/play/36/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",37 ТРО
+http://178.212.71.253:8000/play/37/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",39 Телеканал 360
+http://178.212.71.253:8000/play/39/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",40 Cinema
+http://178.212.71.253:8000/play/40/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",41 Центральное ТВ
+http://178.212.71.253:8000/play/41/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",42 Русский Роман
+http://178.212.71.253:8000/play/42/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",43 МузСоюз
+http://178.212.71.253:8000/play/43/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",44 Сарафан
+http://178.212.71.253:8000/play/44/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",45 Русский Детектив
+http://178.212.71.253:8000/play/45/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",46 Радость Моя
+http://178.212.71.253:8000/play/46/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",47 Мульт
+http://178.212.71.253:8000/play/47/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",48 NewsFront
+http://178.212.71.253:8000/play/48/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",49 Русский Иллюзион
+http://178.212.71.253:8000/play/49/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",50 Любимое кино
+http://178.212.71.253:8000/play/50/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",51 Матч!Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",52 Детский Мир
+http://178.212.71.253:8000/play/52/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",53 Москва Доверие
+http://178.212.71.253:8000/play/53/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",54 Матч!Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",55 Матч!Борец
+http://178.212.71.253:8000/play/55/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",56 Матч!Игра
+http://178.212.71.253:8000/play/56/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",57 Матч!Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",58 Матч!Футбол1
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",59 ZeeTV
+http://178.212.71.253:8000/play/59/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",60 MezzoLiveHD
+http://178.212.71.253:8000/play/60/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",61 HD life
+http://178.212.71.253:8000/play/61/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",62 Первый канал HD
+http://178.212.71.253:8000/play/62/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",63 Техно 24
+http://178.212.71.253:8000/play/63/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",64 Киносерия
+http://178.212.71.253:8000/play/64/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",65 MusicBox RU
+http://178.212.71.253:8000/play/65/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",66 KinoSat
+http://178.212.71.253:8000/play/66/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",67 365 дней
+http://178.212.71.253:8000/play/67/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",68 Доктор
+http://178.212.71.253:8000/play/68/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",69 Авто плюс
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",70 Киномикс
+http://178.212.71.253:8000/play/70/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",71 RTG
+http://178.212.71.253:8000/play/71/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",72 Россия1 HD
+http://178.212.71.253:8000/play/72/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",73 Наша Тема
+http://178.212.71.253:8000/play/73/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",74 Ani
+http://178.212.71.253:8000/play/74/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",75 Суббота
+http://178.212.71.253:8000/play/75/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",76 Шансон
+http://178.212.71.253:8000/play/76/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",77 Bober
+http://178.212.71.253:8000/play/77/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",78 Кино ТВ
+http://178.212.71.253:8000/play/78/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",79 Живая Природа HD
+http://178.212.71.253:8000/play/79/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",80 Союз
+http://178.212.71.253:8000/play/80/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",81 Tанцуй
+http://178.212.71.253:8000/play/81/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",82 Мир24 HD
+http://178.212.71.253:8000/play/82/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",83 BigAsia
+http://178.212.71.253:8000/play/83/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",84 Вместе РФ
+http://178.212.71.253:8000/play/84/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",85 КиноКомедия
+http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",86 Мама
+http://178.212.71.253:8000/play/86/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",87 История
+http://178.212.71.253:8000/play/87/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",88 Наука
+http://178.212.71.253:8000/play/88/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",89 Беларусь 24
+http://178.212.71.253:8000/play/89/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",90 Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",91 Усадьба
+http://178.212.71.253:8000/play/91/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",92 Драйв
+http://178.212.71.253:8000/play/92/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",93 Охота и Рыбалка
+http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",94 Здоровое ТВ
+http://178.212.71.253:8000/play/94/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",95 Домашние животные
+http://178.212.71.253:8000/play/95/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",96 Психология
+http://178.212.71.253:8000/play/96/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",97 Вопросы и ответы
+http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",98 Bridge HD
+http://178.212.71.253:8000/play/98/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",99 Дом Кино
+http://178.212.71.253:8000/play/99/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I00 НСтрашноеТВ
+http://178.212.71.253:8000/play/100/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I01 Bridge Fresh
+http://178.212.71.253:8000/play/101/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I02RT
+http://178.212.71.253:8000/play/102/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I03 Cолнце
+http://178.212.71.253:8000/play/103/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I04 CTC love
+http://178.212.71.253:8000/play/104/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I05 Ю
+http://178.212.71.253:8000/play/105/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I06 ТНТ4
+http://178.212.71.253:8000/play/106/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I07 Fashion
+http://178.212.71.253:8000/play/107/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I08 Конный Мир
+http://178.212.71.253:8000/play/108/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I09 RT doc
+http://178.212.71.253:8000/play/109/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I10 Bridge
+http://178.212.71.253:8000/play/110/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I11 Соловьев Live
+http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I12 CTCkids
+http://178.212.71.253:8000/play/112/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I13 2x2
+http://178.212.71.253:8000/play/113/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I14 Живая Планета
+http://178.212.71.253:8000/play/114/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I15 Русский Бестселер
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I16 Мульт и Музыка
+http://178.212.71.253:8000/play/116/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I17 Моя Планета
+http://178.212.71.253:8000/play/117/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I18 Русский Экстрим
+http://178.212.71.253:8000/play/118/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I19 КВН
+http://178.212.71.253:8000/play/119/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I21 8 Kanal
+http://178.212.71.253:8000/play/121/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I22 Киносвидание
+http://178.212.71.253:8000/play/122/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I23 КиноХит
+http://178.212.71.253:8000/play/123/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I24 Мосфильм
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I25 Кинопремьера HD
+http://178.212.71.253:8000/play/125/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I26 Мужское Кино
+http://178.212.71.253:8000/play/126/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I27 Киносемья
+http://178.212.71.253:8000/play/127/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I28 Наше Новое Кино
+http://178.212.71.253:8000/play/128/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I29 Победа
+http://178.212.71.253:8000/play/129/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I30 Звезда+
+http://178.212.71.253:8000/play/130/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I31 Ностальгия
+http://178.212.71.253:8000/play/131/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I32 Кто Есть Кто
+http://178.212.71.253:8000/play/132/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I33 КиноУжас
+http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I34 BridgeTV Hit
+http://178.212.71.253:8000/play/134/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I35 BridgeTV classic
+http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I36 Родное Кино
+http://178.212.71.253:8000/play/136/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I37 TNT music
+http://178.212.71.253:8000/play/137/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I38 Izvestiya
+http://178.212.71.253:8000/play/138/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I39 Че
+http://178.212.71.253:8000/play/139/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I40 Продвижение
+http://178.212.71.253:8000/play/140/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I41 Жара
+http://178.212.71.253:8000/play/141/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I42 Bridge Shlyager
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",I43 Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",38 Krym_Gost
+http://178.212.71.253:8000/play/381/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",38 RUtv
+http://178.212.71.253:8000/play/38/index.m3u8
+
