@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Audio M3U Player</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #282c34;
+      color: white;
+      display: flex;
+      min-height: 100vh;
+      justify-content: flex-start;
+      transform: scale(0.9);
+      transform-origin: top left;
+    }
+
+    .container {
+      display: flex;
+      width: 100%;
+      max-width: 1400px;
+      margin: 20px auto;
+      padding: 15px;
+      background: #444;
+      border-radius: 10px;
+    }
+
+    .left-sidebar {
+      width: 220px;
+      background: #333;
+      padding: 8px;
+      border-radius: 5px;
+      margin-right: 15px;
+    }
+
+    .group-container {
+      max-height: 350px;
+      overflow-y: auto;
+    }
+
+    .left-sidebar h3 {
+      font-size: 14px;
+      color: white;
+      margin-bottom: 10px;
+    }
+
+    button {
+      padding: 8px;
+      margin: 5px 0;
+      width: 100%;
+      font-size: 12px;
+      border: none;
+      border-radius: 5px;
+      background-color: #28a745;
+      color: white;
+      cursor: pointer;
+      display: block;
+    }
+
+    button:hover {
+      background-color: #218838;
+    }
+
+    audio {
+      width: 100%;
+      margin-top: 8px;
+    }
+
+    .playlist-container {
+      max-height: 250px;
+      overflow-y: auto;
+      border: 1px solid #666;
+      border-radius: 5px;
+      margin-top: 10px;
+      padding: 5px;
+      background: #333;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    ul li {
+      font-size: 12px;
+      background: #666;
+      padding: 8px;
+      margin: 3px;
+      cursor: pointer;
+      border-radius: 5px;
+      transition: background 0.3s;
+      word-wrap: break-word;
+      white-space: normal;
+    }
+
+    ul li:hover {
+      background: #888;
+    }
+
+    .group {
+      font-size: 12px;
+      padding: 6px;
+      margin-bottom: 4px;
+      background: #444;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .group.active {
+      background: #28a745;
+    }
+
+    .search-container {
+      margin-top: 10px;
+      display: flex;
+      gap: 5px;
+    }
+
+    .search-container input {
+      width: 100%;
+      padding: 6px;
+      font-size: 12px;
+      border-radius: 5px;
+      border: none;
+      outline: none;
+    }
+
+    .favorites-container {
+      margin-top: 20px;
+    }
+
+    .favorites-list {
+      max-height: 200px;
+      overflow-y: auto;
+      border: 1px solid #666;
+      border-radius: 5px;
+      padding: 5px;
+      background: #333;
+      margin-top: 10px;
+    }
+
+    .reset-favorites {
+      background-color: #dc3545;
+      color: white;
+      border: none;
+      padding: 10px;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-top: 10px;
+      display: block;
+    }
+
+    .audio-player-container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 10px;
+    }
+
+    .audio-player-container button {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background-color: #007bff;
+      border: none;
+      color: white;
+      font-size: 18px;
+      cursor: pointer;
+    }
+
+    .audio-player-container button:hover {
+      background-color: #0056b3;
+    }
+
+    .playlist-controls {
+      display: flex;
+      justify-content: flex-start;
+      margin-bottom: 10px;
+      gap: 10px;
+    }
+
+    .playlist-controls button {
+      width: 60px;
+      height: 40px;
+      border-radius: 5px;
+      background-color: #007bff;
+      border: none;
+      color: white;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    .track-info {
+      font-size: 14px;
+      color: white;
+      margin-top: 10px;
+    }
+
+    .track-info span {
+      font-weight: bold;
+    }
+
+    .control-slider {
+      width: 100%;
+      margin-top: 15px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .slider-label {
+      color: white;
+      font-size: 12px;
+      text-align: left;
+    }
+
+    .seek-slider input, .volume-slider input {
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="left-sidebar">
+      <h3>Genres</h3>
+      <button onclick="loadM3U()">Load Playlist</button>
+      <div class="group-container" id="groupList"></div>
+    </div>
+
+    <div class="right-side">
+      <audio id="audioPlayer" controls autoplay>
+        <source id="audioSource" src="" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
+
+      <div class="track-info" id="trackInfo"><span id="trackName">No track playing</span></div>
+
+      <div class="playlist-controls">
+        <button onclick="prevTrack()">◁</button>
+        <button onclick="nextTrack()">▷</button>
+        <button onclick="shuffleTrack()">Shuffle</button>
+      </div>
+
+      <div class="playlist-container">
+        <ul id="channelList"></ul>
+      </div>
+
+      <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search MP3..." />
+        <button onclick="filterChannels()">Search</button>
+      </div>
+
+      <div class="favorites-container">
+        <h3>Favorites</h3>
+        <div class="favorites-list" id="favoritesList"></div>
+        <button class="reset-favorites" onclick="resetFavorites()">Reset</button>
+      </div>
+
+      <div class="control-slider">
+        <div class="slider-label">Seek</div>
+        <input type="range" id="seekSlider" value="0" step="1" min="0" max="100" onchange="seekAudio()" />
+
+        <div class="slider-label">Volume</div>
+        <input type="range" id="volumeSlider" value="100" step="1" min="0" max="100" onchange="changeVolume()" />
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const m3uUrl = "https://m3u.ch/mI1s57bb.m3u";
+    let channelsByGroup = { All: [] };
+    let currentGroup = "All";
+    let allChannels = [];
+    let displayedChannels = [];
+    let favorites = [];
+    let currentTrackIndex = 0;
+
+    window.onload = function () {
+      loadM3U();
+      loadFavorites();
+    };
+
+    async function loadM3U() {
+      try {
+        const res = await fetch(m3uUrl);
+        const text = await res.text();
+        parseM3U(text);
+      } catch {
+        alert("Error loading M3U.");
+      }
+    }
+
+    function parseM3U(data) {
+      const lines = data.split("\n");
+      channelsByGroup = { All: [] };
+      allChannels = [];
+
+      for (let i = 0; i < lines.length; i++) {
+        if (lines[i].startsWith("#EXTINF")) {
+          const name = lines[i].split(",")[1]?.trim();
+          const groupMatch = lines[i].match(/group-title="([^"]+)"/);
+          const group = groupMatch ? groupMatch[1] : "Other";
+          const url = lines[i + 1]?.trim();
+          if (url) {
+            const ch = { name, url };
+            if (!channelsByGroup[group]) channelsByGroup[group] = [];
+            channelsByGroup[group].push(ch);
+            channelsByGroup.All.push(ch);
+            allChannels.push({ ...ch, group });
+          }
+        }
+      }
+
+      displayGroups();
+      displayChannels(currentGroup);
+    }
+
+    function displayGroups() {
+      const groupList = document.getElementById("groupList");
+      groupList.innerHTML = "";
+
+      Object.keys(channelsByGroup).forEach((group) => {
+        const div = document.createElement("div");
+        div.className = "group" + (group === currentGroup ? " active" : "");
+        div.textContent = group;
+        div.onclick = () => {
+          currentGroup = group;
+          displayChannels(group);
+          document.querySelectorAll(".group").forEach(el => el.classList.remove("active"));
+          div.classList.add("active");
+        };
+        groupList.appendChild(div);
+      });
+    }
+
+    function displayChannels(group) {
+      const list = document.getElementById("channelList");
+      list.innerHTML = "";
+      displayedChannels = channelsByGroup[group];
+      displayedChannels.forEach(ch => {
+        const li = document.createElement("li");
+        li.textContent = ch.name;
+        li.onclick = () => playChannel(ch.name, ch.url);
+        list.appendChild(li);
+      });
+    }
+
+    function playChannel(name, url) {
+      const audio = document.getElementById("audioPlayer");
+      document.getElementById("audioSource").src = url;
+      document.getElementById("trackName").textContent = name;
+      audio.load();
+      audio.play();
+      currentTrackIndex = displayedChannels.findIndex(ch => ch.url === url);
+      if (!favorites.some(f => f.url === url)) {
+        favorites.push({ name, url });
+        saveFavorites();
+      }
+      audio.onended = () => nextTrack();
+    }
+
+    function prevTrack() {
+      currentTrackIndex = (currentTrackIndex - 1 + displayedChannels.length) % displayedChannels.length;
+      const ch = displayedChannels[currentTrackIndex];
+      playChannel(ch.name, ch.url);
+    }
+
+    function nextTrack() {
+      currentTrackIndex = (currentTrackIndex + 1) % displayedChannels.length;
+      const ch = displayedChannels[currentTrackIndex];
+      playChannel(ch.name, ch.url);
+    }
+
+    function shuffleTrack() {
+      const rand = Math.floor(Math.random() * displayedChannels.length);
+      const ch = displayedChannels[rand];
+      playChannel(ch.name, ch.url);
+    }
+
+    function filterChannels() {
+      const q = document.getElementById("searchInput").value.toLowerCase();
+      const filtered = channelsByGroup[currentGroup].filter(ch =>
+        ch.name.toLowerCase().includes(q)
+      );
+      displayedChannels = filtered;
+      const list = document.getElementById("channelList");
+      list.innerHTML = "";
+      filtered.forEach(ch => {
+        const li = document.createElement("li");
+        li.textContent = ch.name;
+        li.onclick = () => playChannel(ch.name, ch.url);
+        list.appendChild(li);
+      });
+    }
+
+    function saveFavorites() {
+      localStorage.setItem("favorites", JSON.stringify(favorites));
+      displayFavorites();
+    }
+
+    function loadFavorites() {
+      const saved = localStorage.getItem("favorites");
+      if (saved) {
+        favorites = JSON.parse(saved);
+        displayFavorites();
+      }
+    }
+
+    function displayFavorites() {
+      const list = document.getElementById("favoritesList");
+      list.innerHTML = "";
+      favorites.forEach(fav => {
+        const li = document.createElement("li");
+        li.textContent = fav.name;
+        li.onclick = () => playChannel(fav.name, fav.url);
+        list.appendChild(li);
+      });
+    }
+
+    function resetFavorites() {
+      favorites = [];
+      saveFavorites();
+    }
+
+    function seekAudio() {
+      const seek = document.getElementById("seekSlider");
+      const audio = document.getElementById("audioPlayer");
+      audio.currentTime = (seek.value / 100) * audio.duration;
+    }
+
+    function changeVolume() {
+      const vol = document.getElementById("volumeSlider").value;
+      document.getElementById("audioPlayer").volume = vol / 100;
+    }
+
+    document.getElementById("audioPlayer").ontimeupdate = () => {
+      const audio = document.getElementById("audioPlayer");
+      const seek = document.getElementById("seekSlider");
+      if (audio.duration) {
+        seek.value = (audio.currentTime / audio.duration) * 100;
+      }
+    };
+  </script>
+</body>
+</html>
